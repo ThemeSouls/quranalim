@@ -144,6 +144,33 @@ export const HomeFooter = {
   designedForPeace: "سکون کے لیے ڈیزائن کیا گیا",
 };
 
+export const OurStats = {
+  sectionTitle: "ہمارے اعداد و شمار",
+  sectionSubtitle: "مستند وسائل، بھرپور تحقیقی ٹولز، اور علمی توثیق کے ذریعے عالمی سطح پر اسلامی علم کو فروغ دینا۔",
+  stats: {
+    quran: {
+      value: "114",
+      label: "سورتیں",
+      desc: "مکمل قرآنی سورتیں لفظ بہ لفظ تجزیہ اور متعدد تلاوتوں کے ساتھ۔",
+    },
+    hadith: {
+      value: "20,000+",
+      label: "احادیث",
+      desc: "بخاری، مسلم اور بڑی کتب سے مستند روایات۔",
+    },
+    fiqh: {
+      value: "4",
+      label: "فقہی مسالک",
+      desc: "حنفی، شافعی، مالکی، اور حنبلی فقہ میں عملی احکام۔",
+    },
+    library: {
+      value: "50+",
+      label: "کلاسیکی کتب",
+      desc: "روحانی ادب، تفصیلی تفاسیر، اور مستند سیرت کی کتب۔",
+    },
+  },
+};
+
 export const home = {
   HomeHeader,
   WelcomeHero,
@@ -152,5 +179,6 @@ export const home = {
   ShariahQa,
   CommunityDiscussions,
   FeaturedLibrary,
+  OurStats,
   HomeFooter,
 };

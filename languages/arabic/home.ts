@@ -144,6 +144,33 @@ export const HomeFooter = {
   designedForPeace: "صُمم من أجل السلام",
 };
 
+export const OurStats = {
+  sectionTitle: "إحصائياتنا",
+  sectionSubtitle: "تمكين المعرفة الإسلامية عالميًا من خلال الموارد الأصيلة وأدوات البحث الغنية والتحقق العلمي.",
+  stats: {
+    quran: {
+      value: "114",
+      label: "سورة",
+      desc: "فصول قرآنية كاملة مع تحليل كلمة بكلمة وتلاوات متعددة.",
+    },
+    hadith: {
+      value: "20,000+",
+      label: "حديث",
+      desc: "روايات أصيلة من البخاري ومسلم ومصنفات كبرى.",
+    },
+    fiqh: {
+      value: "4",
+      label: "مذاهب فقهية",
+      desc: "أحكام عملية عبر المذاهب الحنفية والشافعية والمالكية والحنبلية.",
+    },
+    library: {
+      value: "50+",
+      label: "كتب كلاسيكية",
+      desc: "أدب روحي، ورفوف تفسير مفصلة، وكتب سيرة معتمدة.",
+    },
+  },
+};
+
 export const home = {
   HomeHeader,
   WelcomeHero,
@@ -152,5 +179,6 @@ export const home = {
   ShariahQa,
   CommunityDiscussions,
   FeaturedLibrary,
+  OurStats,
   HomeFooter,
 };
