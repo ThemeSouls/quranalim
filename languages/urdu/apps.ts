@@ -46,6 +46,9 @@ export const apps = {
     disclaimer: "دستبرداری - قرآن عالم",
     quranDashboard: "قرآن ڈیش بورڈ - قرآن عالم",
     allSurahs: "تمام قرآنی سورتیں - قرآن عالم",
+    allJuz: "تمام قرآنی پارے - قرآن عالم",
+    allHizb: "تمام قرآنی حزب - قرآن عالم",
+    allManzil: "تمام قرآنی منزلیں - قرآن عالم",
     surah: "سورۃ {surah} - قرآن عالم",
     quranDefault: "قرآن کریم - قرآن عالم"
   }

@@ -3,8 +3,9 @@ import { quran } from "./quran";
 import { dashboard } from "./dashboard";
 import { settings } from "./settings";
 import { components } from "./components";
-import { aboutUs, contactUs, disclaimer, termsAndConditions, privacyPolicy, termsOfService, mainPage } from "./abouts";
+import { aboutUs, contactUs, disclaimer, termsAndConditions, privacyPolicy, termsOfService, mainPage, donate } from "./abouts";
 import { home } from "./home";
+import { apps } from "./apps";
 
 export const content = {
   ...common,
@@ -13,6 +14,7 @@ export const content = {
   ...settings,
   components,
   home,
+  apps,
   abouts: {
     mainPage,
     aboutUs,
@@ -21,5 +23,6 @@ export const content = {
     termsAndConditions,
     privacyPolicy,
     termsOfService,
+    donate,
   },
 };

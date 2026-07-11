@@ -1,6 +1,9 @@
 export const dashboard = {
   quranKareem: "القرآن الکریم",
   welcomeSub: "خوش آمدید، الٰہی حکمت کے لیے آپ کا پورٹل",
+  browseManzil: "منزلیں براؤز کریں",
+  browseHizb: "حزب براؤز کریں",
+  browseJuz: "پارے براؤز کریں",
   browseSurahs: "سورتیں براؤز کریں",
   verseOfTheDay: "آج کی آیت",
   lastRead: "آخری بار پڑھا گیا",
