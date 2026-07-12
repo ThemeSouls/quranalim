@@ -14,6 +14,7 @@ export const allSurahsPage = {
 };
 
 export const mainPage = {
+  readingView: "السور",
   quranKareem: "القرآن الكريم",
   welcomeSub: "مرحبًا بك، بوابتك للحكمة الإلهية",
   browseSurahs: "تصفح السور",
@@ -73,9 +74,10 @@ export const useQuranVerses = {
   offlineEnglish: "وضع عدم الاتصال: تم تحميل الترجمة العربية المخزنة مؤقتًا.",
   internetRequiredEnglish: "يلزم الاتصال بالإنترنت: تتطلب ترجمة هذه السورة وصولاً نشطًا للشبكة.",
   translatorsMap: {
-    "ur.khan": "أحمد رضا خان بریلوی",
     "ur.maududi": "أبو الأعلى المودودي",
     "ur.jalandhry": "فتح محمد جالندھری",
+    "ur.junagarhi": "محمد جوناغري",
+    "ur.khan": "أحمد رضا خان",
     "en.sahih": "صحيح إنترناشونال",
     "en.yusufali": "يوسف علي",
     "en.pickthall": "بيكتثال"
@@ -187,6 +189,21 @@ export const quran = {
   backToReader: "العودة إلى القارئ",
   previousSurah: "السورة السابقة",
   nextSurah: "السورة التالية",
+  currentSurah: "السورة الحالية",
+  hideSidebar: "إخفاء الشريط الجانبي",
+  showSidebar: "إظهار الشريط الجانبي",
+  selectFont: "اختر الخط",
+  changeFontSize: "تغيير حجم الخط",
+  changeFontFamily: "تغيير نوع الخط",
+  surahLabel: "السورة",
+  surahNumberText: "سورة {number}",
+  juzLabel: "الجزء",
+  rukusLabel: "الركوعات",
+  versesLabel: "الآيات",
+  typeMeccanLabel: "مكية",
+  typeMedinanLabel: "مدنية",
+  foundVersesText: "تم العثور على {count} آيات",
+  foundVerseText: "تم العثور على آية واحدة",
   surahs: "السور",
   allJuz: "جميع الأجزاء",
   searchJuzPlaceholder: "ابحث عن الجزء بالاسم أو الرقم أو سورة البداية...",

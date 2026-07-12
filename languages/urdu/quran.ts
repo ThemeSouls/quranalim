@@ -14,6 +14,7 @@ export const allSurahsPage = {
 };
 
 export const mainPage = {
+  readingView: "سورتیں",
   quranKareem: "القرآن الکریم",
   welcomeSub: "خوش آمدید، الٰہی حکمت کے لیے آپ کا پورٹل",
   browseSurahs: "سورتیں براؤز کریں",
@@ -73,9 +74,10 @@ export const useQuranVerses = {
   offlineEnglish: "آف لائن موڈ: محفوظ شدہ اردو ترجمہ لوڈ ہو گیا۔",
   internetRequiredEnglish: "انٹرنیٹ کنکشن درکار ہے: اس سورہ کے ترجمے کے لیے فعال نیٹ ورک تک رسائی درکار ہے۔",
   translatorsMap: {
-    "ur.khan": "احمد رضا خان بریلوی",
     "ur.maududi": "ابو الاعلیٰ مودودی",
     "ur.jalandhry": "فتح محمد جالندھری",
+    "ur.junagarhi": "محمد جوناگڑھی",
+    "ur.khan": "احمد رضا خان",
     "en.sahih": "صحیح انٹرنیشنل",
     "en.yusufali": "یوسف علی",
     "en.pickthall": "پکتھال"
@@ -187,6 +189,21 @@ export const quran = {
   backToReader: "ریڈر پر واپس جائیں",
   previousSurah: "پچھلی سورہ",
   nextSurah: "اگلی سورہ",
+  currentSurah: "موجودہ سورہ",
+  hideSidebar: "سائیڈ بار چھپائیں",
+  showSidebar: "سائیڈ بار دکھائیں",
+  selectFont: "فونٹ منتخب کریں",
+  changeFontSize: "فونٹ کا سائز تبدیل کریں",
+  changeFontFamily: "فونٹ فیملی تبدیل کریں",
+  surahLabel: "سورہ",
+  surahNumberText: "سورہ {number}",
+  juzLabel: "پارہ",
+  rukusLabel: "رکوع",
+  versesLabel: "آیات",
+  typeMeccanLabel: "مکی",
+  typeMedinanLabel: "مدنی",
+  foundVersesText: "{count} آیات ملیں",
+  foundVerseText: "{count} آیت ملی",
   surahs: "سورتیں",
   allJuz: "تمام پارے",
   searchJuzPlaceholder: "نام، نمبر یا شروع ہونے والی سورہ کے مطابق پارہ تلاش کریں...",

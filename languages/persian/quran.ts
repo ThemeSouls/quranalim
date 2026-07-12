@@ -14,6 +14,7 @@ export const allSurahsPage = {
 };
 
 export const mainPage = {
+  readingView: "سوره‌ها",
   quranKareem: "القرآن الکریم",
   welcomeSub: "خوش آمدید، پورتال شما برای حکمت الهی",
   browseSurahs: "مرور سوره‌ها",
@@ -73,9 +74,10 @@ export const useQuranVerses = {
   offlineEnglish: "حالت آفلاین: ترجمه انگلیسی ذخیره شده بارگیری شد.",
   internetRequiredEnglish: "اتصال به اینترنت مورد نیاز است: این ترجمه سوره نیاز به دسترسی فعال به شبکه دارد.",
   translatorsMap: {
-    "ur.khan": "احمد رضا خان بریلوی",
     "ur.maududi": "ابوالاعلی مودودی",
     "ur.jalandhry": "فتح محمد جالندری",
+    "ur.junagarhi": "محمد جوناگری",
+    "ur.khan": "احمد رضا خان",
     "en.sahih": "صحیح بین‌المللی",
     "en.yusufali": "یوسف علی",
     "en.pickthall": "پیکتال"
@@ -187,6 +189,21 @@ export const quran = {
   backToReader: "بازگشت به خواننده",
   previousSurah: "سوره قبلی",
   nextSurah: "سوره بعدی",
+  currentSurah: "سوره فعلی",
+  hideSidebar: "پنهان کردن سایدبار",
+  showSidebar: "نمایش سایدبار",
+  selectFont: "انتخاب فونت",
+  changeFontSize: "تغییر اندازه فونت",
+  changeFontFamily: "تغییر فونت",
+  surahLabel: "سوره",
+  surahNumberText: "سوره {number}",
+  juzLabel: "جزء",
+  rukusLabel: "رکوع‌ها",
+  versesLabel: "آیات",
+  typeMeccanLabel: "مکی",
+  typeMedinanLabel: "مدنی",
+  foundVersesText: "{count} آیه یافت شد",
+  foundVerseText: "{count} آیه یافت شد",
   surahs: "سوره‌ها",
   allJuz: "همه جزءها",
   searchJuzPlaceholder: "جستجوی جزء بر اساس نام، شماره یا سوره شروع...",

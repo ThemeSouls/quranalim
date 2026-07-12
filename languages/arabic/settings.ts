@@ -22,9 +22,9 @@ export const settings = {
   languageSettings: "إعدادات اللغة",
   selectLanguage: "اختر اللغة",
   translators: {
-    "ur.khan": "أحمد رضا خان بریلوی",
     "ur.maududi": "أبو الأعلى المودودي",
     "ur.jalandhry": "فتح محمد جالندھری",
+    "ur.junagarhi": "محمد جوناغري",
     "en.sahih": "صحيح إنترناشونال",
     "en.yusufali": "يوسف علي",
     "en.pickthall": "بيكتثال",
