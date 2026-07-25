@@ -1,5 +1,5 @@
 export const HomeHeader = {
-  subtitle: "القرآن والسنة والفقه",
+  subtitle: "المركز الرقمي للقرآن والعلوم الإسلامية الشريفة",
   liveCommunity: "المجتمع العالمي المباشر",
   changeLanguage: "تغيير اللغة",
   openDashboard: "فتح لوحة القيادة الشخصية",
@@ -7,14 +7,40 @@ export const HomeHeader = {
   signOutText: "تسجيل الخروج",
   signOut: "تسجيل الخروج",
   signIn: "تسجيل الدخول",
+  toggleSidebar: "تبديل القائمة الجانبية",
+  guestUser: "حساب ضيف",
+  memberUser: "عضو",
+  toggleTheme: "تبديل المظهر",
+  selectLanguage: "اختر اللغة",
 };
 
 export const WelcomeHero = {
-  portalBadge: "بوابة المعرفة الإسلامية",
+  portalBadge: "منصة المعرفة الإسلامية المستندة",
+  freeSadaqah: "100% مجاناً • صدقة جارية بدون إعلانات",
   title: "مركز عالمي للمحتوى الإسلامي الموثق",
   description: "مرحبًا بكم في بوابة المعرفة الإسلامية الشاملة الخاصة بنا. نقوم بتوحيد الأجزاء الأساسية من الدين تحت سقف رقمي أنيق واحد - نقدم لغويات قرآنية عميقة كلمة بكلمة، وأرشيف حديث متعدد الكتب، ومراجع فقهية معتمدة، ورف كتب الأدب الرقمي الكلاسيكي، وأنظمة إجابة الأسئلة العلمية، وحلقات المجتمع الفكري.",
   exploreBtn: "اكتشف القرآن",
   categoriesBtn: "اكتشف الفئات",
+  searchPlaceholder: "ابحث عن السور، الآيات، الأحاديث أو المواضيع (مثال: الفاتحة، 1، البقرة)...",
+  searchResults: "نتائج بحث السور",
+  matches: "نتائج متطابقة",
+  noSurahFound: "لم يتم العثور على سورة مطابقة. اضغط على استكشاف لجميع الوحدات.",
+  openMushaf: "فتح مصحف القرآن",
+  hadithCollections: "مجموعات الأحاديث",
+  fiqhRulings: "الفقه والأحكام",
+  islamicHistory: "التاريخ الإسلامي",
+  verses: "آيات",
+};
+
+export const QuranicAppsSection = {
+  sectionTitle: "تطبيقات قرآنية",
+  sectionSubtitle: "تطبيقات قرآنية متخصصة",
+  activeAppBadge: "تطبيق نشط",
+  quranReadTitle: "قراءة القرآن (المصحف)",
+  quranReadDesc: "اقرأ القرآن الكريم مع التراجم، التلاوات الصوتية، التجويد كلمة بكلمة، البحث والعلامات المرجعية.",
+  openAppBtn: "فتح التطبيق",
+  comingSoonTitle: "المزيد من التطبيقات القرآنية قريباً",
+  comingSoonDesc: "أدوات إضافية للتفسير، المفردات والتحليلات اللغوية قيد التطوير",
 };
 
 export const PillarsGrid = {
@@ -38,6 +64,14 @@ export const PillarsGrid = {
       title: "المكتبة الروحية",
       desc: "الأدب الإسلامي الكلاسيكي، وكتب دليل التجويد، والسيرة التفصيلية للنبي محمد (صلى الله عليه وسلم).",
     },
+    resources: {
+      title: "تنزيلات مجانية",
+      desc: "كتب إسلامية موثوقة، تسجيلات صوتية وملصقات مجانية.",
+    },
+    history: {
+      title: "التاريخ الإسلامي",
+      desc: "جدول زمني تفاعلي للتاريخ الإسلامي والعصور والعلماء من 1 هـ حتى اليوم.",
+    },
   },
 };
 
@@ -45,6 +79,7 @@ export const DailyHadith = {
   sectionTitle: "أبرز أحاديث اليوم",
   badge: "قول كريم",
   nextBtn: "إنشاء الحديث التالي",
+  authenticRef: "مرجع معتمد",
   hadiths: [
     {
       text: "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى",
@@ -72,6 +107,16 @@ export const DailyHadith = {
       source: "سنن الترمذي 1987"
     }
   ]
+};
+
+export const DailyTasbihWidget = {
+  sectionTitle: "الذكر اليومي والتسبيح",
+  dailyPractice: "الورد اليومي",
+  resetCounter: "إعادة ضبط العداد",
+  subhanallah: "سبحان الله",
+  alhamdulillah: "الحمد لله",
+  allahuakbar: "الله أكبر",
+  astagfirullah: "أستغفر الله",
 };
 
 export const ShariahQa = {
@@ -135,17 +180,9 @@ export const FeaturedLibrary = {
   ]
 };
 
-export const HomeFooter = {
-  slogan: "إن قرآن عليم (QuranAlim) هو بوابة رقمية ومنصة بحثية تعاونية للعلوم الإسلامية الكلاسيكية. نحن نوفر وصولاً شاملاً إلى القرآن الكريم، والحديث النبوي الشريف، والفقه المعتمد لتعزيز النمو الروحي في جميع أنحاء العالم.",
-  quickLinks: "روابط سريعة",
-  keyFeatureTitle: "ميزة رئيسية",
-  keyFeatureDesc: "بوابة القرآن الكريم - نسخة القرآن للاتصال بالإنترنت وعدم الاتصال بالإنترنت 100%. التلاوة والترجمة الكاملة متاحة دون اتصال بالإنترنت.",
-  copyright: "© 2026 قرآن عالم. جميع الحقوق محفوظة.",
-  designedForPeace: "صُمم من أجل السلام",
-};
-
 export const OurStats = {
   sectionTitle: "إحصائياتنا",
+  statsTitle: "إحصائيات وأرشيف التطبيق",
   sectionSubtitle: "تمكين المعرفة الإسلامية عالميًا من خلال الموارد الأصيلة وأدوات البحث الغنية والتحقق العلمي.",
   stats: {
     quran: {
@@ -201,14 +238,76 @@ export const OurStats = {
   },
 };
 
+export const HomeFooter = {
+  slogan: "إن قرآن عليم (QuranAlim) هو بوابة رقمية ومنصة بحثية تعاونية للعلوم الإسلامية الكلاسيكية. نحن نوفر وصولاً شاملاً إلى القرآن الكريم، والحديث النبوي الشريف، والفقه المعتمد لتعزيز النمو الروحي في جميع أنحاء العالم.",
+  quickLinks: "روابط سريعة",
+  keyFeatureTitle: "ميزة رئيسية",
+  keyFeatureDesc: "بوابة القرآن الكريم - نسخة القرآن للاتصال بالإنترنت وعدم الاتصال بالإنترنت 100%. التلاوة والترجمة الكاملة متاحة دون اتصال بالإنترنت.",
+  copyright: "© 2026 قرآن عالم. جميع الحقوق محفوظة.",
+  designedForPeace: "صُمم من أجل السلام",
+  islamicResearchCenter: "مركز البحوث الإسلامية",
+  resourcesTitle: "الموارد",
+  quranBooks: "كتب القرآن",
+  hadithBooks: "كتب الحديث",
+};
+
+export const MobileHome = {
+  digitalIslamicHub: "المركز الرقمي الإسلامي",
+  fullscreen: "ملء الشاشة",
+  todaysDate: "تاريخ اليوم",
+  live: "مباشر",
+  welcomeGreeting: "السلام عليكم",
+  guestGreeting: "السلام عليكم يا طالب العلم!",
+  quranAlimHub: "مركز قرآن عليم",
+  quranicAppsTitle: "تطبيقات قرآنية",
+  quranReadTitle: "قراءة القرآن",
+  activeBadge: "نشط",
+  quranReadSubtitle: "اقرأ القرآن مع التراجم والعلامات المرجعية",
+  quickServices: "خدمات سريعة",
+  dailyTasbihCounter: "عداد التسبيح اليومي",
+  resetCount: "إعادة ضبط العداد",
+  tapDhikr: "اضغط",
+  selectDhikrPhrase: "اختر صيغة الذكر اليومية:",
+  hadithTab: "الحديث",
+  qaTab: "سؤال وجواب شرعي",
+  publicTab: "عام",
+  nobleSaying: "قول كريم",
+  copiedSuccess: "تم نسخ نص الحديث بنجاح!",
+  nextHadith: "الحديث التالي",
+  scholarlyQaHub: "مركز الأسئلة والأجوبة العلمية",
+  verifiedAnswers: "إجابات علمية موثقة",
+  askQaPlaceholder: "اسأل سؤالك الفقهي...",
+  analyzing: "جاري التحليل...",
+  answered: "تمت الإجابة",
+  yesterday: "أمس",
+  scholarsAnswer: "إجابة العالم",
+  sampleQuestion: "ما هي الآداب الموصى بها لتلاوة القرآن الكريم؟",
+  sampleAnswer: "الطهارة والوضوء، استقبال القبلة، البدء بالتعوذ والبسملة، والتلاوة بتدبر وخشوع (الترتيل).",
+  intellectualCircle: "نقاشات الحلقة الفكرية",
+  todaysTopic: "موضوع اليوم: كيف تحافظ على الذكر المستمر في الروتين الحديث المزدحم؟",
+  contributePlaceholder: "ساهم برأيك في الحلقة...",
+  likes: "إعجابات",
+  comments: "تعليقات",
+  appStatistics: "إحصائيات التطبيق",
+  completeSurahs: "سور كاملة",
+  verifiedHadiths: "أحاديث موثقة",
+  allRightsReserved: "© 2026 مركز قرآن عليم. جميع الحقوق محفوظة.",
+  guestUser: "مستخدم ضيف",
+  questionReceived: "تم استلام سؤالك وهو حالياً قيد التحليل العلمي.",
+  justNow: "الآن فقط",
+};
+
 export const home = {
   HomeHeader,
   WelcomeHero,
+  QuranicAppsSection,
   PillarsGrid,
   DailyHadith,
+  DailyTasbihWidget,
   ShariahQa,
   CommunityDiscussions,
   FeaturedLibrary,
   OurStats,
   HomeFooter,
+  MobileHome,
 };

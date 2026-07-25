@@ -3,11 +3,12 @@ import { quran } from "./quran";
 import { dashboard } from "./dashboard";
 import { settings } from "./settings";
 import { components } from "./components";
-import { aboutUs, contactUs, disclaimer, termsAndConditions, privacyPolicy, termsOfService, mainPage, donate, userRoles } from "./abouts";
-
+import { aboutUs, contactUs, disclaimer, termsAndConditions, privacyPolicy, termsOfService, mainPage, donate } from "./abouts";
+import { userRolesData } from "./abouts-userRoles";
 import { home } from "./home";
 import { apps } from "./apps";
 import { resources } from "./resources";
+import { quranReadHome } from "./quran-read";
 
 export const content = {
   ...common,
@@ -18,6 +19,7 @@ export const content = {
   home,
   apps,
   resources,
+  quranReadHome,
   abouts: {
     mainPage,
     aboutUs,
@@ -27,6 +29,6 @@ export const content = {
     privacyPolicy,
     termsOfService,
     donate,
-    userRoles,
+    userRoles: userRolesData,
   },
 };
