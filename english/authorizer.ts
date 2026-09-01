@@ -1,0 +1,118 @@
+export const authorizer = {
+  appName: "Authorizer & Portal",
+  appSubtitle: "Centralized Authentication, Security Sessions & User Management",
+  loginTitle: "Sign In to Your Account",
+  loginSubtitle: "Enter your credentials to access Quran Alim services",
+  signupTitle: "Create New Account",
+  signupSubtitle: "Join our global community with instant access",
+  forgotTitle: "Reset Your Password",
+  forgotSubtitle: "Enter your registered email to receive a recovery code",
+  resetTitle: "Set New Password",
+  resetSubtitle: "Create a strong and secure new password for your account",
+  sessionsTitle: "Active Security Sessions",
+  sessionsSubtitle: "Manage devices and IP addresses currently logged into your account",
+  profileTitle: "User Profile & Security",
+  profileSubtitle: "View account status, role, email verification, and security tokens",
+  
+  // Tabs & Navigation
+  tabLogin: "Sign In",
+  tabSignup: "Sign Up",
+  tabForgot: "Forgot Password",
+  tabReset: "Reset Password",
+  tabSessions: "Active Sessions",
+  tabProfile: "My Account",
+
+  // Form Fields
+  fullNameLabel: "Full Name",
+  fullNamePlaceholder: "e.g. Abdullah Muhammad",
+  emailLabel: "Email Address",
+  emailPlaceholder: "name@example.com",
+  passwordLabel: "Password",
+  passwordPlaceholder: "At least 6 characters",
+  confirmPasswordLabel: "Confirm Password",
+  confirmPasswordPlaceholder: "Repeat password",
+  resetTokenLabel: "Reset Token (OTP)",
+  resetTokenPlaceholder: "e.g. reset_xxx",
+  newPasswordLabel: "New Password",
+  rememberMe: "Remember me for 30 days",
+  agreeTerms: "I accept the Terms of Service & Privacy Policy",
+  quickDemoTip: "Quick Credentials for Testing:",
+
+  // Buttons
+  signInBtn: "Sign In",
+  signUpBtn: "Create Account",
+  sendResetBtn: "Send Reset Link",
+  savePasswordBtn: "Update Password",
+  logoutBtn: "Sign Out",
+  revokeAllSessions: "Revoke All Other Sessions",
+  backHome: "Back to Home",
+  forgotPassLink: "Forgot password?",
+  alreadyHaveAccount: "Already have an account?",
+  noAccountYet: "Don't have an account?",
+  backToLogin: "Back to Sign In",
+
+  // Feedback Messages
+  reqFields: "Please fill in all required fields.",
+  passMismatch: "Passwords do not match.",
+  passTooShort: "Password must be at least 6 characters long.",
+  passwordStrength: "Password Strength",
+  passStrengthWeak: "Weak",
+  passStrengthMedium: "Medium",
+  passStrengthStrong: "Strong",
+  passReqLength: "At least 8 characters",
+  passReqCase: "Upper & lowercase letters",
+  passReqNumber: "At least 1 number",
+  passReqSpecial: "At least 1 special character (@$!%*?&)",
+  termsRequired: "You must accept the terms of service.",
+  invalidCreds: "Invalid email or password.",
+  loginSuccess: "Successfully authenticated! Welcome back.",
+  signupSuccess: "Account created successfully! You can now log in.",
+  forgotSuccess: "A password reset token has been generated.",
+  resetSuccess: "Your password has been reset successfully.",
+  logoutSuccess: "You have been logged out.",
+  revokeSuccess: "Session revoked successfully.",
+  revokeOthersSuccess: "All other active sessions revoked.",
+  noSessions: "No active sessions found.",
+  notSignedInNote: "You are currently not signed in. Please sign in or register to view your account details.",
+  currentSessionBadge: "Current Session",
+  
+  // Database Status Header Card
+  d1StatusTitle: "Database Connection",
+  d1StatusConnected: "Database Engine Active",
+  d1StatusNotice: "Backend API endpoints connect to secure user authentication tables.",
+  
+  // Table Labels
+  userId: "User ID",
+  userRole: "Role",
+  userStatus: "Status",
+  emailVerified: "Email Verified",
+  createdDate: "Created Date",
+  lastLogin: "Last Login",
+  activeSessionsCount: "Active Sessions",
+  tokenExpiry: "Session Expiry",
+  ipAddress: "IP Address",
+  deviceAgent: "Device / Browser",
+  action: "Action",
+  revokeSession: "Revoke",
+  
+  // Search
+  searchPlaceholder: "Search users, sessions, or settings...",
+  noSearchResults: "No matching items found.",
+
+  // Branding
+  brandName: "Quran Alim",
+  brandTagline: "Islamic Research Center",
+  brandPortalTagline: "Unified Identity & Access Management",
+
+  // Public Auth View Strings
+  publicAuthTitle: "Authorizer Portal",
+  backToApp: "Back to Main App",
+  welcomePortal: "Welcome to Authorizer Portal",
+  secureAuthSubtitle: "Fast, secure, and modern identity & access management",
+  loginPageBadge: "Authentication System",
+  signupPageBadge: "Account Registration",
+  forgotPageBadge: "Password Recovery",
+  resetPageBadge: "Security Update",
+};
+
+export default authorizer;
