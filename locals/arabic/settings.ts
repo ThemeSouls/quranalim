@@ -23,7 +23,7 @@ export const settings = {
   selectLanguage: "اختر اللغة",
   translators: {
     "ur.maududi": "أبو الأعلى المودودي",
-    "ur.jalandhry": "فتح محمد جالندھری",
+    "ur.jalandhry": "فتح محمد جالندهري",
     "ur.junagarhi": "محمد جوناغري",
     "en.sahih": "صحيح إنترناشونال",
     "en.yusufali": "يوسف علي",

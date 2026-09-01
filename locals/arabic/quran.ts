@@ -75,7 +75,7 @@ export const useQuranVerses = {
   internetRequiredEnglish: "يلزم الاتصال بالإنترنت: تتطلب ترجمة هذه السورة وصولاً نشطًا للشبكة.",
   translatorsMap: {
     "ur.maududi": "أبو الأعلى المودودي",
-    "ur.jalandhry": "فتح محمد جالندھری",
+    "ur.jalandhry": "فتح محمد جالندهري",
     "ur.junagarhi": "محمد جوناغري",
     "ur.khan": "أحمد رضا خان",
     "en.sahih": "صحيح إنترناشونال",

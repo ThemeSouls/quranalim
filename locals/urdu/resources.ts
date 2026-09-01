@@ -273,6 +273,7 @@ export const resources = {
         year: "710 AH / ہجری",
         category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
       },
+      // Section 2: Allusive and Sufi Commentaries
       {
         number: 25,
         title: "حقائق التفسیر (تفسیر السلمی)",
@@ -323,6 +324,7 @@ export const resources = {
         year: "333 AH / ہجری",
         category: "اشاری و صوفیانہ تفاسیر"
       },
+      // Section 3: Modern Arabic Commentaries
       {
         number: 31,
         title: "تفسیر المنار",
@@ -373,6 +375,7 @@ export const resources = {
         year: "1393 AH / ہجری",
         category: "جدید عربی تفاسیر (انیسویں اور بیسویں صدی)"
       },
+      // Section 4: Persian Commentaries
       {
         number: 37,
         title: "تفسیر کشف الاسرار و عدة الابرار",
@@ -423,6 +426,7 @@ export const resources = {
         year: "1402 AH / ہجری",
         category: "فارسی تفاسیر"
       },
+      // Section 5: Urdu Commentaries
       {
         number: 43,
         title: "تفسیر قرآن (ترجمہ شاہ رفیع الدین)",
@@ -563,6 +567,7 @@ export const resources = {
         year: "Modern / جدید",
         category: "اردو تفاسیر و شروح"
       },
+      // Section 6: English Commentaries
       {
         number: 53,
         title: "(یوسف علی) The Meaning of the Holy Qur'an",
@@ -605,6 +610,7 @@ export const resources = {
       }
     ],
     translations: [
+      // Section 1: Arabic Translations
       {
         number: 1,
         title: "ترجمہ تفسیر طبری",
@@ -625,6 +631,7 @@ export const resources = {
         year: "538 AH / ہجری",
         category: "عربی تراجم (لفظی اور تفسیری)"
       },
+      // Section 2: Persian Translations
       {
         number: 3,
         title: "ترجمہ تفسیر طبری (قدیم ترین فارسی ترجمہ)",
@@ -685,6 +692,7 @@ export const resources = {
         year: "1350 SH / شمسی",
         category: "فارسی تراجم"
       },
+      // Section 3: Urdu Translations
       {
         number: 9,
         title: "ترجمہ قرآن مجید (موضح قرآن)",
@@ -815,6 +823,7 @@ export const resources = {
         year: "1979 CE / عیسوی",
         category: "اردو تراجم"
       },
+      // Section 4: English Translations
       {
         number: 19,
         title: "(پہلا انگریزی ترجمہ) The Koran",
@@ -895,6 +904,7 @@ export const resources = {
         year: "2004 CE / عیسوی",
         category: "انگریزی تراجم"
       },
+      // Section 5: Other Major Languages
       {
         number: 28,
         title: "ترجمہ قرآن مجید (ترکی)",

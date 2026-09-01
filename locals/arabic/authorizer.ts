@@ -1,0 +1,118 @@
+export const authorizer = {
+  appName: "المصادقة وبوابة الهوية",
+  appSubtitle: "إدارة المصادقة المركزية وجلسات الأمان وإدارة المستخدمين",
+  loginTitle: "تسجيل الدخول إلى حسابك",
+  loginSubtitle: "أدخل بياناتك للوصول إلى خدمات قرآن عالم",
+  signupTitle: "إنشاء حساب جديد",
+  signupSubtitle: "انضم إلى مجتمعنا العالمي مع وصول فوري ومباشر",
+  forgotTitle: "إعادة تعيين كلمة المرور",
+  forgotSubtitle: "أدخل بريدك الإلكتروني المسجل لتلقي رمز الاستعادة",
+  resetTitle: "تعيين كلمة مرور جديدة",
+  resetSubtitle: "أنشئ كلمة مرور قوية وآمنة لحسابك",
+  sessionsTitle: "جلسات الأمان النشطة",
+  sessionsSubtitle: "إدارة الأجهزة وعناوين IP المسجلة حاليًا في حسابك",
+  profileTitle: "الملف الشخصي والأمان",
+  profileSubtitle: "عرض حالة الحساب، والدور، وتوثيق البريد، ورموز الأمان",
+  
+  // Tabs & Navigation
+  tabLogin: "تسجيل الدخول",
+  tabSignup: "إنشاء حساب",
+  tabForgot: "نسيت كلمة المرور",
+  tabReset: "إعادة تعيين كلمة المرور",
+  tabSessions: "الجلسات النشطة",
+  tabProfile: "حسابي",
+
+  // Form Fields
+  fullNameLabel: "الاسم الكامل",
+  fullNamePlaceholder: "مثال: عبد الله محمد",
+  emailLabel: "البريد الإلكتروني",
+  emailPlaceholder: "name@example.com",
+  passwordLabel: "كلمة المرور",
+  passwordPlaceholder: "6 أحرف على الأقل",
+  confirmPasswordLabel: "تأكيد كلمة المرور",
+  confirmPasswordPlaceholder: "أعد كتابة كلمة المرور",
+  resetTokenLabel: "رمز الاستعادة (OTP)",
+  resetTokenPlaceholder: "مثال: reset_xxx",
+  newPasswordLabel: "كلمة المرور الجديدة",
+  rememberMe: "تذكرني لمدة 30 يومًا",
+  agreeTerms: "أوافق على شروط الخدمة وسياسة الخصوصية",
+  quickDemoTip: "بيانات سريعة للاختبار التجريبي:",
+
+  // Buttons
+  signInBtn: "تسجيل الدخول",
+  signUpBtn: "إنشاء حساب",
+  sendResetBtn: "إرسال رابط الاستعادة",
+  savePasswordBtn: "تحديث كلمة المرور",
+  logoutBtn: "تسجيل الخروج",
+  revokeAllSessions: "إنهاء كافة الجلسات الأخرى",
+  backHome: "العودة للرئيسية",
+  forgotPassLink: "نسيت كلمة المرور؟",
+  alreadyHaveAccount: "هل لديك حساب بالفعل؟",
+  noAccountYet: "ليس لديك حساب بعد؟",
+  backToLogin: "العودة لتسجيل الدخول",
+
+  // Feedback Messages
+  reqFields: "يرجى ملء جميع الحقول المطلوبة.",
+  passMismatch: "كلمات المرور غير متطابقة.",
+  passTooShort: "يجب ألا تقل كلمة المرور عن 6 أحرف.",
+  passwordStrength: "قوة كلمة المرور",
+  passStrengthWeak: "ضعيفة",
+  passStrengthMedium: "متوسطة",
+  passStrengthStrong: "قوية",
+  passReqLength: "8 أحرف على الأقل",
+  passReqCase: "أحرف كبيرة وصغيرة",
+  passReqNumber: "رقم واحد على الأقل",
+  passReqSpecial: "رمز خاص واحد على الأقل (@$!%*?&)",
+  termsRequired: "يجب عليك قبول شروط الخدمة.",
+  invalidCreds: "البريد الإلكتروني أو كلمة المرور غير صحيحة.",
+  loginSuccess: "تم تسجيل الدخول بنجاح! أهلاً بك مجدداً.",
+  signupSuccess: "تم إنشاء الحساب بنجاح! يمكنك الآن تسجيل الدخول.",
+  forgotSuccess: "تم إنشاء رمز إعادة تعيين كلمة المرور بنجاح.",
+  resetSuccess: "تم إعادة تعيين كلمة المرور بنجاح.",
+  logoutSuccess: "تم تسجيل الخروج بنجاح.",
+  revokeSuccess: "تم إلغاء الجلسة بنجاح.",
+  revokeOthersSuccess: "تم إلغاء جميع الجلسات النشطة الأخرى.",
+  noSessions: "لم يتم العثور على جلسات نشطة.",
+  notSignedInNote: "أنت لست مسجل الدخول حالياً. يرجى تسجيل الدخول أو التسجيل لعرض تفاصيل حسابك.",
+  currentSessionBadge: "الجلسة الحالية",
+  
+  // Database Status Header Card
+  d1StatusTitle: "اتصال قاعدة البيانات",
+  d1StatusConnected: "محرك قاعدة البيانات نشط",
+  d1StatusNotice: "تتصل نقاط نهاية الخادم الخلفي بجداول مصادقة المستخدمين الآمنة.",
+  
+  // Table Labels
+  userId: "معرف المستخدم",
+  userRole: "الدور",
+  userStatus: "الحالة",
+  emailVerified: "تم التحقق من البريد",
+  createdDate: "تاريخ الإنشاء",
+  lastLogin: "آخر تسجيل دخول",
+  activeSessionsCount: "الجلسات النشطة",
+  tokenExpiry: "انتهاء صلاحية الجلسة",
+  ipAddress: "عنوان IP",
+  deviceAgent: "الجهاز / المتصفح",
+  action: "الإجراء",
+  revokeSession: "إلغاء",
+  
+  // Search
+  searchPlaceholder: "البحث في المستخدمين أو الجلسات أو الإعدادات...",
+  noSearchResults: "لم يتم العثور على عناصر مطابقة.",
+
+  // Branding
+  brandName: "قرآن عالم",
+  brandTagline: "مركز البحوث الإسلامية",
+  brandPortalTagline: "إدارة الهوية والوصول الموحدة",
+
+  // Public Auth View Strings
+  publicAuthTitle: "بوابة المصادقة والهوية",
+  backToApp: "العودة إلى التطبيق الرئيسي",
+  welcomePortal: "مرحبًا بكم في بوابة الهوية والمصادقة",
+  secureAuthSubtitle: "إدارة هوية ووصول سريعة وآمنة وحديثة",
+  loginPageBadge: "نظام المصادقة",
+  signupPageBadge: "تسجيل حساب جديد",
+  forgotPageBadge: "استعادة كلمة المرور",
+  resetPageBadge: "تحديث الأمان",
+};
+
+export default authorizer;
