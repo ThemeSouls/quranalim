@@ -1,30 +1,30 @@
 export const apploader = {
-  title: "قرآن عالم",
-  tagline: "قرآن، سنت اور فقہ",
-  altWatermark: "واٹر مارک لوگو",
-  altLogo: "لوگو"
+  title: "Kur'an Alim",
+  tagline: "Kur'an, Sünnet ve Fıkıh",
+  altWatermark: "Filigran Logosu",
+  altLogo: "Logo"
 };
 
 export const mainSlimbar = {
-  title: "قرآن عالم",
-  quran: "القرآن",
-  hadith: "مطالعہ حدیث",
-  fiqh: "فقہ اور شریعت",
-  library: "روحانی لائبریری",
-  tools: "ٹولز",
-  toggleLight: "لائٹ موڈ آن کریں",
-  toggleDark: "ڈارک موڈ آن کریں",
-  languageName: "اردو",
-  userProfile: "خدیجہ یاسر (khadijayasir006@gmail.com)"
+  title: "Kur'an Alim",
+  quran: "Kur'an-ı Kerim",
+  hadith: "Hadis Araştırmaları",
+  fiqh: "Fıkıh ve Şeriat",
+  library: "Manevi Kütüphane",
+  tools: "Faydalı Araçlar",
+  toggleLight: "Açık Temaya Geç",
+  toggleDark: "Koyu Temaya Geç",
+  languageName: "Türkçe",
+  userProfile: "Hatice Yasir"
 };
 
 export const languagesPopup = {
-  title: "زبان کی ترتیبات",
-  selectLanguage: "زبان کا انتخاب کریں",
-  done: "مکمل",
+  title: "Dil Ayarları",
+  selectLanguage: "Dil Seçiniz",
+  done: "Tamamlandı",
   english: "English",
-  arabic: "العربية (Arabic)",
-  urdu: "اردو (Urdu)"
+  arabic: "العربية",
+  urdu: "اردو"
 };
 
 export const mainSidebar = {};

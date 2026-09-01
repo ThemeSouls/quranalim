@@ -1,440 +1,440 @@
 export const aboutUs = {
-  title: "ہمارے بارے میں",
-  subtitle: "قرآن عالم - اسلامی اور روحانی رہنمائی کا مرکز",
-  intro: "ہمارا مقصد قرآن مجید، مستند احادیث، اور کلاسیکی روحانی وسائل کو سیکھنے اور سمجھنے کے لیے ایک قابل رسائی، خوبصورت، اور مستند ڈیجیٹل پورٹل فراہم کرنا ہے۔",
-  missionTitle: "ہمارا مشن",
-  missionText: "ہم دنیا بھر کے مسلمانوں اور حق کے متلاشیوں کے لیے مستند اسلامی علم اور حکمت کو باآسانی قابل رسائی بنانے کی کوشش کرتے ہیں۔ جدید ترین ٹیکنالوجی کو اعلیٰ معیار کے بصری ڈیزائن کے ساتھ ملا کر، ہم ایک پرسکون اور خلفشار سے پاک مطالعہ کا تجربہ فراہم کرتے ہیں۔",
-  featuresTitle: "بنیادی اقدار اور ستون",
-  feature1Title: "مستند اور تصدیق شدہ علم",
-  feature1Desc: "مکمل اعتبار کے لیے حوالہ جات اور احتیاط سے چیک کیے گئے تراجم فراہم کرنا۔",
-  feature2Title: "100% مفت اور اشتہارات سے پاک",
-  feature2Desc: "ایک سختی سے غیر تجارتی پلیٹ فارم، جو پریشان کن بینرز یا کمائی کے ذرائع سے پاک ہے۔",
-  feature3Title: "پائیدار پرائیویسی",
-  feature3Desc: "کلائنٹ سائیڈ پر مکمل مقامی تحفظ۔ آپ کی سرچ ہسٹری، بک مارکس، اور لاگز کبھی بھی آپ کے ہارڈویئر سے باہر نہیں جاتے۔",
-
-  // قرآن عالم اسلامک ریسرچ سینٹر - جامع سیکشنز
-  centerTitle: "قرآن عالم اسلامک ریسرچ سینٹر",
-
+  title: "Hakkımızda",
+  subtitle: "QuranAlim - İslami ve Manevi İlimler Araştırma Merkezi",
+  intro: "Misyonumuz; Kur'an-ı Kerim'i, sahih hadis-i şerifleri ve klasik İslami kaynakları öğrenmek ve anlamak için erişilebilir, güzel ve güvenilir bir dijital portal sunmaktır.",
+  missionTitle: "Misyonumuz",
+  missionText: "Sahih İslami ilimleri ve hikmeti tüm dünyadaki Müslümanlara ve hakikat arayıcılarına kolayca ulaştırmaya gayret ediyoruz. İleri teknolojiyi yüksek kaliteli görsel tasarımla birleştirerek huzurlu, dikkati dağıtmayan ve sürükleyici bir okuma deneyimi sunuyoruz.",
+  featuresTitle: "Temel Değerlerimiz ve İlkelerimiz",
+  feature1Title: "Sahih ve Doğrulanmış İlim",
+  feature1Desc: "Mutlak güvenilirlik için çapraz kaynak taramalı içerikler ve titizlikle denetlenmiş mealler sunuyoruz.",
+  feature2Title: "%100 Ücretsiz ve Reklamsız",
+  feature2Desc: "Rahatsız edici reklamlar, bannerlar ve ticari kaygılardan tamamen arındırılmış ilmi bir çalışma ortamı.",
+  feature3Title: "Kalıcı Gizlilik",
+  feature3Desc: "Tamamen istemci tarafında yerel güvenlik. Arama geçmişiniz, yer imleriniz ve notlarınız asla cihazınızdan dışarı çıkmaz.",
+  
+  // Quran Aalam Islamic Research Center - Kapsamlı Bölümler
+  centerTitle: "Kur'an Âlemi İslami Araştırma Merkezi",
+  
   detailedSections: [
     {
       id: "intro",
-      title: "تعارف",
+      title: "Giriş",
       items: [
-        "قرآن عالم اسلامک ریسرچ سینٹر ایک جدید، جامع اور کثیر لسانی ویب ایپلییکیشن ہے جسے عالمی سطح پر اسلامی علوم، علمی تحقیق اور بین المذاہب مکالمے کے فروغ کے لیے ڈیزائن کیا گیا ہے۔",
-        "اس کا حتمی وژن اسلامی علوم کا سب سے بڑا اور مستند ڈیجیٹل ذخیرہ بننا ہے جہاں کسی بھی عقیدے، مکتبہ فکر یا زبان سے تعلق رکھنے والے افراد فائدہ اٹھا سکیں۔",
-        "خصوصی خاصیت: یہ ایپلییکیشن مکمل طور پر آف لائن چلنے والی ویب ایپ ہے جسے آپ اپنے موبائل فون یا کمپیوٹر پر مقامی (نیٹیو) ایپلییکیشن کی طرح انسٹال کر سکتے ها اور یہ فعال انٹرنیٹ کے بغیر بھی بغیر کسی رکاوٹ کے کام کرتی رہتی ہے۔"
+        "Kur'an Âlemi İslami Araştırma Merkezi, İslami ilimleri, akademik araştırmaları ve dinler arası diyaloğu küresel ölçekte desteklemek için tasarlanmış modern, kapsamlı ve çok dilli bir web uygulamasıdır.",
+        "Nihai vizyonu; her inançtan, mezhepten veya dilden bireylerin istifade edebileceği, İslami ilimlerin en büyük ve en sahih dijital hazinesi olmaktır.",
+        "Özel Vurgu: Bu uygulama, yerel bir uygulama gibi cep telefonunuza veya bilgisayarınıza yüklenebilen ve aktif internet olmadan da kesintisiz çalışmaya devam eden tam çevrimdışı uyumlu bir web uygulamasıdır."
       ]
     },
     {
       id: "quran",
-      title: "قرآنِ کریم سیکشن",
+      title: "Kur'an-ı Kerim Bölümü",
       items: [
-        "مکمل قرآنِ کریم - جو 30 معیاری پاروں میں ترتیب دیا گیا ہے",
-        "تمام بڑے اردو تراجم - مولانا محمود الحسن، مولانا فتح محمد جالندھری، احمد رضا خان بریلوی، علامہ جوادی، طاہر القادری، ڈاکٹر اسرار احمد اور دیگر تصدیق شدہ کام",
-        "تمام بڑے انگریزی تراجم - یوسف علی، پکتھال، صحیح انٹرنیشنل، محمد اسد، آربری، ہلالی خان اور دیگر",
-        "دوسری زبانوں میں تراجم - فارسی، فرانسیسی، جرمن، چینی، روسی، ہسپانوی، سواحلی، ملیالم، بنگالی، ترکی، انڈونیشیائی، ہاؤسا وغیرہ۔",
-        "تفاسیر - کلاسیکی اور جدید تفسیری مجموعے بشمول ابن کثیر، طبری، قرطبی، کشاف، فتح القدیر، معارف القرآن، تفہیم القرآن، بیان القرآن، نور العرفان، ضیاء القرآن، صراط الجنان، کنز الایمان، تبیان القرآن",
-        "وضاحتیں اور بصیرتیں - لفظ بہ لفظ ترجمہ، شانِ نزول، لسانی گرامر اور بلاغت"
+        "Eksiksiz Kur'an-ı Kerim - 30 standart Cüz halinde düzenlenmiştir",
+        "Başlıca Türkçe mealler - Diyanet İşleri Meali, Elmalılı Hamdi Yazır, Ali Bulaç, Hasan Basri Çantay, Ömer Nasuhi Bilmen ve diğer onaylı çalışmalar",
+        "Başlıca İngilizce mealler - Yusuf Ali, Pickthall, Sahih International, Muhammad Asad, Arberry, Hilali-Khan ve diğerleri",
+        "Diğer dillerdeki mealler - Farsça, Fransızca, Almanca, Çince, Rusça, İspanyolca, Swahili, Malayalamca, Bengalce, Urduca, Endonezce, Hausa vb.",
+        "Tefsirler - İbn Kesîr, Taberî, Kurtubî, Keşşâf, Fethu'l-Kadîr, Maârifü'l-Kur'ân, Tefhîmü'l-Kur'ân, Beyânü'l-Kur'ân, Rûhu'l-Beyân, Hak Dini Kur'an Dili gibi klasik ve çağdaş tefsir külliyatı",
+        "Açıklamalar ve Tahliller - Kelime kelime anlam, nüzul sebepleri (Esbâb-ı Nüzûl), sarf-nahiv dilbilgisi ve belâgat incelikleri"
       ]
     },
     {
       id: "wordbyword",
-      title: "لفظ بہ لفظ قرآن سیکشن",
+      title: "Kelime Kelime Kur'an Bölümü",
       items: [
-        "لفظ بہ لفظ ترجمہ - متعدد زبانوں میں هر آزاد قرآنی لفظ کا انتہائی تفصیلی ترجمہ",
-        "قرآنی گرامر - ہر لفظ کا مکمل صرفی و نحوی تجزیہ (اسم، فعل، حرف)، جس میں زمانہ، حروفِ اصلی (روٹ)، جنس، تعداد اور مشتق اشکال کی نشاندہی کی گئی ہے",
-        "قرآنی لغت - حروفِ اصلی، مشتق ساختیں، جامع تعریفیں اور پورے قرآن میں ان کے استعمال کے مقامات دریافت کریں",
-        "قرآنی کارپس - اعلیٰ معیار کا لسانی ڈیٹا بیس جس میں ایڈوانسڈ گرامر ٹیگنگ، نحوی تراکیب (اعراب)، سیمنٹک ٹریکنگ اور موضوعاتی درجہ بندی شامل ہے"
+        "Kelime kelime meal - Kur'an'daki her bağımsız kelimenin birden çok dilde son derece ayrıntılı tercümesi",
+        "Kur'an Dilbilgisi - Her kelimenin tam morfolojik ve gramer analizi (İsim, Fiil, Harf), zaman, kök biçimleri, cinsiyet, sayı ve türetilmiş kalıpların tespiti",
+        "Kur'an Sözlüğü - Kök harfleri, türemiş yapıları, kapsamlı tanımları ve kelimenin tüm Kur'an boyunca geçtiği yerlerin dökümünü keşfetme",
+        "Kur'an Derlemi (Corpus) - İleri düzey gramer etiketleme, sözdizimsel irab tahlilleri, anlamsal takip ve konu sınıflandırmaları içeren yüksek hassasiyetli dilbilimsel veritabanı"
       ]
     },
     {
       id: "academy",
-      title: "قرآن لرننگ ڈیپارٹمنٹ (مستقبل میں)",
+      title: "Kur'an Öğrenim Akademisi (Gelecek Özellik)",
       items: [
-        "کثیر لسانی قرآن کورسز - متعدد بڑی زبانوں میں قرآنِ کریم پڑھنا، سمجھنا اور سکھانا سیکھیں",
-        "ابتدائی سے لے کر اعلیٰ سطح تک - بنیادی عربی حروف تہجی سے لے کر پیشہ ورانہ تجوید، جامع ترجمہ اور کلاسیکی تفسیر کے مطالعہ تک مرحلہ وار پیش رفت",
-        "منظم نصاب - احتیاط سے ترتیب دیے گئے، خود رفتار یا شیڈول کے مطابق سیکھنے کے راستے",
-        "ویڈیو اسباق - تصدیق شدہ ماہرین اور اسکالرز کی زیرِ نگرانی لائیو کلاسز اور پہلے سے ریکارڈ شدہ ہائی ڈیفینیشن ویڈیو ماڈیولز",
-        "عملی مشقیں - ہر سبق کے بعد یادداشت کو جانچنے کے لیے انٹرایکٹو مشقیں، اسائنمنٹس اور کوئز",
-        "آن لائن امتحانات - تعلیمی پیش رفت کی پیمائش کے لیے ہر کورس لیول کے آخر میں ورچوئل امتحانات کا انعقاد",
-        "تصدیق شدہ سرٹیفکیٹس - امتحانات کی کامیابی سے تکمیل پر جاری کیے جانے والے ڈیجیٹل اور اعلیٰ معیار کے پرنٹ ایبل سرٹیفکیٹس",
-        "استاد سے براہ راست رابطہ - فوری اور مستند رہنمائی کے لیے اپنے سوالات یا شکوک و شبہات براہ راست جید اسکالرز کو جمع کرائیں",
-        "لرننگ ہسٹری ڈیش بورڈ - آپ کے ذاتی سیکھنے کے سفر، روزانہ کے اعدادوشمار اور پیش رفت کو ٹریک کرنے کے لیے جامع اینالیٹکس"
+        "Çok Dilli Kur'an Dersleri - Kur'an-ı Kerim'i başlıca dünya dillerinde okumayı, anlamayı ve öğretmeyi öğrenin",
+        "Başlangıçtan İleri Düzeye - Temel Arapça elifba harflerinden profesyonel tecvid, kapsamlı meal ve klasik tefsir çalışmalarına adım adım ilerleme",
+        "Yapılandırılmış Müfredat - Kendi hızınızda veya planlı öğrenme yollarıyla titizlikle hazırlanmış eğitim programı",
+        "Video Dersler - Sertifikalı uzman hocalar ve alimler tarafından verilen canlı sınıflar ve yüksek çözünürlüklü video modülleri",
+        "Pratik Alıştırmalar - Bilgiyi pekiştirmek için her dersin ardından interaktif pratik modülleri, ödevler ve testler",
+        "Çevrimiçi Sınavlar - Akademik gelişimi ölçmek için her kurs seviyesinin sonunda düzenlenen sanal sınavlar",
+        "Doğrulanmış Sertifikalar - Sınavları başarıyla tamamlayanlara verilen dijital ve yüksek kaliteli basılabilir sertifikalar",
+        "Hocayla Doğrudan İletişim - Hızlı ve muteber rehberlik için soruları doğrudan uzman hocalara iletme imkanı",
+        "Öğrenim Takip Paneli - Kişisel öğrenme grafiğinizi, günlük istatistiklerinizi ve ilerleme kayıtlarınızı izlemek için kapsamlı analiz paneli"
       ]
     },
     {
       id: "hadith",
-      title: "حدیث شریف سیکشن",
+      title: "Hadis-i Şerif Bölümü",
       items: [
-        "صحاح ستہ - صحیح البخاری، صحیح مسلم، سنن الترمذی، سنن ابی داؤد، سنن النسائی اور سنن ابن ماجہ کے مکمل مجموعے",
-        "ثانوی مجموعے - مؤطا امام مالک، مسند احمد، مستدرک الحاکم، سنن الدارمی، سنن الدارکی، سنن البیہقی، صحیح ابن حبان اور مصنف ابن ابی شیبہ",
-        "شروحات اور وضاحتیں - اردو، انگریزی اور دیگر عالمی زبانوں میں دستیاب معیاری علمی تشریحات اور تراجم",
-        "علم الحدیث - راویوں کے حالات (اسماء الرجال)، جرح و تعدیل، سندوں کی تحقیق اور کلاسیکی اسکالرز پر سوانحی کتب کا تاریخی جائزہ",
-        "تحقیقی مقالات - تعلیمی مطالعہ جات، حواشی، نوٹس اور تحقیقی مضامین جو خاص طور پر حدیث کی تدوین پر مرکوز ہیں"
+        "Kütüb-i Sitte - Sahîh-i Buhârî, Sahîh-i Müslim, Sünen-i Tirmizî, Sünen-i Ebû Dâvûd, Sünen-i Nesâî ve Sünen-i İbn Mâce tam mecmuaları",
+        "Diğer Temel Eserler - Muvatta İmam Mâlik, Müsned-i Ahmed, Müstedrek-i Hâkim, Sünen-i Dârimî, Sünen-i Beyhakî, Sahîh-i İbn Hibbân ve Musannef-i İbn Ebî Şeybe",
+        "Şerhler ve Açıklamalar - Türkçe, İngilizce, Urduca ve diğer küresel dillerde standart ilmi şerhler ve tercümeler",
+        "Hadis İlimleri (Ulûmü'l-Hadîs) - Rical ilmi (Esmâü'r-Ricâl), Cerh ve Ta'dil metodolojileri, isnad zincirleri araştırması ve klasik muhaddislerin biyografileri",
+        "Araştırma Yayınları - Hadis külliyatına odaklanan akademik çalışmalar, dipnotlar, tahkikler ve araştırma makaleleri"
       ]
     },
     {
       id: "fiqh",
-      title: "فقہ اور فتویٰ سیکشن",
+      title: "Fıkıh ve Fetva Bölümü",
       items: [
-        "فقہ حنفی - جامع کتب جیسے الہدایہ، فتاویٰ عالمگیری، رد المحتار، مختصر القدوری اور کنز الدقائق",
-        "فقہ مالکی - معیاری حوالہ جاتی کتب بشمول مؤطا، المدونہ، الشرح الکبیر اور مختصر خلیل",
-        "فقہ شافعی - بنیادی کتب جیسے الام، المجموع، منہاج الطالبین اور مغنی المحتاج",
-        "فقہ حنبلی - کلاسیکی کام بشمول المغنی، الانصاف، کشاف القناع اور الروض المربع",
-        "جدید فقہ - عصری مسائل، اجتماعی علمی اجتہاد اور اقلیتوں کے فقہی رہنما خطوط (فقہ الاقلیات) کا احاطہ کرنے والے متحرک تجزیاتی کام",
-        "فتاویٰ کے مجموعے - تمام بڑے مکاتب فکر کے تاریخی اور معاصر فتاویٰ پر مشتمل بڑے سرچ ایبل انڈیکس"
+        "Hanefi Mezhebi - el-Hidâye, Fetâvâ-yı Hindiyye (Âlemgîriyye), Reddü'l-Muhtâr (İbn Âbidîn), Muhtasaru'l-Kudûrî ve Kenzü'd-Dekâik gibi kapsamlı metinler",
+        "Maliki Mezhebi - el-Muvatta, el-Müdevvene, eş-Şerhu'l-Kebîr ve Muhtasaru Halîl dahil standart kaynaklar",
+        "Şafii Mezhebi - el-Ümm, el-Mecmû', Minhâcü't-Tâlibîn ve Mugni'l-Muhtâc gibi temel kaynaklar",
+        "Hanbeli Mezhebi - el-Mugnî (İbn Kudâme), el-İnsâf, Keşşâfü'l-Kınâ' ve er-Ravzu'l-Murbi' gibi klasik eserler",
+        "Çağdaş Fıkıh - Modern meseleleri, toplu akademik içtihadı ve azınlık fıkhı rehberlerini (Fıkhü'l-Ekalliyyât) kapsayan dinamik analitik çalışmalar",
+        "Fetva Külliyatı - Tüm mezheplerin tarihi ve güncel fetvalarını içeren devasa arama dizini"
       ]
     },
     {
       id: "research",
-      title: "ریسرچ ڈیپارٹمنٹ",
+      title: "Araştırma ve İnceleme Bölümü",
       items: [
-        "علمی مقالات - اسلامی موضوعات پر دنیا بھر کی یونیورسٹیوں کے اعلیٰ معیار کے پی ایچ ڈی اور ایم فل کے مقالے",
-        "مستشرقین کی تنقید کا جائزہ - جدید اسکالرز کے جوابات کے ساتھ دست بدست اسلام کے بارے میں مغربی تعلیمی لٹریچر کا تجزیاتی جائزہ",
-        "تقابلی مطالعہ - اسلامی علوم اور دیگر عالمی مذاہب کے درمیان سائنسی اور ساختی تقابل",
-        "اسلام اور جدید سائنس - عصری سائنسی دریافتوں اور قرآنی تصورات کے باہمی ربط کو اجاگر کرنے والے علمی تجزیے"
+        "Akademik Tezler - Dünya üniversitelerinden İslami konularda hazırlanmış hakemli doktora ve yüksek lisans tezleri",
+        "Oryantalist Eleştiriler - İslam üzerine Batı akademik literatürünün analitik incelemesi ve modern alimlerin ilmi cevapları",
+        "Karşılaştırmalı Çalışmalar - İslami ilimler ile dünya dinleri ve felsefi sistemler arasında metodolojik karşılaştırmalar",
+        "İslam ve Modern Bilim - Çağdaş bilimsel keşifler ile Kur'an kavramları arasındaki uyumu aydınlatan akademik tahliller"
       ]
     },
     {
       id: "critic",
-      title: "اینٹی اسلامک لٹریچر اور جوابی تحقیق",
+      title: "Eleştirel Literatür ve İlmi Reddiyeler",
       items: [
-        "تنقیدی کام - مغربی یا مستشرق مصنفین کی لکھی ہوئی کتب جو اسلام پر اعتراضات کی تفصیل فراہم کرتی ہیں",
-        "علمی جوابات - مستند اسکالرز کی جانب سے تنقیدی دعووں کے جواب میں مرتب کیے گئے مدلل اور عقلی جوابات",
-        "علمی تردید - فلسفیانہ دلائل اور ردود کا گہرا جائزہ",
-        "متوازن تجزیہ - غیر جانبدارانہ اور حقیقت پسندانہ تحقیق کو فروغ دینے کے لیے تقابلی نقطہ نظر کی معروضی پیشکش"
+        "Eleştirel Eserler - Batılı veya oryantalist yazarların İslam hakkındaki iddialarını içeren eserler",
+        "Akademik Cevaplar - İddialara uzman alimler tarafından verilmiş sistemli, akli ve delilli cevaplar",
+        "İlmi Reddiyeler - Felsefi argümanlar ve klasik reddiye (Rudûd) literatürüne dair derinlemesine tahliller",
+        "Dengeli Analiz - Tarafsız ve hakikate dayalı araştırmayı teşvik etmek için görüşleri karşılaştıran objektif sunum"
       ]
     },
     {
       id: "resources",
-      title: "وسائل اور میڈیا ڈاؤن لوڈز",
+      title: "Kaynaklar ve Medya İndirmeleri",
       items: [
-        "مفت ڈاؤن لوڈز - معیاری پی ڈی ایف، ای پب، آڈیو اور ویڈیو فارمیٹس میں اعلیٰ معیار کی کتب تک رسائی",
-        "عالمی کثیر لسانی مواد - تمام بڑی بین الاقوامی زبانوں میں ترجمہ شدہ اور مرتب کردہ وسائل",
-        "علمی آڈیو - معروف محققین کی معلوماتی آڈیو فائلز، لیکچرز اور سیریز",
-        "تعلیمی ویڈیوز - بنیادی قرآن سیکھنے سے لے کر پیچیدہ تحقیقی طریقہ کار پر مشتمل منظم ویڈیو سیریز",
-        "بصری انفوگرافکس - اہم اسلامی واقعات، خاندانی رہنما خطوط اور عقائد کے نقشوں کو ظاہر کرنے والے واضح، اعلیٰ ریزولیوشن گرافک ڈیزائن",
-        "تکنیکی تحقیقی ٹولز - تقسیم کار سرچ انجن، متحرک لغتیں اور کراس ریفرنس انڈیکس سسٹمز"
+        "Ücretsiz İndirmeler - Standart PDF, EPUB, Ses ve Video formatlarında yüksek kaliteli kitaplara erişim",
+        "Küresel Çok Dilli Materyaller - Tüm önemli dünya dillerinde tercüme edilmiş ve yapılandırılmış kaynaklar",
+        "İlmi Ses Kayıtları - Önde gelen araştırmacılardan eğitici ses dosyaları, dersler ve seriler",
+        "Eğitici Videolar - Temel Kur'an öğreniminden karmaşık araştırma metodolojilerine kadar yapılandırılmış video serileri",
+        "Görsel İnfografikler - Temel İslami olayları, aile rehberlerini ve teolojik verileri haritalayan yüksek çözünürlüklü grafik tasarımlar",
+        "Teknik Araştırma Araçları - Güçlü arama mekanizmaları, dinamik sözlükler ve çapraz referans dizin motorları"
       ]
     },
     {
       id: "community",
-      title: "کمیونٹی اور عالمی مکالمہ",
+      title: "Topluluk ve Küresel Diyalog",
       items: [
-        "عالمی بین المذاہب مکالمہ - اسکالرز، مسلمانوں اور دیگر عالمی برادریوں کے درمیان تعمیری اور علمی گفتگو",
-        "بھرپور پروفائل سسٹم - هر رکن کی علمی مہارت اور موضوعاتی دلچسپیوں کی عکاسی کرنے والے کسٹم صارف پروفائلز",
-        "کردار پر مبنی اجازتیں - طلباء، اساتذہ، محققین، اسکالرز، مفتیانِ کرام اور عام صارفین کے لیے وقف کردہ پلیٹ فارم ویوز",
-        "علمی فورمز - مخصوص ریسرچ گروپس اور موضوعاتی سوالات کے لیے وقف چینلز",
-        "لائیو سیمینارز - متحرک ویب پینلز، لائیو کلاسز، کانفرنسز اور باہمی سوال و جواب کے حلقے",
-        "براہ راست پیغام رسانی - دنیا بھر کے ساتھیوں سے مشورے کے لیے فوری نیٹ ورکنگ اور محفوظ مواصلاتی چینلز"
+        "Küresel Dinler Arası Diyalog - Alimler, Müslümanlar ve diğer küresel toplumlar arasında yapıcı, akademik sohbetler",
+        "Zengin Profil Sistemi - Her üyenin ilmi uzmanlığını ve ilgi alanlarını gösteren özel kullanıcı profilleri",
+        "Rol Tabanlı Yetkiler - Talebeler, Öğretmenler, Araştırmacılar, Alimler, Müftüler ve Genel Kullanıcılar için özel platform görünümleri",
+        "İlmi Forumlar - Belirli araştırma grupları ve tematik sorular için özel kanallar",
+        "Canlı Seminerler - Dinamik web panelleri, canlı dersler, konferanslar ve ortaklaşa soru-cevap meclisleri",
+        "Doğrudan Mesajlaşma - Küresel ilim erbabıyla istişare etmek için anlık iletişim ve güvenli kanallar"
       ]
     },
     {
       id: "qa",
-      title: "انٹرایکٹو سوال و جواب سیکشن",
+      title: "İnteraktif Soru-Cevap Bölümü",
       items: [
-        "آسانی سے پوچھیں - اسلامی موضوعات سے متعلق اپنے سوالات عالمی پول میں جمع کرائیں",
-        "علمی تصدیق - جمع کرائے گئے سوالات کے جوابات صرف تصدیق شدہ ماہرین، مفتیان اور ماہرینِ تعلیم ہی دیتے ہیں",
-        "درجہ بندی کا نظام - آسان رسائی کے لیے اعلیٰ ترین معیار کے جوابات کو ووٹ دیں اور نمایاں کریں",
-        "علمی حوالہ جات - جوابات کے ساتھ درست ماخذ کے حوالے اور سیاق و سباق کی تفصیلات فراہم کی جاتی ہیں",
-        "آرکائیو سرچ کریں - هزاروں تصدیق شدہ اور پہلے سے جواب دیے گئے موضوعات کو براؤز اور سرچ کریں"
+        "Kolayca Sorun - İslami konular hakkındaki sorularınızı küresel havuza iletin",
+        "İlmi Doğrulama - Soruları yalnızca onaylanmış uzmanlar, müftüler ve akademisyenler yanıtlar",
+        "Oylama Sistemi - En kaliteli cevapları öne çıkarmak ve kolay görünürlük sağlamak için faydalı bulduklarınızı oylayın",
+        "Akademik Kaynak Gösterimi - Cevaplara kesin kaynak referansları ve bağlam detayları eşlik eder",
+        "Arama Arşivi - Daha önce cevaplanmış binlerce doğrulanmış konuyu inceleyin ve arayın"
       ]
     },
     {
       id: "interaction",
-      title: "انٹرایکٹو اور کسٹم خصوصیات",
+      title: "Etkileşim ve Kişiselleştirme Özellikleri",
       items: [
-        "فیڈ بیک سسٹم - مطبوعات، کتب یا جوابات پر اپنے ردِعمل کا اظہار کریں، تبصرے کریں اور فیڈ بیک دیں",
-        "پسندیدہ ہب - اپنی پسندیدہ کتب، مضامین، قرآنی آیات یا احادیث کو فوری طور پر محفوظ اور منظم کریں",
-        "بک مارکس اور نوٹس - مطالعہ کے دوران درست مقامات کو محفوظ کریں اور مارک ڈاؤن سپورٹ کے ساتھ کسٹم اسٹڈی نوٹس مرتب کریں",
-        "سوشل شیئرنگ - میسجنگ پلیٹ فارمز اور سوشل نیٹ ورکس پر قیمتی مواد کو آسانی سے شیئر کریں",
-        "مباحثہ کے تبصرے - براہ راست مخصوص مضامین اور کتب کے نیچے منظم کمیونٹی بات چیت",
-        "صادر کی سرگرمی کا ڈیش بورڈ - سیکھنے کے ماڈیولز، پڑھنے کی رفتار اور ذاتی سنگِ میل کی تفصیلی تاریخ"
+        "Geri Bildirim Sistemi - Yayınlara, kitaplara veya yanıtlara tepki verin, yorum yapın ve geri bildirimde bulunun",
+        "Favoriler Merkezi - Favori kitaplarınızı, makalelerinizi, Kur'an ayetlerinizi veya hadislerinizi anında kaydedin ve düzenleyin",
+        "Yer İmleri ve Notlar - Okuma sırasında hassas konumları kaydedin ve markdown destekli özel çalışma notları derleyin",
+        "Sosyal Paylaşım - Değerli materyalleri mesajlaşma platformlarında ve sosyal ağlarda kolayca paylaşın",
+        "Yorum Müzakereleri - Belirli makale ve kitapların altında doğrudan topluluk müzakereleri",
+        "Kullanıcı Aktivite Paneli - Öğrenme modüllerinizin, okuma hızınızın ve kişisel ilerleme hedeflerinizin detaylı geçmişi"
       ]
     },
     {
       id: "technical",
-      title: "جدید تکنیکی خصوصیات",
+      title: "Gelişmiş Teknik Özellikler",
       items: [
-        "مقامی ویب ایپ (PWA) - ایک کلک کی انسٹالیشن کے ساتھ پورٹل کو براہ راست اپنے اسمارٹ فون کی ہوم اسکرین پر شامل کریں",
-        "آف لائن مطالعہ - فعال انٹرنیٹ کنیکٹیویٹی کے بغیر مکمل کتب اور بنیادی متون تک رسائی کا لطف اٹھائیں",
-        "پش نوٹیفکیشنز - حال ہی میں شائع ہونے والے مضامین، کورسز یا سوال و جواب کے جوابات کے بارے میں حقیقی وقت میں الرٹس حاصل کریں",
-        "کثیر لسانی پورٹل - 100 سے زیادہ عالمی زبانوں میں دستیاب تراجم، متون اور یوزر انٹرفیس تک رسائی حاصل کریں",
-        "آرام دہ موڈز - آنکھوں کے آرام کے لیے بنائے گئے بهترین لائٹ اور ڈارک تھیم کے اختیارات",
-        "مکمل طور پر ریسپونسیو - ڈیسک ٹاپ, ٹیبلٹ یا اسمارٹ فون پر یکساں اور خوبصورت لے آؤٹ",
-        "اعلیٰ عالمی تلاش - ہماری جدید ترین انڈیکسڈ سرچ ٹیکنالوجی کا استعمال کرتے ہوئے سیکنڈ کے phantom ہندسے میں ہزاروں صفحات پر مشتمل کتب تلاش کریں",
-        "محفوظ اسٹوریج - صارف کے لاگز کی مکمل ڈیٹا انکرپشن اور پرائیویسی کا تحفظ"
+        "Yerel Web Uygulaması (PWA) - Portalı tek bir dokunuşla akıllı telefonunuzun ana ekranına doğrudan ekleyin",
+        "Çevrimdışı Okuma - Aktif internet bağlantısı olmadan da eksiksiz kitap koleksiyonlarına ve temel metinlere erişimin tadını çıkarın",
+        "Anlık Bildirimler - Yeni yayınlanan makaleler, dersler veya soru-cevap yanıtları hakkında gerçek zamanlı bildirimler alın",
+        "Çok Dilli Portal - 100'den fazla dünya dilinde sunulan tercümelere, metinlere ve kullanıcı arayüzlerine erişin",
+        "Akıcı Temalar - Göz konforu için özel olarak tasarlanmış kusursuz, yüksek kontrastlı koyu/açık tema seçenekleri",
+        "Tam Duyarlı Tasarım - Masaüstü, tablet veya akıllı telefonda tutarlı ve mükemmel düzen mimarisi",
+        "Üst Düzey Arama - İndeksli arama teknolojimizle binlerce kitap sayfasını milisaniyeler içinde arayın",
+        "Güvenli Depolama - Kullanıcı verilerinin ve kayıtlarının tam şifrelenmesi ve gizliliğinin korunması"
       ]
     },
     {
       id: "vision",
-      title: "مستقبل کا وژن",
+      title: "Gelecek Vizyonu",
       items: [
-        "تعمیری بین المذاہب مکالمے اور تحقیق کے لیے وقف ایک کھلی، بے حد علمی جگہ کو فروغ دینا",
-        "زبان، پس منظر یا مکتبہ فکر سے قطع نظر مکمل طور پر منصفانہ تعلیمی رسائی کو یقینی بنانا",
-        "جامع فہم کو فروغ دینا - قرآن کو محض پڑھنے سے لے کر اس کے گہرے معانی سکھانے اور سمجھنے تک کا سفر",
-        "تصدیق شدہ تعلیمی سلسلے قائم کرنا، مستند اسناد اور ڈیجیٹل/پرنٹ ایبل ڈپلومے فراہم کرنا",
-        "عالمی سطح پر مستند مقدس علم کے لیے ایک اہم اور قابلِ اعتبار ڈیجیٹل مرکز قائم کرنا"
+        "Yapıcı ilmi araştırmalara adanmış açık ve sınırsız bir akademik ortam oluşturmak",
+        "Dil, köken veya mezhepten bağımsız olarak tamamen eşitlikçi bir eğitim erişimi sağlamak",
+        "Kapsamlı Anlayışı Geliştirmek - Kur'an'ı sadece okumaktan, en derin anlamlarını öğrenmeye ve öğretmeye geçiş",
+        "Sertifikalı eğitim programları oluşturmak, onaylı diplomalar ve basılabilir belgeler sunmak",
+        "Sahih mukaddes ilimler için küresel ölçekte birincil ve en güvenilir dijital merkez olmak"
       ]
     },
     {
       id: "podcast",
-      title: "اسلامی پوڈ کاسٹ اور ریڈیو چینل",
+      title: "İslami Podcast ve Radyo Kanalı",
       items: [
-        "موضوعاتی پوڈ کاسٹ - تفسیر، علوم الحدیث، اسلامی تاریخ، فقہ، خاندانی اقدار، روحانیت اور جدید نوجوانوں کے مسائل پر مبنی آڈیو مباحثے",
-        "قرآن ریڈیو - دنیا کے معروف قراء کی خوبصورت تلاوتوں پر مشتمل مسلسل 24/7 ہائی فائی آڈیو اسٹریمز",
-        "خطبات کا ذخیرہ - قابلِ اعتماد مقررین کے تاریخی اور جدید جمعہ، عید اور خصوصی مواقع کے خطبات کا مجموعہ",
-        "آڈیو بکس - کلاسیکی اسلامی لٹریچر اور کتب کی اعلیٰ معیار کی پیشہ ورانہ ریکارڈنگز اور آڈیو پیشکش"
+        "Tematik Podcast'ler - Tefsir, hadis ilimleri, İslam tarihi, fıkıh, aile değerleri, tasavvuf ve modern gençlik meselelerini ele alan sesli sohbetler",
+        "Kur'an Radyosu - Dünyaca ünlü karilerin güzel tilavetlerini çalan 7/24 kesintisiz yüksek kaliteli yayınlar",
+        "Hutbe ve Vaaz Arşivi - Güvenilir hatipler tarafından verilen tarihi ve modern cuma, bayram ve özel gün hutbeleri",
+        "Sesli Kitaplar - Klasik İslami edebiyat ve eserlerin yüksek kaliteli profesyonel seslendirme ve kayıtları"
       ]
     },
     {
       id: "calendar",
-      title: "اسلامی کیلنڈر اور پروگرامز",
+      title: "Hicri Takvim ve Etkinlik Rehberi",
       items: [
-        "ہجری کیلنڈر - چاند کے مراحل، اہم تاریخوں اور تاریخی اہمیت کے حامل دنوں پر مشتمل مکمل اسلامی قمری کیلنڈر",
-        "رمضان پلانر - سحری، افطاری، تراویح کی نمازوں اور کسٹم قرآن تلاوت کی تکمیل کے منصوبوں کے لیے انٹرایکٹو ڈیش بورڈز",
-        "حج اور عمرہ اسسٹنٹ - مرحلہ وار انٹرایکٹو گائیڈ، مستند دعائیں، تفصیلی روٹ میپس اور عملی سفری رہنما خطوط",
-        "عالمی پروگرامز بورڈ - آنے والی علمی کانفرنسوں، سیمینارز اور ویبینارز کی جامع فہرست"
+        "Hicri Takvim - Ayın evrelerini, önemli tarihleri ve tarihi açıdan mühim günleri içeren eksiksiz İslami ay takvimi",
+        "Ramazan Rehberi - Sahur, iftar, teravih namazları ve özel Kur'an hatim planları için interaktif gösterge panelleri",
+        "Hac ve Umre Rehberi - Adım adım interaktif rehberlik, sahih dualar, ayrıntılı güzergah haritaları ve pratik seyahat tavsiyeleri",
+        "Küresel Etkinlikler Panosu - Yaklaşan akademik konferansların, seminerlerin ve web seminerlerinin kapsamlı listesi"
       ]
     },
     {
       id: "directory",
-      title: "عالمی اسلامی ڈائریکٹری",
+      title: "Küresel İslami Rehber",
       items: [
-        "مساجد کا ڈیٹا بیس - تصدیق شدہ مقامی مساجد کے نقشے، نماز کے اوقات، خطیب کی تفصیلات اور خدمات",
-        "اداروں کی ڈائریکٹری - دنیا بھر میں اسلامی اسکولوں، یونیورسٹیوں، مدارس اور تعلیمی مراکز کی فہرستیں",
-        "علماء کے پروفائلز - تعلیمی خصوصیات، رابطے کی معلومات اور تسلیم شدہ عالمی علماء کے پروفائلز",
-        "حلال نقشہ - کسی بھی شہر میں تصدیق شدہ حلال ریستوراں، کیفے اور سپلائرز تلاش کرنے کے لیے جیو لوکیشن ٹریکنگ",
-        "اسلامی مارکیٹس - قریبی تصدیق شدہ باپردہ ملبوسات، کتب خانوں اور آرگینک اسٹورز کی ڈائریکٹریز تلاش کریں"
+        "Camiler Veritabanı - Doğrulanmış yerel cami haritaları, namaz vakitleri, hatip bilgileri ve cami hizmetleri",
+        "Kurumlar Dizini - Dünya çapındaki İslami okulların, üniversitelerin, medreselerin ve eğitim merkezlerinin listeleri",
+        "Alimler Portföyü - Akredite küresel alimlerin akademik uzmanlıkları, iletişim bilgileri ve profilleri",
+        "Helal Harita - Herhangi bir şehirde doğrulanmış helal restoranları, kafeleri ve tedarikçileri bulmak için konum takibi",
+        "İslami Çarşı - Yakındaki tesettür giyim mağazaları, kitapçılar ve organik ürün dükkanlarının doğrulanmış dizini"
       ]
     },
     {
       id: "spirituality",
-      title: "روحانیت اور تزکیہ نفس",
+      title: "Maneviyat ve Nefis Tezkiyesi",
       items: [
-        "مستند اذکار - کثیر لسانی تراجم کے ساتھ صبح، شام، سونے اور نماز کے بعد کے اذکار و دعائیں",
-        "دعاؤں کا ذخیرہ - موضوع کے لحاظ سے منظم کردہ قرآنی اور مسنون دعاؤں کا مجموعہ",
-        "روحانی تزکیہ - تصوف، احسان اور دل کی پاکیزگی پر توجہ مرکوز کرنے والے انٹرایکٹو کورسز اور لٹریچر",
-        "رہنمائی شدہ غور و فکر - اسلامی ذہن سازی، تدبر (تفکر) اور روحانی سکون کے لیے پرسکون سیشنز اور ٹولز"
+        "Sahih Ezkâr - Sabah, akşam, uyku öncesi ve namaz sonrası dualar ile çok dilli mealleri",
+        "Dua Kütüphanesi - Konularına göre sistemli biçimde düzenlenmiş Kur'an ve Sünnet kaynaklı dualar",
+        "Manevi Tezkiye - Tasavvuf, İhsan ve kalp arınmasına odaklanan interaktif dersler ve literatür",
+        "Rehberli Tefekkür - İslami tefekkür, murakabe ve manevi huzur için dingin seanslar ve araçlar"
       ]
     },
     {
       id: "family",
-      title: "خاندان اور اسلامی تربیت",
+      title: "Aile ve İslami Terbiye",
       items: [
-        "بچوں کی تعلیم - بچوں کی کہانیاں، اخلاقی تعلیمی گیمز، ورک شیٹس اور اسلامی اخلاقی اقدار پر مشتمل عملی ماڈیولز",
-        "ازدواجی رفیق - اسلامی تعلیمات کے مطابق شادی کی تیاری، حقوق و فرائض اور ازدواجی مشاورت",
-        "والدین کی رہنمائی - ڈیجیٹل دور میں بچوں کی اخلاقی اور تربیت کے چیلنجز سے نمٹنے کے لیے رہنما خطوط",
-        "نوجوانوں کا گوشہ - کیریئر گائیڈلائنز، روحانی مشورے اور نوجوانوں کو درپیش عصری تعلیمی اور نظریاتی چیلنجز کے حل"
+        "Çocuk Eğitimi - Çocuk hikayeleri, ahlaki eğitici oyunlar, çalışma sayfaları ve İslami karakter değerlerini içeren pratik modüller",
+        "Evlilik Rehberi - İslami öğretilere uygun evlilik hazırlığı, haklar, sorumluluklar ve aile danışmanlığı tavsiyeleri",
+        "Ebeveyn Kılavuzu - Sağlam ahlaki temellerle dijital çağda ebeveynlik zorluklarının üstesinden gelme",
+        "Gençlik Köşesi - Gençlerin karşılaştığı çağdaş akademik ve itikadi meseleler için kariyer rehberliği, manevi tavsiyeler ve çözümler"
       ]
     },
     {
       id: "data",
-      title: "ڈیٹا اور شماریات مرکز",
+      title: "Veri ve İstatistik Merkezi",
       items: [
-        "قرآنی ریاضی - قرآن مجید میں عددی ڈیٹا، حروف کی تعداد، الفاظ کی تعداد اور موضوعاتی تعدد کے اعدادوشمار",
-        "آبادیاتی تجزیات - عالمی مسلم آبادی کی تقسیم، مکاتب فکر اور تنظیمی مراکز کے بارے میں حقائق پر مبنی ڈیٹا بیس",
-        "انترایکٹو ٹائم لائن - عہدِ نبوی (ص) سے لے کر اب تک کی اسلامی تاریخ کے اہم واقعات کا تاریخی خاکہ",
-        "اسلامی انسائیکلوپیڈیا - مستند حوالوں کے ساتھ هزاروں بنیادی تصورات کا احاطہ کرنے والے ہم مرتبہ نظرثانی شدہ، تصدیق شدہ مضامین"
+        "Kur'an Matematiği - Kur'an boyunca sayısal veriler, harf sayıları, kelime sayıları ve anlamsal frekans istatistikleri",
+        "Demografik Analizler - Küresel Müslüman nüfus dağılımları, mezhepler ve kurumsal merkezler hakkında somut veritabanları",
+        "İnteraktif Zaman Çizelgesi - Peygamber Efendimiz'in (s.a.v.) devrinden bu yana İslam tarihinin kritik olaylarını gösteren tarihi yol haritası",
+        "İslam Ansiklopedisi - Binlerce temel kavramı kaynaklarıyla açıklayan, hakemli ve doğrulanmış maddeler"
       ]
     },
     {
       id: "api",
-      title: "API اور ڈویلپرز پورٹل",
+      title: "API ve Geliştirici Portalı",
       items: [
-        "اوپن APIs - قرآنِ پاک، احادیث اور فقہ کے منظم ڈیٹا سیٹس فراہم کرنے والے REST اور GraphQL سرورز",
-        "آسان ایمبیڈز - تیسری پارٹی کے بلاگز یا پورٹلز پر قرآنی آیات یا مستند احادیث کے خوبصورت وجیٹس کو براہ راست ایمبیڈ کریں",
-        "پلگ انز - ورڈپریس، شاپیفائی اور ویب فلو انٹیگریشن کے لیے بنائے گئے ماڈیولر وجیٹس اور پلگ انز",
-        "اوپن ڈیٹا سیٹس - لسانی تحقیق اور تجزیاتی مطالعہ کے لیے علمی اور صاف شدہ ٹیکسٹ ڈیٹا سیٹس"
+        "Açık API'ler - Kur'an-ı Kerim, Hadisler ve Fıkıh yapısal veri kümelerini sunan yüksek performanslı REST ve GraphQL sunucuları",
+        "Kolay Yerleştirme (Embed) - Kur'an ayetleri veya sahih hadislerin görsel widget'larını doğrudan üçüncü taraf bloglara veya portallara gömün",
+        "Eklentiler - WordPress, Shopify ve Webflow entegrasyonu için tasarlanmış modüler widget'lar ve eklentiler",
+        "Açık Veri Kümeleri - Dilbilimsel araştırmalar ve analitik çalışmalar için tamamen ücretsiz, temizlenmiş metin veri kümeleri"
       ]
     },
     {
       id: "tools",
-      title: "عملی ٹولز اور کیلکولیٹرز",
+      title: "Pratik Araçlar ve Hesaplayıcılar",
       items: [
-        "صحیح نماز کے اوقات - نماز کے حساب کتاب کے اعلیٰ درستگی والے مقامی ٹولز اور اذان کے الرٹس",
-        "قبلہ نما - قبلہ کی درست ترین سمت معلوم کرنے کے لیے کمپاس اور نقشہ انٹیگریشن",
-        "ڈیجیٹل تسبیح - خودکار مقامی ڈیٹا اسٹوریج اور کسٹم ذکر کی فہرستوں کے ساتھ خوبصورت کاؤنٹر اسکرین",
-        "زکوٰۃ کیلکولیٹر - سونے، چاندی، سرمایہ کاری اور اثاثوں پر معیاری زکوٰۃ کی ذمہ داریوں کا حساب لگانے کے لیے خودکار پیرامیٹرز",
-        "میراث کیلکولیٹر - اسلامی وراثت کے قوانین کے مطابق ترکے کی تقسیم کے درست حسابات",
-        "حلال فنانس گائیڈز - صارفین کو اسلامی بینکاری، سرمایہ کاری کے رہنما خطوط اور سود سے بچنے میں مدد کرنے والے ضروری مواد"
+        "Hassas Namaz Vakitleri - Yüksek doğruluklu, konuma dayalı namaz vakti hesaplama araçları ve ezan bildirimleri",
+        "Kıble Bulucu - Kıble için mükemmel koordinatları hesaplayan pusula ve harita entegrasyonu",
+        "Dijital Tesbih - Otomatik yerel durum koruması ve özel zikir listeleri sunan estetik sayım ekranı",
+        "Zekat Hesaplayıcı - Altın, gümüş, nakit, yatırımlar ve ticari mallar üzerinden standart zekat miktarını hesaplayan otomatik parametreler",
+        "Miras Hesaplayıcı - İslami miras fıkhına tam olarak uyan paylaştırma parametrelerini gösteren hassas hesaplamalar",
+        "Helal Finans Rehberi - Kullanıcıların faizsiz bankacılık, yatırım kuralları ve faizden (riba) kaçınma yollarını öğrenmelerine yardımcı temel kaynaklar"
       ]
     },
     {
       id: "blog",
-      title: "مضامین اور علمی بلاگز",
+      title: "Makaleler ve İlmi Yazılar",
       items: [
-        "علماء کا کالم - عالمی سطح پر تسلیم شدہ علماء کی جانب سے شائع کیے جانے والے ہفتہ وار اور ماہانہ تجزیاتی مضامین",
-        "تازہ ترین بصیرتیں - اسلامی دنیا کے موجودہ واقعات پر معروضی تجزیہ اور متوازن اپ ڈیٹس",
-        "تحقیقی خلاصے - آسان فہم زبان میں پیش کیے گئے پیچیدہ، علمی اور نظریاتی مطالعہ جات اور تحقیقات",
-        "ارکان کا حصہ - منظور شدہ کمیونٹی لکھاریوں کے تیار کردہ اعلیٰ معیار کے مذہبی، سائنسی اور سماجی مضامین"
+        "Alimler Kürsüsü - Dünyaca tanınmış akredite alimler tarafından doğrudan yayınlanan haftalık ve aylık analitik yazılar",
+        "Haber Analizleri - İslam dünyasındaki güncel olaylara dair tarafsız ve objektif değerlendirmeler içeren haber analizleri",
+        "Araştırma Özetleri - Karmaşık, hakemli teolojik araştırmaların kolay anlaşılır şekilde sadeleştirilmiş özetleri",
+        "Üye Katkıları - Onaylanmış topluluk yazarları tarafından kaleme alınmış yüksek kaliteli ilmi, fikri ve sosyolojik makaleler"
       ]
     },
     {
       id: "gamification",
-      title: "گیمیفیکیشن اور سنگِ میل",
+      title: "Ödüller ve İlmi Başarılar",
       items: [
-        "انعامات کا نظام - روزانہ مطالعہ، کورسز مکمل کرنے یا تصدیق شدہ جوابات کے ذریعے ساتھیوں کی مدد کرنے پر پوائنٹس حاصل کریں",
-        "بیجز اور خطابات - طالب علم، محقق، یا اسکالر جیسے تصدیق شدہ خطابات حاصل کرنے کے لیے سنگِ میل عبور کریں",
-        "عالمی لیڈر بورڈ - سب سے زیادہ فعال، مقرر، یا مددگار ارکان کو نمایاں کرنے والا علمی لیڈر بورڈ",
-        "قومی مقابلے - حفظِ قرآن، اسلامی تاریخ کے کوئزز اور تحقیقی مضمون نویسی پر مشتمل سالانہ مقابلے مع سرٹیفکیٹس اور انعامات"
+        "Puan Sistemi - Günlük okuma yaparak, eğitim kurslarını tamamlayarak veya onaylanmış cevaplarla ilmi yardımlaşmada bulunarak puan kazanın",
+        "Rozetler ve Unvanlar - Talebe, Akademisyen, Araştırmacı veya Alim gibi onaylı unvanları kazanmak için başarı hedeflerini tamamlayın",
+        "Küresel Sıralama - En aktif, faydalı ve gayretli üyeleri öne çıkaran tatlı bir ilmi yarış panosu",
+        "Ulusal Yarışmalar - Kur'an Hafızlığı, İslam Tarihi bilgi yarışmaları ve araştırma makalesi yazımı dallarında ödüllü yıllık etkinlikler"
       ]
     }
   ]
 };
 
 export const contactUs = {
-  title: "ہم سے رابطہ کریں",
-  subtitle: "رہنمائی، تاثرات، یا تعاون کے لیے",
-  emailLabel: "آپ کا ای میل ایڈریس",
-  messageLabel: "آپ کا پیغام",
-  sendBtn: "پیغام بھیجیں",
-  successMsg: "آپ کا پیغام کامیابی کے ساتھ بھیج دیا گیا ہے! ہم جلد ہی آپ سے رابطہ کریں گے۔",
-  infoTitle: "کمیونٹی کی رائے",
-  infoText: "قرآن عالم کو مسلسل بہتر بنانے کے لیے، ہم آپ کے جائزوں اور تجاویز کے منتظر ہیں۔ اگر آپ کو کوئی ٹائپوگرافیکل یا ترجمے کا مسئلہ نظر آئے تو براہ کرم ہمیں فوری طور پر بتائیں تاکہ ہم اسے درست کر سکیں۔",
-  directEmail: "براہ راست رابطہ: support@quranalim.com"
+  title: "İletişim",
+  subtitle: "Rehberlik, geri bildirim veya iş birliği için",
+  emailLabel: "E-posta Adresiniz",
+  messageLabel: "Mesajınız",
+  sendBtn: "Mesaj Gönder",
+  successMsg: "Mesajınız başarıyla gönderildi! En kısa sürede size dönüş yapacağız.",
+  infoTitle: "Topluluk Geri Bildirimi",
+  infoText: "QuranAlim'i sürekli geliştirmek için değerlendirmelerinizi ve önerilerinizi memnuniyetle karşılıyoruz. Herhangi bir yazım veya meal hatası görürseniz, düzeltmemiz için lütfen hemen bize bildirin.",
+  directEmail: "Doğrudan İletişim: support@quranalim.com"
 };
 
 export const disclaimer = {
-  title: "اعلان دستبرداری",
-  subtitle: "تعلیمی اور تحقیقی مقاصد کے لیے وضاحتی بیان",
-  lastUpdated: "آخری اپ ڈیٹ: جولائی 2026",
-  intro: "قرآن عالم پر فراہم کردہ تمام مواد، تراجم اور رہنمائی صرف تعلیمی مطالعہ، تحقیق اور غیر فرقہ وارانہ تعلیمی ماحول کے لیے مرتب کی گئی ہے۔",
-  section1Title: "1. مختلف تشریحات",
-  section1Text: "مقدس صحیفوں کے معنوی تراجم اور تفاسیر متعدد تاریخی اور سائنسی نقطہ نظر پر محیط ہیں۔ قرآن عالم فرقہ وارانہ تعصب کے بغیر کھلی تحقیق کی سہولت کے لیے مختلف کلاسیکی تفاسیر کی میزبانی کرتا ہے۔",
-  section2Title: "2. کوئی قانونی/شرعی فیصلہ نہیں",
-  section2Text: "کسی بھی مواد یا متعامل حسابات (جیسے زکوٰۃ کے پیرامیٹرز یا نماز کے حساب کے اختیارات) کو مطلق مذہبی فیصلہ (فتویٰ) نہیں سمجھا جانا چاہیے۔ باضابطہ فتوے اور فقہ کے لیے، براہ کرم تصدیق شدہ عالمی یا مقامی اداروں سے رجوع کریں۔",
-  section3Title: "3. انسانی غلطی",
-  section3Text: "اگرچہ ہم ہر صفحے کے لیے مستعد آڈیٹنگ پروٹوکول استعمال کرتے ہیں، لیکن انسانی غلطی اور ٹائپوگرافک خامیوں کا احتمال موجود ہے۔ اگر آپ کو کوئی خامی نظر آئے تو براہ کرم فوری طور پر ہماری سپورٹ ٹیم سے رابطہ کریں تاکہ ہم اصلاحات کر سکیں۔",
+  title: "Yasal Uyarı ve Sorumluluk Reddi",
+  subtitle: "Eğitim ve araştırma amaçlı bilgilendirme beyanı",
+  lastUpdated: "Son Güncelleme: Temmuz 2026",
+  intro: "QuranAlim üzerinde sunulan tüm içerikler, mealler ve rehberler yalnızca akademik çalışma, araştırma ve mezhepler üstü eğitim ortamları için derlenmiştir.",
+  section1Title: "1. Farklı Yorumlar ve İçtihatlar",
+  section1Text: "Kutsal metinlerin mealleri ve tefsirleri birden fazla tarihi ve ilmi bakış açısını ihtiva eder. QuranAlim, herhangi bir mezhebi taassup gütmeksizin serbest araştırmayı kolaylaştırmak için çeşitli klasik yorumlara yer verir.",
+  section2Title: "2. Bağlayıcı Dini Hüküm (Fetva) Niteliği Taşımaması",
+  section2Text: "Sitedeki hiçbir içerik veya interaktif hesaplama (Zekat hesaplama veya namaz vakti seçenekleri gibi) mutlak bir dini hüküm (Fetva) olarak kabul edilmemelidir. Resmi fetvalar ve fıkhi meseleler için lütfen yetkili ilim kurullarına veya müftülüklere başvurunuz.",
+  section3Title: "3. Mürettip ve İnsan Kaynaklı Hatalar",
+  section3Text: "Her sayfa için titiz denetim protokolleri uygulamamıza rağmen, insan hatası ve dizgi sürçmeleri mümkündür. Herhangi bir yanlışlıkla karşılaşırsanız, düzeltme yapabilmemiz için lütfen derhal destek ekibimizle iletişime geçiniz.",
 };
 
 export const privacyPolicy = {
-  title: "رازداری کی پالیسی",
-  subtitle: "آپ کا ذاتی ڈیٹا آپ کے اپنے ہاتھوں میں ہے",
-  lastUpdated: "آخری اپ ڈیٹ: جولائی 2026",
-  intro: "آپ کی پرائیویسی ہمارے لیے انتہائی مقدس ہے۔ قرآن عالم مکمل طور پر مقامی (لوکل) طور پر کام کرتا ہے جس میں صارف کی ٹریکنگ یا اینالیٹکس لاگنگ نہیں ہوتی۔",
-  section1Title: "1. لوکل اسٹوریج سیکیوریت",
-  section1Text: "آپ کے بک مارکس، پڑھنے کی ہسٹری اور ڈسپلے کی ترجیحات خاص طور پر آپ کے براؤزر کی لوکل میموری پر محفوظ کی جاتی ہیں۔ یہ معلومات کبھی بھی کسی ریموٹ سرور پر اپ لوڈ یا منتقل نہیں کی جاتیں۔",
-  section2Title: "2. زیرو ٹریکنگ اور اشتہارات",
-  section2Text: "یہ پورٹل سختی سے کمرشل فری ہے، جس میں کسی بھی قسم کے اشتہارات، مارکیٹنگ پکسلز، یا تھرڈ پارٹی بیہیورل ٹریکرز شامل نہیں ہیں۔",
-  section3Title: "3. مقامی کنفیگریشن کی استقامت",
-  section3Text: "براؤزر کی کوکیز صرف بنیادی ترجیحات کو محفوظ کرنے کے لیے استعمال ہوتی ہیں، جیسے آپ کا منتخب کردہ تھیم (لائٹ/ڈارک)، لے آؤٹ سائز، ترجمہ کے اختیارات اور منتخب زبان۔",
+  title: "Gizlilik Politikası",
+  subtitle: "Kişisel verileriniz tamamen kendi kontrolünüzdedir",
+  lastUpdated: "Son Güncelleme: Temmuz 2026",
+  intro: "Gizliliğiniz bizim için son derece kutsaldır. QuranAlim, sıfır kullanıcı takibi ve sıfır analiz kaydı ile %100 yerel olarak çalışır.",
+  section1Title: "1. Yerel Depolama Güvenliği",
+  section1Text: "Yer imleriniz, okuma geçmişiniz ve görünüm tercihleriniz yalnızca tarayıcınızın yerel hafızasında saklanır. Bu bilgiler asla uzak sunuculara yüklenmez veya iletilmez.",
+  section2Title: "2. Sıfır Takip ve Reklamsız Yapı",
+  section2Text: "Portal tamamen ticari kaygılardan uzaktır; hiçbir reklam ağı, pazarlama pikseli veya üçüncü taraf davranış takipçisi barındırmaz.",
+  section3Title: "3. Yerel Ayarların Korunması",
+  section3Text: "Tarayıcı çerezleri veya yerel saklama alanları, yalnızca seçtiğiniz tema (açık/koyu), yazı boyutu, meal seçenekleri ve seçilen dil tercihi gibi basit ayarları korumak için kullanılır.",
 };
 
 export const termsAndConditions = {
-  title: "شرائط و ضوابط",
-  subtitle: "قرآن عالم پورٹل استعمال کرنے کی ہدایات",
-  lastUpdated: "آخری اپ ڈیٹ: جولائی 2026",
-  intro: "قرآن عالم میں خوش آمدید۔ ہماری ایپلی کیشن تک رسائی حاصل کرکے یا اسے استعمال کرکے، آپ مندرجعہ ذیل استعمال کی شرائط کی تعمیل کرنے اور ان کے پابند ہونے سے اتفاق کرتے ہیں۔",
-  section1Title: "1. مقدس نصوص کا احترام",
-  section1Text: "ہم قرآن مجید اور احادیث کا مطالعہ کرنے والے تمام زائرین اور طلباء سے گزارش کرتے ہیں کہ ان نصوص کا مطالعہ کرتے وقت اخلاقی اور روحانی احترام کو برقرار رکھیں۔",
-  section2Title: "2. صرف ذاتی اور تعلیمی استعمال",
-  section2Text: "یہ ایپلی کیشن مکمل طور پر انفرادی، مطالعہ اور تحقیقی ماحول کے لیے تیار کی گئی ہے۔ پورٹل کا تجارتی، منافع بخش یا غیر قانونی مقاصد کے لیے استحصال سختی سے ممنوع ہے۔",
-  section3Title: "3. سروس کی دستیابی",
-  section3Text: "اگرچہ ہم بغیر کسی رکاوٹ کے اور اشتہارات سے پاک رسائی فراہم کرنے کی ہر ممکن کوشش کرتے ہیں، لیکن ہم دیکھ بھال کے چکروں یا نیٹ ورک کی تبدیلیوں کی وجہ سے مسلسل اپ ٹائم کی ضمانت نہیں دیتے۔",
+  title: "Kullanım Şartları",
+  subtitle: "QuranAlim Portalını kullanım kuralları",
+  lastUpdated: "Son Güncelleme: Temmuz 2026",
+  intro: "QuranAlim'e hoş geldiniz. Uygulamamıza erişerek veya kullanarak aşağıdaki kullanım şartlarına uymayı kabul etmiş olursunuz.",
+  section1Title: "1. Mukaddes Metinlere Hürmet",
+  section1Text: "Kur'an-ı Kerim ve Hadis-i Şerif metinlerini inceleyen tüm ziyaretçilerimizden ve ilim taliplerinden bu metinleri incelerken ahlaki ve manevi hürmeti muhafaza etmelerini rica ederiz.",
+  section2Title: "2. Yalnızca Bireysel ve Eğitsel Kullanım",
+  section2Text: "Bu uygulama tamamen bireysel çalışma, öğrenim ve araştırma ortamları için tasarlanmıştır. Portalın ticari, kâr amaçlı veya uygunsuz hedefler için istismar edilmesi kesinlikle yasaktır.",
+  section3Title: "3. Hizmet Sürekliliği",
+  section3Text: "Kesintisiz, sorunsuz ve reklamsız erişim sağlamak için her türlü gayreti göstermekle birlikte, bakım döngüleri veya yapısal ağ değişiklikleri nedeniyle her an kesintisiz çalışma garantisi verilmemektedir.",
 };
 
 export const termsOfService = {
-  title: "سروس کی شرائط",
-  subtitle: "ڈیجیٹل پلیٹ فارم کے استعمال کا معاہدہ",
-  lastUpdated: "آخری اپ ڈیٹ: جولائی 2026",
-  intro: "قرآن عالم اسلامی علوم اور تحقیق کے لیے ایک مفت ڈیجیٹل پلیٹ فارم مہیا کرتا ہے۔ اس سائٹ تک رسائی حاصل کرکے، آپ مندرجہ ذیل شرائط سے اتفاق کرتے ہیں۔",
-  section1Title: "1. درستگی اور شرعی مشاورت",
-  section1Text: "ہم 100% مستند قرآنی اور احادیث کے تراجم فراہم کرنے کی انتہائی کوشش کرتے ہیں۔ تاہم، باضابطہ مذہبی احکام (فتاویٰ) یا پیچیدہ فقہی مسائل کے لیے، آپ کو متعلقہ اور مستند علما سے براہ راست رجوع کرنے کا مشورہ دیا جاتا ہے۔",
-  section2Title: "2. مکمل غیر تجارتی پالیسی",
-  section2Text: "یہ پورٹل ایک صدقہ جاریہ ہے۔ اس کوڈ بیس یا ایپلی کیشن کے مواد کو دوبارہ پیک کرنا، اس پر چارج کرنا، یا تجارتی پے والز کے اندر دوبارہ فروخت کرنا سختی سے منع ہے۔",
-  section3Title: "3. محفوظ رسائی اور سرور کی پالیسیاں",
-  section3Text: "آڈیو یا ٹیکسٹ مواد کی خودکار کرالنگ یا ضرورت سے زیادہ تیز رفتار اسکریپنگ جس سے سسٹم کے دوسرے صارفین کی کارکردگی متاثر ہو، ممنوع ہے۔",
+  title: "Hizmet Şartları",
+  subtitle: "Dijital platform kullanım sözleşmesi",
+  lastUpdated: "Son Güncelleme: Temmuz 2026",
+  intro: "QuranAlim, İslami ilimler ve araştırmalara adanmış ücretsiz bir dijital platform sunar. Siteye erişerek aşağıda listelenen şartları kabul etmiş olursunuz.",
+  section1Title: "1. Doğruluk ve Dini Danışma",
+  section1Text: "%100 doğrulanmış Kur'an ve Hadis mealleri sunmak için azami gayret sarf ediyoruz. Ancak resmi dini hükümler (fetvalar) veya karmaşık fıkhi kararlar için doğrudan muteber ilim ehline danışmanız önemle tavsiye edilir.",
+  section2Title: "2. Kesinlikle Ticarete Konu Edilemez",
+  section2Text: "Bu portal bir Sadaka-i Câriye'dir. Bu kaynak kodunun veya uygulama içeriğinin ticari ödeme duvarları ardında yeniden paketlenmesi, ücretlendirilmesi veya yeniden satılması kesinlikle yasaktır.",
+  section3Title: "3. Güvenli Erişim ve Sunucu Politikaları",
+  section3Text: "Sistemin diğer kullanıcıları için performansı düşürecek şekilde ses veya metin içeriklerinin otomatik taranması (crawling) veya aşırı yüksek frekanslı kazınması (scraping) yasaktır.",
 };
 
 export const mainPage = {
-  title: "معلوماتی مرکز",
-  sidebarTitle: "قرآن عالم",
-  languageSettings: "زبان کی ترتیبات",
+  title: "Bilgi Merkezi",
+  sidebarTitle: "QuranAlim",
+  languageSettings: "Dil Ayarları",
 };
 
 export const donate = {
-  title: "تعاون اور عطیہ",
-  subtitle: "قرآن عالم کو 100% مفت اور اشتہارات سے پاک رکھنے میں مدد کریں",
-  intro: "قرآن عالم سختی سے ایک غیر منافع بخش، اشتہارات سے پاک پراجیکٹ ہے جو صدقہ جاریہ کے لیے وقف ہے۔ ہم اشتہارات نہیں دکھاتے، صارف کا ڈیٹا نہیں بیچتے، اور نہ ہی پریمیم سبسکرپشن نافذ کرتے ہیں۔ ہمارے تمام ہوسٹنگ اور آپریشنل اخراجات مکمل طور پر کمیونٹی کے رضاکارانہ عطیات سے پورے کیے جاتے ہیں۔",
-  whyDonateTitle: "قرآن عالم کا تعاون کیوں کریں؟",
-  whyDonateText: "عطیہ دے کر، آپ براہ راست قرآن مجید، مستند احادیث، اور روحانی علم کا نور دنیا بھر کے لاکھوں حق کے متلاشیوں تک پھیلانے میں حصہ لیتے ہیں۔ آپ کا تعاون ایک صدقہ جاریہ ہے جس کا روحانی اجر ہمیشہ قائم رہتا ہے۔",
-  waysToDonateTitle: "تعاون کے طریقے",
-  card1Title: "ڈیجیٹل سپورٹ",
-  card1Desc: "ہمارے سرورز کو جاری رکھنے کے لیے ڈیجیٹل کارڈز، Stripe، یا ڈائریکٹ بینک ٹرانسفر کے ذریعے محفوظ طریقے سے تعاون کریں۔",
-  card2Title: "کرپٹو تعاون",
-  card2Desc: "ہم عالمی اور گمنام روحانی تعاون کے لیے غیر مرکزی ڈیجیٹل اثاثوں (BTC, ETH, USDT) کو سپورٹ کرتے ہیں۔",
-  card3Title: "تکنیکی اور تاثرات کا تعاون",
-  card3Desc: "ایپ شیئر کر کے، کیڑے رپورٹ کر کے، یا GitHub پر ڈیزائن کی بہتری کی تجاویز دے کر تعاون کریں۔",
-  pledgeTitle: "محفوظ عطیہ فارم",
-  pledgeLabel: "عطیہ کی رقم منتخب کریں",
-  pledgeCustom: "یا حسب ضرورت رقم درج کریں ($)",
-  pledgeSubmit: "تعاون کے لیے آگے بڑھیں",
-  paymentMethodLabel: "ادائیگی کا طریقہ منتخب کریں",
-  stripeLabel: "کریڈٹ کارڈ / Stripe",
-  cryptoLabel: "کرپٹو کرنسی (BTC / ETH / USDT)",
-  bankLabel: "براہ راست بینک ٹرانسفر",
-  successTitle: "جزاک اللہ خیراً!",
-  successDesc: "آپ کے فراخدلانہ تعاون کا شکریہ۔ آپ کا عطیہ قرآن عالم کی مسلسل دیکھ بھال اور ترقی میں براہ راست مدد کرتا ہے۔",
+  title: "Destek ve Bağış",
+  subtitle: "QuranAlim'in %100 ücretsiz ve reklamsız kalmasına yardımcı olun",
+  intro: "QuranAlim, Sadaka-i Câriye bilinciyle hazırlanmış, tamamen kâr amacı gütmeyen ve reklamsız bir projedir. Reklam göstermez, kullanıcı verilerini satmaz veya ücretli abonelik dayatmayız. Tüm barındırma ve işletim giderlerimiz yalnızca ilim taliplerinin ve gönüllülerin katkılarıyla karşılanmaktadır.",
+  whyDonateTitle: "Neden QuranAlim'e Destek Olmalısınız?",
+  whyDonateText: "Bağışta bulunarak, Kur'an-ı Kerim'in, sahih hadislerin ve manevi ilimlerin nurunu dünya çapında milyonlarca hakikat arayıcısına ulaştırmaya doğrudan ortak olursunuz. Katkınız, manevi ecri kesintisiz devam eden bir Sadaka-i Câriye hükmündedir.",
+  waysToDonateTitle: "Katkıda Bulunma Yolları",
+  card1Title: "Dijital Kart ile Destek",
+  card1Desc: "Sunucu giderlerimizi karşılamak için dijital kartlar, Stripe veya doğrudan banka havalesi ile güvenle katkıda bulunun.",
+  card2Title: "Kripto Varlıklar ile Destek",
+  card2Desc: "Küresel manevi destek için merkeziyetsiz dijital varlıkları (BTC, ETH, USDT) destekliyoruz.",
+  card3Title: "Teknik ve Geri Bildirim Katkısı",
+  card3Desc: "Uygulamayı paylaşarak, hataları bildirerek veya GitHub üzerinden tasarım iyileştirmeleri önererek katkı sağlayın.",
+  pledgeTitle: "Güvenli Katkı Formu",
+  pledgeLabel: "Bağış Miktarını Seçin",
+  pledgeCustom: "Veya Özel Tutar Girin ($)",
+  pledgeSubmit: "Destek Olmaya Devam Et",
+  paymentMethodLabel: "Ödeme Yöntemini Seçin",
+  stripeLabel: "Kredi Kartı / Stripe",
+  cryptoLabel: "Kripto Para (BTC / ETH / USDT)",
+  bankLabel: "Doğrudan Banka Havalesi",
+  successTitle: "Allah Teâlâ Ecrinizi Kat Kat Versin!",
+  successDesc: "Cömert desteğiniz için teşekkür ederiz. Katkınız, QuranAlim'in sürekli bakımına ve geliştirilmesine doğrudan yardımcı olmaktadır.",
 };
 
 export const userRolesData = {
-  title: "صارفین کے کردار (User Roles)",
-  subtitle: "ہمارے پلیٹ فارم کے صارفین کے کردار",
-  introTitle: "قرآن عالم: ایک جامع اسلامی ڈیجیٹل ماحولیاتی نظام",
-  introText: "الحمدللہ! ہمارا پلیٹ فارم صرف ایک ویب سائٹ نہیں، بلکہ ایک مکمل ڈیجیٹل اسلامی دنیا ہے جہاں ہر فرد اور ادارے کے لیے ایک متعین مقام اور کردار موجود ہے۔ چاہے آپ ایک عام قاری ہوں، ایک عالم، ایک مصنف، ایک مدرسہ، یا ایک مبلغ — آپ سب کا یہاں استقبال ہے!",
-  categoriesIntro: "ہمارے پلیٹ فارم پر 15 مختلف اقسام کے صارف کردار (User Roles) موجود ہیں، جنہیں تین بڑے زمروں میں تقسیم کیا گیا ہے:",
-  tableHeaderNum: "نمبر",
-  tableHeaderRole: "کردار",
-  tableHeaderDesc: "تفصیل",
+  title: "Kullanıcı Rolleri",
+  subtitle: "Platformumuzdaki kullanıcı rolleri ve yetkileri",
+  introTitle: "Quran Alim: Kapsamlı Bir Dijital İslami Ekosistem",
+  introText: "Elhamdülillah! Platformumuz sadece bir web sitesi değil, her bireyin ve kurumun tanımlı bir yere ve role sahip olduğu eksiksiz bir dijital İslami ilim dünyasıdır. İster genel bir okuyucu, ister bir alim, yazar, medrese veya tebliğci olun — hepiniz başımızın tacısınız!",
+  categoriesIntro: "Platformumuzda üç ana kategoriye ayrılmış 15 farklı Kullanıcı Rolü türü bulunmaktadır:",
+  tableHeaderNum: "No.",
+  tableHeaderRole: "Rol",
+  tableHeaderDesc: "Açıklama",
   categories: [
     {
-      title: "🟢 زمرہ اول: عام استعمال کنندگان (General Users)",
-      subtitle: "یہ وہ بنیادی کردار ہیں جو ہر آنے والے کے لیے دستیاب ہیں:",
+      title: "🟢 Birinci Kategori: Genel Kullanıcılar",
+      subtitle: "Her ziyaretçinin doğrudan erişebileceği temel roller:",
       roles: [
-        { num: "1", role: "👤 عام صارف / مہمان (Guest)", desc: "بغیر کسی اکاؤنٹ کے قرآن مجید کی تلاوت، ترجمہ، تفسیر اور آڈیو سے استفادہ کریں۔ یہ آپ کا پہلا قدم ہے!" },
-        { num: "2", role: "📝 رجسٹرڈ صارف (Registered User)", desc: "مفت اکاؤنٹ بنا کر آیات کو بک مارک کریں، ذاتی نوٹس لکھیں، اپنی تلاوت کی پیش رفت کو ٹریک کریں، اور اپنی پسندیدہ ترتیبات محفوظ کریں۔" }
+        { num: "1", role: "👤 Misafir / Genel Kullanıcı", desc: "Herhangi bir hesap oluşturmadan Kur'an tilaveti, meal, tefsir ve ses kayıtlarına erişin. Bu ilk adımınızdır!" },
+        { num: "2", role: "📝 Kayıtlı Kullanıcı", desc: "Ayetleri yer imlerine eklemek, kişisel notlar yazmak, okuma ilerlemenizi takip etmek ve favori ayarlarınızı kaydetmek için ücretsiz bir hesap oluşturun." }
       ]
     },
     {
-      title: "🟡 زمرہ دوم: تخلیق کار اور علمی شخصیات (Creators & Scholars)",
-      subtitle: "یہ وہ عظیم کردار ہیں جو اپنے علم کو پوری دنیا کے ساتھ بانٹتے ہیں:",
+      title: "🟡 İkinci Kategori: Müellifler ve İlim Ehli",
+      subtitle: "İlmi tüm dünyayla paylaşmaya adanmış mübarek roller:",
       roles: [
-        { num: "3", role: "✍️ مصنف (Author)", desc: "کیا آپ نے کوئی اسلامی کتاب تصنیف کی ہے؟ اس کردار کے ذریعے اپنی کتابیں، رسائل، اور تحقیقی مقالات اپ لوڈ کریں اور پوری دنیا کے قارئین تک پہنچائیں۔" },
-        { num: "4", role: "🎙️ قاری (Reciter)", desc: "اپنی خوبصورت آواز میں قرآن مجید کی تلاوت ریکارڈ کرکے ہمارے پلیٹ فارم پر اپ لوڈ کریں۔ دنیا بھر کے مسلمان آپ کی آواز میں کلامِ پاک سنیں گے!" },
-        { num: "5", role: "🌐 مترجم (Translator)", desc: "قرآن مجید کا کسی بھی زبان میں ترجمہ کرنا چاہتے ہیں؟ یہ کردار آپ کو ایک آسان اور منظم ترجمہ انٹرفیس فراہم کرتا ہے۔ دنیا کی مختلف زبانوں میں قرآن کا پیغام پھیلائیں!" },
-        { num: "6", role: "📚 عالم / مفسر (Scholar/Contributor)", desc: "قرآن مجید کی تفسیر، تشریح، اور علمی حواشی لکھ کر جمع کروائیں۔ آپ کا علمی کام ہمارے ماہرین کی منظوری کے بعد شائع کیا جائے گا۔" },
-        { num: "7", role: "🏫 معلم / کورس خالق (Instructor)", desc: "آن لائن کورسز بنائیں! قرآن، حدیث، فقہ، عربی زبان، یا کوئی بھی اسلامی مضمون — ساختیہ کورسز کے ذریعے طلباء کو پڑھائیں اور ان کی پیش رفت مانیٹر کریں۔" },
-        { num: "8", role: "🎤 مبلغ / خطیب (Preacher)", desc: "آپ میدانِ وعظ و تبلیغ سے تعلق رکھتے ہیں؟ اپنے خطبات، بیانات، اور دروس کی آڈیو/ویڈیو اپ لوڈ کریں۔ لائیو نشر (Live Streaming) کی سہولت بھی دستیاب ہے۔" }
+        { num: "3", role: "✍️ Yazar / Müellif", desc: "İslami bir kitap veya makale kaleme aldınız mı? Kitaplarınızı, dergilerinizi ve araştırma yazılarınızı bu rol üzerinden yükleyin ve dünya genelindeki okuyuculara ulaştırın." },
+        { num: "4", role: "🎙️ Kari / Okuyucu", desc: "Güzel Kur'an tilavetinizi kaydedin ve platformumuza yükleyin. Dünyanın dört bir yanındaki Müslümanlar Kur'an-ı Kerim'i sizin sesinizden dinlesin!" },
+        { num: "5", role: "🌐 Mütercim / Çevirmen", desc: "Kur'an-ı Kerim'i herhangi bir dile tercüme etmek ister misiniz? Bu rol, Kur'an mesajını farklı dillerde yaymanız için size kolay ve düzenli bir tercüme arayüzü sunar." },
+        { num: "6", role: "📚 Alim / İlim Ehli Katılımcı", desc: "Kur'an tefsirleri, açıklamalar ve ilmi dipnotlar sunun. Akademik çalışmalarınız uzmanlarımız tarafından doğrulandıktan sonra yayınlanır." },
+        { num: "7", role: "🏫 Eğitmen / Kurs Hazırlayıcı", desc: "Çevrimiçi dersler oluşturun! Talebelere Kur'an, Hadis, Fıkıh, Arapça veya herhangi bir İslami dersi planlı kurslar aracılığıyla öğretin ve gelişimlerini takip edin." },
+        { num: "8", role: "🎤 Vaiz / Hatip", desc: "Tebliğ veya halka açık sohbetlerle mi meşgulsünüz? Vaazlarınızın, sohbetlerinizin ve derslerinizin ses/video kayıtlarını yükleyin. Canlı yayın imkanı da mevcuttur." }
       ]
     },
     {
-      title: "🔵 زمرہ سوم: ادارے اور انتظامی کردار (Organizations & Management)",
-      subtitle: "یہ وہ کردار ہیں جو پلیٹ فارم کو منظم، مصدقہ، اور فعال رکھتے ہیں:",
+      title: "🔵 Üçüncü Kategori: Kurumlar ve Yönetim",
+      subtitle: "Platformu düzenli, sahih ve aktif tutan sorumluluk rolleri:",
       roles: [
-        { num: "9", role: "🏛️ ادارہ (Organization)", desc: "مساجد، مدارس، دارالعلوم، پبلشنگ ہاؤسز، اور فلاحی تنظیموں کے لیے مخصوص کردار۔ اپنے ادارے کو رجسٹر کریں، تصدیق (Verification) حاصل کریں، اور اپنے تحت متعدد اساتذہ و منتظمین کو جوڑ کر اپنا تمام علمی و دعوتی مواد ایک جگہ پیش کریں۔" },
-        { num: "10", role: "✅ تصحیح کنندہ (Proofreader)", desc: "علمی مواد کی درستگی کو یقینی بنانے والے ماہرین۔ آپ تراجم، تفاسیر، اور کتب کا جائزہ لے کر غلطیوں کی نشاندہی کرتے ہیں اور \"تصحیح شدہ\" کا اعزاز دیتے ہیں۔" },
-        { num: "11", role: "🔬 محقق / تجزیہ کار (Researcher)", desc: "گہرائی میں جا کر قرآن و علومِ اسلامیہ پر تحقیق کریں۔ تقابلی مطالعہ، موضوعاتی تلاش، اور حوالہ جات برآمد کرنے کی جدید سہولیات آپ کے لیے ہیں۔" },
-        { num: "12", role: "🤝 معاون / رضاکار (Volunteer)", desc: "پلیٹ فارم کو بہتر بنانے میں ہماری مدد کریں! غلطیوں کی نشاندہی، مواد کی درجہ بندی، اور کمیونٹی کی رہنمائی جیسے کاموں میں حصہ لیں۔" },
-        { num: "13", role: "💰 خیرخواہ / مالی معاون (Donor)", desc: "اس مفت علمی پلیٹ فارم کو چلانے میں مالی تعاون کریں۔ آپ کے تعاون سے ہم بغیر اشتہارات کے قرآن کا پیغام پوری دنیا میں پھیلا رہے ہیں۔ آپ کے پروفائل پر \"حامیِ قرآن\" کا اعزازی بیج لگایا جاتا ہے۔" },
-        { num: "14", role: "🛡️ مدیر (Moderator)", desc: "مواد کی منظوری، صارفین کی رہنمائی، اور پلیٹ فارم کے علمی معیار کو برقرار رکھنے کی ذمہ داری۔ ہمارے مدیران علمی امانت داری کے پاسبان ہیں۔" },
-        { num: "15", role: "👑 منتظم اعلیٰ (Admin)", desc: "پورے پلیٹ فارم کا انتظام و انصرام۔ صارفین کے کرداروں کا تعین، سسٹم کی ترتیبات، اور تمام تکنیکی و انتظامی امور کی نگرانی۔" }
+        { num: "9", role: "🏛️ Kurum / Kuruluş", desc: "Camiler, medreseler, üniversiteler, yayınevleri ve vakıflar için özel rol. Kurumunuzu kaydedin, doğrulama alın ve eğitim ile davet materyallerinizi tek bir yerden yönetin." },
+        { num: "10", role: "✅ Musahhih / Denetmen", desc: "İlmi içeriklerin doğruluğunu sağlayan uzmanlar. Mealleri, tefsirleri ve kitapları inceler, hataları tespit eder ve 'Doğrulandı/Düzeltildi' rozeti verirsiniz." },
+        { num: "11", role: "🔬 Araştırmacı", desc: "Kur'an ve İslami ilimler üzerine derinlemesine araştırmalar yapın. Karşılaştırmalı çalışma, tematik arama ve kaynak dışa aktarma araçları hizmetinizdedir." },
+        { num: "12", role: "🤝 Gönüllü", desc: "Platformu geliştirmemize yardımcı olun! Hata bildirimlerine, içerik sınıflandırmasına ve topluluk rehberliğine katılın." },
+        { num: "13", role: "💰 Bağışçı / Hami", desc: "Bu ücretsiz ilmi platformu maddi olarak destekleyin. Desteğinizle Kur'an mesajını reklamsız olarak dünyaya ulaştırıyoruz. Profilinize 'Kur'an Hamisi' onur rozeti eklenir." },
+        { num: "14", role: "🛡️ Moderatör", desc: "İçerik onayı, kullanıcı rehberliği ve platformun akademik standartlarının korunmasından sorumludur. Moderatörlerimiz ilmi güvenilirliğin muhafızlarıdır." },
+        { num: "15", role: "👑 Yönetici (Admin)", desc: "Platformun genel yönetimi. Kullanıcı rollerini yönetin, sistem yapılandırmalarını denetleyin ve tüm teknik ile idari süreçleri yürütün." }
       ]
     }
   ],
-  promiseTitle: "✨ ہمارا وعدہ",
-  promiseText: "قرآن عالم پلیٹ فارم پر ہر کردار کو اس کی اہمیت کے مطابق احترام، اختیارات، اور ذمہ داریاں دی گئی ہیں۔ ہمارا مقصد ایک ایسا ماحولیاتی نظام (Ecosystem) تشکیل دینا ہے جہاں:",
+  promiseTitle: "✨ Taahhüdümüz",
+  promiseText: "Quran Alim platformunda her role önemine uygun olarak saygı, yetki ve sorumluluk verilir. Amacımız öyle bir ekosistem oluşturmaktır ki:",
   promiseItems: [
-    "🕌 ہر مسجد اپنے خطبات دنیا تک پہنچا سکے",
-    "📖 ہر مصنف اپنی کتاب لاکھوں قارئین تک پہنچا سکے",
-    "🎓 ہر استاد ہزاروں طلباء کو آن لائن پڑھا سکے",
-    "🌍 ہر مترجم قرآن کا پیغام نئی زبانوں میں منتقل کر سکے",
-    "❤️ ہر مسلمان قرآن سے گہرا تعلق جوڑ سکے"
+    "🕌 Her cami hutbesini tüm dünyaya ulaştırabilsin",
+    "📖 Her yazar kitaplarıyla milyonlarca okuyucuya erişebilsin",
+    "🎓 Her hoca binlerce talebeye çevrimiçi ders verebilsin",
+    "🌍 Her mütercim Kur'an mesajını yeni dillere aktarabilsin",
+    "❤️ Her Müslüman Kur'an-ı Kerim ile derin bir gönül bağı kurabilsin"
   ],
-  joinTitle: "🚀 ابھی شامل ہوں!",
-  joinText: "چاہے آپ کسی بھی زمرے میں آتے ہوں، قرآن عالم پلیٹ فارم میں آپ کے لیے ایک جگہ ہے۔",
-  registerBtn: "ابھی رجسٹر کریں",
-  contactBtn: "ہم سے رابطہ کریں",
-  quote: "اور تم میں سے ایک گروہ ایسا ہونا چاہیے جو نیکی کی طرف بلائے اور بھلائی کا حکم دے اور برائی سے روکے، اور یہی لوگ فلاح پانے والے ہیں۔",
-  quoteRef: "سورۃ آل عمران، آیت 104"
+  joinTitle: "🚀 Şimdi Bize Katılın!",
+  joinText: "Hangi kategoride olursanız olun, Quran Alim platformunda sizin için müstesna bir yer var.",
+  registerBtn: "Hemen Kaydolun",
+  contactBtn: "Bize Ulaşın",
+  quote: "Sizden, hayra çağıran, iyiliği emreden ve kötülükten men eden bir topluluk bulunsun. İşte kurtuluşa erenler onlardır.",
+  quoteRef: "Âl-i İmrân Suresi, 104. Ayet"
 };

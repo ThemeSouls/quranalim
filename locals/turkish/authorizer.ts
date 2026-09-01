@@ -1,0 +1,118 @@
+export const authorizer = {
+  appName: "Yetkilendirici ve Portal",
+  appSubtitle: "Merkezi Kimlik Doğrulama, Güvenlik Oturumları ve Kullanıcı Yönetimi",
+  loginTitle: "Hesabınıza Giriş Yapın",
+  loginSubtitle: "Kur'an Alim hizmetlerine erişmek için kimlik bilgilerinizi girin",
+  signupTitle: "Yeni Hesap Oluşturun",
+  signupSubtitle: "Anında erişimle küresel topluluğumuza katılın",
+  forgotTitle: "Şifrenizi Sıfırlayın",
+  forgotSubtitle: "Kurtarma kodu almak için kayıtlı e-posta adresinizi girin",
+  resetTitle: "Yeni Şifre Belirleyin",
+  resetSubtitle: "Hesabınız için güçlü ve güvenli yeni bir şifre oluşturun",
+  sessionsTitle: "Aktif Güvenlik Oturumları",
+  sessionsSubtitle: "Hesabınıza bağlı cihazları ve IP adreslerini yönetin",
+  profileTitle: "Kullanıcı Profili ve Güvenlik",
+  profileSubtitle: "Hesap durumunu, rolü, e-posta doğrulamasını ve güvenlik belirteçlerini görüntüleyin",
+  
+  // Tabs & Navigation
+  tabLogin: "Giriş Yap",
+  tabSignup: "Kayıt Ol",
+  tabForgot: "Şifremi Unuttum",
+  tabReset: "Şifreyi Sıfırla",
+  tabSessions: "Aktif Oturumlar",
+  tabProfile: "Hesabım",
+
+  // Form Fields
+  fullNameLabel: "Ad Soyad",
+  fullNamePlaceholder: "ör. Abdullah Muhammed",
+  emailLabel: "E-posta Adresi",
+  emailPlaceholder: "ad@ornek.com",
+  passwordLabel: "Şifre",
+  passwordPlaceholder: "En az 6 karakter",
+  confirmPasswordLabel: "Şifreyi Onayla",
+  confirmPasswordPlaceholder: "Şifreyi tekrar girin",
+  resetTokenLabel: "Sıfırlama Belirteci (OTP)",
+  resetTokenPlaceholder: "ör. reset_xxx",
+  newPasswordLabel: "Yeni Şifre",
+  rememberMe: "Beni 30 gün hatırla",
+  agreeTerms: "Kullanım Şartları ve Gizlilik Politikasını kabul ediyorum",
+  quickDemoTip: "Test İçin Hızlı Bilgiler:",
+
+  // Buttons
+  signInBtn: "Giriş Yap",
+  signUpBtn: "Hesap Oluştur",
+  sendResetBtn: "Sıfırlama Bağlantısı Gönder",
+  savePasswordBtn: "Şifreyi Güncelle",
+  logoutBtn: "Çıkış Yap",
+  revokeAllSessions: "Diğer Tüm Oturumları Kapat",
+  backHome: "Ana Sayfaya Dön",
+  forgotPassLink: "Şifrenizi mi unuttunuz?",
+  alreadyHaveAccount: "Zaten hesabınız var mı?",
+  noAccountYet: "Henüz hesabınız yok mu?",
+  backToLogin: "Giriş Ekranına Dön",
+
+  // Feedback Messages
+  reqFields: "Lütfen gerekli tüm alanları doldurun.",
+  passMismatch: "Şifreler eşleşmiyor.",
+  passTooShort: "Şifre en az 6 karakter uzunluğunda olmalıdır.",
+  passwordStrength: "Şifre Gücü",
+  passStrengthWeak: "Zayıf",
+  passStrengthMedium: "Orta",
+  passStrengthStrong: "Güçlü",
+  passReqLength: "En az 8 karakter",
+  passReqCase: "Büyük ve küçük harfler",
+  passReqNumber: "En az 1 rakam",
+  passReqSpecial: "En az 1 özel karakter (@$!%*?&)",
+  termsRequired: "Hizmet şartlarını kabul etmelisiniz.",
+  invalidCreds: "Geçersiz e-posta veya şifre.",
+  loginSuccess: "Giriş başarılı! Tekrar hoş geldiniz.",
+  signupSuccess: "Hesap başarıyla oluşturuldu! Artık giriş yapabilirsiniz.",
+  forgotSuccess: "Şifre sıfırlama belirteci oluşturuldu.",
+  resetSuccess: "Şifreniz başarıyla sıfırlandı.",
+  logoutSuccess: "Oturumunuz kapatıldı.",
+  revokeSuccess: "Oturum başarıyla sonlandırıldı.",
+  revokeOthersSuccess: "Diğer tüm aktif oturumlar kapatıldı.",
+  noSessions: "Aktif oturum bulunamadı.",
+  notSignedInNote: "Şu anda oturum açmadınız. Hesap detaylarınızı görmek için lütfen giriş yapın veya kayıt olun.",
+  currentSessionBadge: "Mevcut Oturum",
+  
+  // Database Status Header Card
+  d1StatusTitle: "Veritabanı Bağlantısı",
+  d1StatusConnected: "Veritabanı Motoru Aktif",
+  d1StatusNotice: "Arka uç API uç noktaları güvenli kullanıcı kimlik doğrulama tablolarına bağlanır.",
+  
+  // Table Labels
+  userId: "Kullanıcı ID",
+  userRole: "Rol",
+  userStatus: "Durum",
+  emailVerified: "E-posta Doğrulandı",
+  createdDate: "Oluşturulma Tarihi",
+  lastLogin: "Son Giriş",
+  activeSessionsCount: "Aktif Oturumlar",
+  tokenExpiry: "Oturum Bitiş Süresi",
+  ipAddress: "IP Adresi",
+  deviceAgent: "Cihaz / Tarayıcı",
+  action: "İşlem",
+  revokeSession: "Kapat",
+  
+  // Search
+  searchPlaceholder: "Kullanıcıları, oturumları veya ayarları arayın...",
+  noSearchResults: "Eşleşen öğe bulunamadı.",
+
+  // Branding
+  brandName: "Kur'an Alim",
+  brandTagline: "İslami Araştırma Merkezi",
+  brandPortalTagline: "Birleşik Kimlik ve Erişim Yönetimi",
+
+  // Public Auth View Strings
+  publicAuthTitle: "Yetkilendirme Portalı",
+  backToApp: "Ana Uygulamaya Dön",
+  welcomePortal: "Yetkilendirme Portalına Hoş Geldiniz",
+  secureAuthSubtitle: "Hızlı, güvenli ve modern kimlik ve erişim yönetimi",
+  loginPageBadge: "Kimlik Doğrulama Sistemi",
+  signupPageBadge: "Hesap Kaydı",
+  forgotPageBadge: "Şifre Kurtarma",
+  resetPageBadge: "Güvenlik Güncellemesi",
+};
+
+export default authorizer;

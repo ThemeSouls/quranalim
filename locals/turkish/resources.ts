@@ -1,1052 +1,1096 @@
 export const resources = {
+  headerTitle: "İslami Kaynaklar ve El Yazmaları",
+  headerSubtitle: "Tarihi Kur'an el yazmaları, İslam hat sanatı, tefsir külliyatı ve hadis ansiklopedilerinin dijital arşivi.",
+  badge: "İlmi Hazine",
+  downloadFree: "%100 Ücretsiz Kaynaklar",
+  tabManuscripts: "Kur'an El Yazmaları",
+  tabCalligraphy: "Hüsn-i Hat Sanatı",
+  tabTafsir: "Tefsir Külliyatı",
+  tabHadith: "Hadis Ansiklopedisi",
+  searchPlaceholder: "Kitap, müellif veya dönem ara...",
+  filterAll: "Tümünü Gör",
+  freeDownloadBadge: "Ücretsiz İndir",
+  viewDetailsBtn: "Detayları Gör",
+  downloadBtn: "İndir",
+  backToResources: "Kaynaklara Dön",
+  previewTitle: "Eser Önizleme ve Bilgileri",
+  specifications: "Özellikler",
+  historicalContext: "Tarihi Arka Plan",
+  authorBiography: "Müellifin Hayatı",
+  keyFeatures: "Öne Çıkan Özellikler",
+  fileDetails: "Dosya Detayları",
+  format: "Format",
+  language: "Dil",
+  period: "Dönem",
+  location: "Bulunduğu Yer",
+  century: "Yüzyıl",
+  pages: "Sayfa Sayısı",
+  resolution: "Çözünürlük",
+  downloads: "İndirilme",
+  fileSize: "Dosya Boyutu",
+  directDownload: "Orijinal Dosyayı İndir",
+  shareResource: "Paylaş",
+  copied: "Bağlantı kopyalandı!",
+  noResourcesFound: "Kaynak bulunamadı.",
+
   quranBooks: {
-    title: "قرآنِ کریم کی تفاسیر، شروحات اور تراجم",
-    subtitle: "صدیوں پر محیط تاریخی اور جدید قرآنی لٹریچر، تفاسیر اور عالمی تراجم کا ایک جامع ذخیرہ۔",
+    title: "Kur'an-ı Kerim Tefsirleri, Şerhleri ve Mealleri",
+    subtitle: "Tarihten günümüze tefsir edebiyatı ve küresel meallerin kapsamlı dijital arşivi.",
     commentaries: [
       {
         number: 1,
-        title: "تفسیر ابن عباس (تنویر المقیاس)",
+        title: "Tefsiru İbn Abbas (Tenvîrü'l-Mikbâs)",
         englishTitle: "Tafsir Ibn Abbas (Tanwir al-Miqbas)",
-        author: "حضرت عبداللہ بن عباس رضی اللہ عنہ (منسوب)",
+        author: "Hz. Abdullah bin Abbas (r.a.) (Nisbet edilen)",
         englishAuthor: "Hazrat Abdullah bin Abbas (RA) - Attributed",
-        language: "Arabic / عربی",
-        year: "68 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 68",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 2,
-        title: "تفسیر مجاہد",
+        title: "Tefsiru Mücahid",
         englishTitle: "Tafsir Mujahid",
-        author: "امام مجاہد بن جبر",
+        author: "İmam Mücahid bin Cebr",
         englishAuthor: "Imam Mujahid bin Jabr",
-        language: "Arabic / عربی",
-        year: "104 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 104",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 3,
-        title: "تفسیر مقاتل بن سلیمان",
+        title: "Tefsiru Mukatil bin Süleyman",
         englishTitle: "Tafsir Muqatil bin Sulayman",
-        author: "مقاتل بن سلیمان البلخی",
+        author: "Mukâtil bin Süleyman el-Belhî",
         englishAuthor: "Muqatil bin Sulayman al-Balkhi",
-        language: "Arabic / عربی",
-        year: "150 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 150",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 4,
-        title: "تفسیر سفیان الثوری",
+        title: "Tefsiru Süfyan es-Sevrî",
         englishTitle: "Tafsir Sufyan al-Thawri",
-        author: "امام سفیان الثوری",
+        author: "İmam Süfyân es-Sevrî",
         englishAuthor: "Imam Sufyan al-Thawri",
-        language: "Arabic / عربی",
-        year: "161 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 161",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 5,
-        title: "معانی القرآن",
+        title: "Meâni'l-Kur'ân",
         englishTitle: "Ma'ani al-Quran",
-        author: "امام ابو زکریا یحییٰ بن زیاد الفراء",
+        author: "İmam Ebû Zekeriyyâ Yahyâ bin Ziyâd el-Ferrâ",
         englishAuthor: "Imam Abu Zakariya Yahya bin Ziyad al-Farra",
-        language: "Arabic / عربی",
-        year: "207 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 207",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 6,
-        title: "تفسیر عبدالرزاق الصنعانی",
+        title: "Tefsiru Abdürrezzâk es-San'ânî",
         englishTitle: "Tafsir Abd al-Razzaq al-San'ani",
-        author: "امام عبدالرزاق بن ھمام",
+        author: "İmam Abdürrezzâk bin Hemmâm",
         englishAuthor: "Imam Abd al-Razzaq bin Hammam",
-        language: "Arabic / عربی",
-        year: "211 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 211",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 7,
-        title: "جامع البیان عن تاویل آی القرآن (تفسیر الطبری)",
+        title: "Câmiu'l-Beyân an Te'vîli Âyi'l-Kur'ân (Tefsîru't-Taberî)",
         englishTitle: "Jami' al-Bayan (Tafsir al-Tabari)",
-        author: "امام ابو جعفر محمد بن جریر الطبری",
+        author: "İmam Ebû Ca'fer Muhammed bin Cerîr et-Taberî",
         englishAuthor: "Imam Abu Ja'far Muhammad ibn Jarir al-Tabari",
-        language: "Arabic / عربی",
-        year: "310 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 310",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 8,
-        title: "معانی القرآن",
+        title: "Meâni'l-Kur'ân",
         englishTitle: "Ma'ani al-Quran",
-        author: "امام ابو جعفر احمد بن محمد النحاس",
+        author: "İmam Ebû Ca'fer Ahmed bin Muhammed en-Nehhâs",
         englishAuthor: "Imam Abu Ja'far Ahmad bin Muhammad al-Nahhas",
-        language: "Arabic / عربی",
-        year: "338 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 338",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 9,
-        title: "تفسیر القرآن العظیم (تفسیر ابن ابی حاتم)",
+        title: "Tefsîru'l-Kur'âni'l-Azîm (İbn Ebî Hâtim)",
         englishTitle: "Tafsir al-Quran al-Azim (Ibn Abi Hatim)",
-        author: "امام عبدالرحمن بن ابی حاتم الرازی",
+        author: "İmam Abdurrahman bin Ebî Hâtim er-Râzî",
         englishAuthor: "Imam Abd al-Rahman bin Abi Hatim al-Razi",
-        language: "Arabic / عربی",
-        year: "327 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 327",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 10,
-        title: "بحر العلوم (تفسیر السمرقندی)",
+        title: "Bahru'l-Ulûm (Tefsîru's-Semerkandî)",
         englishTitle: "Bahr al-Ulum (Tafsir al-Samarqandi)",
-        author: "امام ابو اللیث نصر بن محمد السمرقندی",
+        author: "İmam Ebü'l-Leys Nasr bin Muhammed es-Semerkandî",
         englishAuthor: "Imam Abu al-Layth Nasr bin Muhammad al-Samarqandi",
-        language: "Arabic / عربی",
-        year: "375 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 375",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 11,
-        title: "الکشف والبیان عن تفسیر القرآن (تفسیر الثعلبی)",
+        title: "el-Keşf ve'l-Beyân an Tefsîri'l-Kur'ân (Tefsîru's-Sa'lebî)",
         englishTitle: "Al-Kashf wal-Bayan (Tafsir al-Tha'labi)",
-        author: "امام ابو اسحاق احمد بن محمد الثعلبی",
+        author: "İmam Ebû İshâk Ahmed bin Muhammed es-Sa'lebî",
         englishAuthor: "Imam Abu Ishaq Ahmad bin Muhammad al-Tha'labi",
-        language: "Arabic / عربی",
-        year: "427 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 427",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 12,
-        title: "معالم التنزیل (تفسیر البغوی)",
+        title: "Meâlimü't-Tenzîl (Tefsîru'l-Begavî)",
         englishTitle: "Ma'alim al-Tanzil (Tafsir al-Baghawy)",
-        author: "امام ابو محمد حسین بن مسعود البغوی",
+        author: "İmam Ebû Muhammed Hüseyin bin Mes'ûd el-Begavî",
         englishAuthor: "Imam Abu Muhammad Husayn bin Mas'ud al-Baghawy",
-        language: "Arabic / عربی",
-        year: "510 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 510",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 13,
-        title: "الکشاف عن حقائق التنزیل (تفسیر کشاف)",
+        title: "el-Keşşâf an Hakâiki't-Tenzîl (Tefsîru'l-Keşşâf)",
         englishTitle: "Al-Kashshaf (Tafsir al-Kashaf)",
-        author: "امام ابو القاسم محمود بن عمر الزمخشری",
+        author: "İmam Ebü'l-Kâsım Mahmûd bin Ömer ez-Zemahşerî",
         englishAuthor: "Imam Abu al-Qasim Mahmud bin Umar al-Zamakhshari",
-        language: "Arabic / عربی",
-        year: "538 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 538",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 14,
-        title: "احکام القرآن (ابن العربی)",
+        title: "Ahkâmü'l-Kur'ân (İbnü'l-Arabî)",
         englishTitle: "Ahkam al-Quran (Ibn al-Arabi)",
-        author: "قاضی ابو بکر محمد بن عبداللہ ابن العربی",
+        author: "Kâdı Ebû Bekir Muhammed bin Abdillâh İbnü'l-Arabî",
         englishAuthor: "Qadi Abu Bakr Muhammad bin Abdullah Ibn al-Arabi",
-        language: "Arabic / عربی",
-        year: "543 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 543",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 15,
-        title: "المحرر الوجیز فی تفسیر الکتاب العزیز (تفسیر ابن عطیہ)",
+        title: "el-Muharrerü'l-Vecîz fî Tefsîri'l-Kitâbi'l-Azîz (İbn Atiyye)",
         englishTitle: "Al-Muharrar al-Wajiz (Tafsir Ibn Atiyyah)",
-        author: "قاضی ابو محمد عبدالکتاب بن عطیہ الاندلسی",
+        author: "Kâdı Ebû Muhammed Abdülhak bin Atiyye el-Endelüsî",
         englishAuthor: "Qadi Abu Muhammad Abdul-Haqq bin Atiyyah al-Andalusi",
-        language: "Arabic / عربی",
-        year: "542 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 542",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 16,
-        title: "مفاتیح الغیب (تفسیر کبیر / تفسیر الرازی)",
+        title: "Mefâtîhu'l-Gayb (Tefsîr-i Kebîr / Tefsîru'r-Râzî)",
         englishTitle: "Mafatih al-Ghayb (Tafsir al-Kabir / al-Razi)",
-        author: "امام فخر الدین محمد بن عمر الرازی",
+        author: "İmam Fahreddîn Muhammed bin Ömer er-Râzî",
         englishAuthor: "Imam Fakhr al-Din Muhammad bin Umar al-Razi",
-        language: "Arabic / عربی",
-        year: "606 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 606",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 17,
-        title: "الجامع لاحکام القرآن (تفسیر القرطبی)",
+        title: "el-Câmi' li-Ahkâmi'l-Kur'ân (Tefsîru'l-Kurtubî)",
         englishTitle: "Al-Jami' li-Ahkam al-Quran (Tafsir al-Qurtubi)",
-        author: "امام ابو عبداللہ محمد بن احمد القرطبی",
+        author: "İmam Ebû Abdillâh Muhammed bin Ahmed el-Kurtubî",
         englishAuthor: "Imam Abu Abdullah Muhammad bin Ahmad al-Qurtubi",
-        language: "Arabic / عربی",
-        year: "671 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 671",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 18,
-        title: "انوار التنزیل و اسرار التاویل (تفسیر البیضاوی)",
+        title: "Envârü't-Tenzîl ve Esrârü't-Te'vîl (Tefsîru'l-Beyzâvî)",
         englishTitle: "Anwar al-Tanzil (Tafsir al-Baydawi)",
-        author: "قاضی ناصر الدین عبداللہ بن عمر البیضاوی",
+        author: "Kâdı Nâsıruddîn Abdullâh bin Ömer el-Beyzâvî",
         englishAuthor: "Qadi Nasir al-Din Abdullah bin Umar al-Baydawi",
-        language: "Arabic / عربی",
-        year: "685 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 685",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 19,
-        title: "تفسیر القرآن العظیم (تفسیر ابن کثیر)",
+        title: "Tefsîru'l-Kur'âni'l-Azîm (Tefsîru İbn Kesîr)",
         englishTitle: "Tafsir al-Quran al-Azim (Tafsir Ibn Kathir)",
-        author: "امام عماد الدین ابو الفداء اسماعیل بن کثیر",
+        author: "İmam İmâdüddîn Ebü'l-Fidâ İsmâil bin Kesîr",
         englishAuthor: "Imam Imad al-Din Abu al-Fida Ismail bin Kathir",
-        language: "Arabic / عربی",
-        year: "774 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 774",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 20,
-        title: "البحر المحیط (تفسیر ابو حیان)",
+        title: "el-Bahru'l-Muhît (Tefsîru Ebû Hayyân)",
         englishTitle: "Al-Bahr al-Muhit (Tafsir Abu Hayyan)",
-        author: "امام ابو حیان محمد بن یوسف الاندلسی",
+        author: "İmam Ebû Hayyân Muhammed bin Yûsuf el-Endelüsî",
         englishAuthor: "Imam Abu Hayyan Muhammad bin Yusuf al-Andalusi",
-        language: "Arabic / عربی",
-        year: "745 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 745",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 21,
-        title: "الدر المنثور فی التفسیر بالماثور",
+        title: "ed-Dürrü'l-Mensûr fi't-Tefsîr bi'l-Me'sûr",
         englishTitle: "Al-Durr al-Manthur",
-        author: "امام جلال الدین عبدالرحمن بن ابی بکر السیوطی",
+        author: "İmam Celâleddîn Abdurrahman es-Süyûtî",
         englishAuthor: "Imam Jalal al-Din Abd al-Rahman bin Abi Bakr al-Suyuti",
-        language: "Arabic / عربی",
-        year: "911 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 911",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 22,
-        title: "فتح القدیر (تفسیر الشوکانی)",
+        title: "Fethu'l-Kadîr (Tefsîru'ş-Şevkânî)",
         englishTitle: "Fath al-Qadir (Tafsir al-Shawkani)",
-        author: "امام محمد بن علی الشوکانی",
+        author: "İmam Muhammed bin Alî eş-Şevkânî",
         englishAuthor: "Imam Muhammad bin Ali al-Shawkani",
-        language: "Arabic / عربی",
-        year: "1250 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 1250",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 23,
-        title: "ارشاد العقل السلیم (تفسیر ابو السعود)",
+        title: "İrşâdü'l-Akli's-Selîm (Ebüssuûd Tefsiri)",
         englishTitle: "Irshad al-Aql al-Salim (Tafsir Abu al-Sa'ud)",
-        author: "شیخ الاسلام ابو السعود محمد بن محمد العمادی",
+        author: "Şeyhülislâm Ebüssuûd Efendi",
         englishAuthor: "Shaykh al-Islam Abu al-Sa'ud Muhammad bin Muhammad al-Imadi",
-        language: "Arabic / عربی",
-        year: "982 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Osmanlıca / Türkçe",
+        year: "Hicri 982",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 24,
-        title: "روح المعانی فی تفسیر القرآن العظیم والسبع المثانی (تفسیر آلوسی)",
+        title: "Rûhu'l-Meânî fî Tefsîri'l-Kur'âni'l-Azîm (Âlûsî Tefsiri)",
         englishTitle: "Ruh al-Ma'ani (Tafsir al-Alusi)",
-        author: "علامہ محمود شہاب الدین آلوسی البغدادی",
+        author: "Allâme Mahmûd Şehâbeddîn el-Âlûsî el-Bağdâdî",
         englishAuthor: "Allamah Mahmud Shihab al-Din al-Alusi al-Baghdadi",
-        language: "Arabic / عربی",
-        year: "1270 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 1270",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 58,
-        title: "تفسیر الشنقیطی (اضواء البیان)",
+        title: "Advâü'l-Beyân fî Îzâhi'l-Kur'ân bi'l-Kur'ân (Şenkîtî Tefsiri)",
         englishTitle: "Tafsir al-Shanqiti (Adwa' al-Bayan)",
-        author: "محمد الأمین الشنقیطی",
+        author: "Muhammed el-Emîn eş-Şenkîtî",
         englishAuthor: "Muhammad al-Amin al-Shanqiti",
-        language: "Arabic / عربی",
-        year: "1393 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 1393",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 59,
-        title: "تفسیر الخازن (لباب التأویل)",
+        title: "Lübâbü't-Te'vîl fî Meâni't-Tenzîl (Hâzin Tefsiri)",
         englishTitle: "Tafsir al-Khazin (Lubab al-Ta'wil)",
-        author: "علی بن محمد الخازن",
+        author: "Alî bin Muhammed el-Hâzin",
         englishAuthor: "Ali bin Muhammad al-Khazin",
-        language: "Arabic / عربی",
-        year: "741 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 741",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
       {
         number: 60,
-        title: "تفسیر النسفی (مدارک التنزیل)",
+        title: "Medârikü't-Tenzîl ve Hakâiku't-Te'vîl (Nesefî Tefsiri)",
         englishTitle: "Tafsir al-Nasafi (Madarik al-Tanzil)",
-        author: "عبد اللہ بن أحمد النسفی",
+        author: "Abdullâh bin Ahmed en-Nesefî",
         englishAuthor: "Abdullah bin Ahmad al-Nasafi",
-        language: "Arabic / عربی",
-        year: "710 AH / ہجری",
-        category: "کلاسیکی عربی تفاسیر (پہلی سے ساتویں صدی ہجری)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 710",
+        category: "Klasik Arapça Tefsirler (1-7. Yüzyıl Hicri)"
       },
+      // Section 2: Tasavvufi ve İşari Tefsirler
       {
         number: 25,
-        title: "حقائق التفسیر (تفسیر السلمی)",
+        title: "Hakâiku't-Tefsîr (Sülemî Tefsiri)",
         englishTitle: "Haqa'iq al-Tafsir (Tafsir al-Sulami)",
-        author: "امام ابو عبدالرحمن محمد بن حسین السلمی",
+        author: "İmam Ebû Abdurrahman Muhammed bin Hüseyin es-Sülemî",
         englishAuthor: "Imam Abu Abd al-Rahman Muhammad bin Husayn al-Sulami",
-        language: "Arabic / عربی",
-        year: "412 AH / ہجری",
-        category: "اشاری و صوفیانہ تفاسیر"
+        language: "Arapça / Türkçe",
+        year: "Hicri 412",
+        category: "İşari ve Tasavvufi Tefsirler"
       },
       {
         number: 26,
-        title: "لطائف الاشارات (تفسیر القشیری)",
+        title: "Letâifü'l-İşârât (Kuşeyrî Tefsiri)",
         englishTitle: "Lata'if al-Isharat (Tafsir al-Qushayri)",
-        author: "امام ابو القاسم عبدالکریم بن ہوازن القشیری",
+        author: "İmam Ebü'l-Kâsım Abdülkerîm el-Kuşeyrî",
         englishAuthor: "Imam Abu al-Qasim Abd al-Karim bin Hawazin al-Qushayri",
-        language: "Arabic / عربی",
-        year: "465 AH / ہجری",
-        category: "اشاری و صوفیانہ تفاسیر"
+        language: "Arapça / Türkçe",
+        year: "Hicri 465",
+        category: "İşari ve Tasavvufi Tefsirler"
       },
       {
         number: 28,
-        title: "تفسیر القرآن العظیم (تفسیر تستری)",
+        title: "Tefsîru'l-Kur'âni'l-Azîm (Tüsterî Tefsiri)",
         englishTitle: "Tafsir al-Quran al-Azim (Tafsir Tustari)",
-        author: "سہل بن عبداللہ التستری",
+        author: "Sehl bin Abdillâh et-Tüsterî",
         englishAuthor: "Sahl bin Abdullah al-Tustari",
-        language: "Arabic / عربی",
-        year: "283 AH / ہجری",
-        category: "اشاری و صوفیانہ تفاسیر"
+        language: "Arapça / Türkçe",
+        year: "Hicri 283",
+        category: "İşari ve Tasavvufi Tefsirler"
       },
       {
         number: 29,
-        title: "عرائس البیان فی حقائق القرآن (تفسیر بقلی)",
+        title: "Arâisü'l-Beyân fî Hakâiki'l-Kur'ân (Baklî Tefsiri)",
         englishTitle: "Ara'is al-Bayan (Tafsir Baqli)",
-        author: "روز بہان بقلی شیرازی",
+        author: "Rûzbihân el-Baklî eş-Şîrâzî",
         englishAuthor: "Ruzbahan Baqli Shirazi",
-        language: "Arabic / عربی",
-        year: "606 AH / ہجری",
-        category: "اشاری و صوفیانہ تفاسیر"
+        language: "Arapça / Farsça",
+        year: "Hicri 606",
+        category: "İşari ve Tasavvufi Tefsirler"
       },
       {
         number: 30,
-        title: "تاویلات اہل السنہ (تفسیر ماتریدی)",
+        title: "Te'vîlâtü Ehli's-Sünne (Mâtürîdî Tefsiri)",
         englishTitle: "Ta'wilat Ahl al-Sunnah (Tafsir Maturidi)",
-        author: "امام ابو منصور محمد بن محمد الماتریدی",
+        author: "İmam Ebû Mansûr el-Mâtürîdî",
         englishAuthor: "Imam Abu Mansur Muhammad bin Muhammad al-Maturidi",
-        language: "Arabic / عربی",
-        year: "333 AH / ہجری",
-        category: "اشاری و صوفیانہ تفاسیر"
+        language: "Arapça / Türkçe",
+        year: "Hicri 333",
+        category: "İşari ve Tasavvufi Tefsirler"
       },
+      // Section 3: Çağdaş Arapça Tefsirler
       {
         number: 31,
-        title: "تفسیر المنار",
+        title: "Tefsîru'l-Menâr",
         englishTitle: "Tafsir al-Manar",
-        author: "شیخ محمد عبدہ / سید محمد رشید رضا",
+        author: "Şeyh Muhammed Abduh / Seyyid Reşîd Rızâ",
         englishAuthor: "Shaykh Muhammad Abduh / Sayyid Muhammad Rashid Rida",
-        language: "Arabic / عربی",
-        year: "1354 AH / ہجری",
-        category: "جدید عربی تفاسیر (انیسویں اور بیسویں صدی)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 1354",
+        category: "Çağdaş Arapça Tefsirler (19-20. Yüzyıl)"
       },
       {
         number: 32,
-        title: "فی ظلال القرآن",
+        title: "Fî Zılâli'l-Kur'ân",
         englishTitle: "Fi Zilal al-Quran",
-        author: "سید قطب شہید",
+        author: "Seyyid Kutub",
         englishAuthor: "Sayyid Qutb Shaheed",
-        language: "Arabic / عربی",
-        year: "1386 AH / ہجری",
-        category: "جدید عربی تفاسیر (انیسویں اور بیسویں صدی)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 1386",
+        category: "Çağdaş Arapça Tefsirler (19-20. Yüzyıl)"
       },
       {
         number: 34,
-        title: "تفسیر المراغی",
+        title: "Tefsîru'l-Merâgî",
         englishTitle: "Tafsir al-Maraghi",
-        author: "شیخ احمد مصطفیٰ المراغی",
+        author: "Şeyh Ahmed Mustafâ el-Merâgî",
         englishAuthor: "Shaykh Ahmad Mustafa al-Maraghi",
-        language: "Arabic / عربی",
-        year: "1371 AH / ہجری",
-        category: "جدید عربی تفاسیر (انیسویں اور بیسویں صدی)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 1371",
+        category: "Çağdaş Arapça Tefsirler (19-20. Yüzyıl)"
       },
       {
         number: 35,
-        title: "محاسن التاویل (تفسیر قاسمی)",
+        title: "Mehâsinü't-Te'vîl (Kāsımî Tefsiri)",
         englishTitle: "Mahasin al-Ta'wil (Tafsir Qasimi)",
-        author: "علامہ محمد جمال الدین القاسمی",
+        author: "Allâme Muhammed Cemâleddîn el-Kāsımî",
         englishAuthor: "Allamah Muhammad Jamal al-Din al-Qasimi",
-        language: "Arabic / عربی",
-        year: "1332 AH / ہجری",
-        category: "جدید عربی تفاسیر (انیسویں اور بیسویں صدی)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 1332",
+        category: "Çağdaş Arapça Tefsirler (19-20. Yüzyıl)"
       },
       {
         number: 36,
-        title: "اضواء البیان فی ایضاح القرآن بالقرآن",
+        title: "Advâü'l-Beyân fî Îzâhi'l-Kur'ân bi'l-Kur'ân",
         englishTitle: "Adwa' al-Bayan",
-        author: "شیخ محمد الامین الشنقیطی",
+        author: "Şeyh Muhammed el-Emîn eş-Şenkîtî",
         englishAuthor: "Shaykh Muhammad al-Amin al-Shanqiti",
-        language: "Arabic / عربی",
-        year: "1393 AH / ہجری",
-        category: "جدید عربی تفاسیر (انیسویں اور بیسویں صدی)"
+        language: "Arapça / Türkçe",
+        year: "Hicri 1393",
+        category: "Çağdaş Arapça Tefsirler (19-20. Yüzyıl)"
       },
+      // Section 4: Farsça Tefsirler
       {
         number: 37,
-        title: "تفسیر کشف الاسرار و عدة الابرار",
+        title: "Tefsîru Keşfi'l-Esrâr ve Uddeti'l-Ebrâr",
         englishTitle: "Tafsir Kashf al-Asrar",
-        author: "خواجہ عبداللہ انصاری (میبدی)",
+        author: "Hâce Abdullah el-Ensârî (Meybüdî)",
         englishAuthor: "Khwaja Abdullah Ansari (Maybodi)",
-        language: "Persian / فارسی",
-        year: "520 AH / ہجری",
-        category: "فارسی تفاسیر"
+        language: "Farsça / Türkçe",
+        year: "Hicri 520",
+        category: "Farsça Tefsirler"
       },
       {
         number: 38,
-        title: "مواہب علیہ (تفسیر حسین واعظ کاشفی)",
+        title: "Mevâhib-i Aliyye (Tefsîr-i Hüseynî)",
         englishTitle: "Mawahib-i Aliyya (Tafsir Husayni)",
-        author: "ملا حسین واعظ کاشفی",
+        author: "Molla Hüseyin Vâiz-i Kâşifî",
         englishAuthor: "Mulla Husayn Wa'iz Kashifi",
-        language: "Persian / فارسی",
-        year: "910 AH / ہجری",
-        category: "فارسی تفاسیر"
+        language: "Farsça / Türkçe",
+        year: "Hicri 910",
+        category: "Farsça Tefsirler"
       },
       {
         number: 40,
-        title: "تفسیر شریف (مختصر)",
+        title: "Tefsîr-i Şerîf (Muhtasar)",
         englishTitle: "Tafsir Sharif (Mukhtasar)",
-        author: "ملا فتح اللہ کاشانی",
+        author: "Molla Fethullâh Kâşânî",
         englishAuthor: "Mulla Fathullah Kashani",
-        language: "Persian / فارسی",
-        year: "1100 AH / ہجری",
-        category: "فارسی تفاسیر"
+        language: "Farsça",
+        year: "Hicri 1100",
+        category: "Farsça Tefsirler"
       },
       {
         number: 41,
-        title: "تفسیر نمونہ (جدید فارسی تفسیر)",
+        title: "Tefsîr-i Nümûne",
         englishTitle: "Tafsir Nemoneh",
-        author: "آیت اللہ ناصر مکارم شیرازی",
+        author: "Âyetullah Nâsır Mekârim Şîrâzî",
         englishAuthor: "Ayatollah Naser Makarem Shirazi",
-        language: "Persian / فارسی",
-        year: "1400 AH / ہجری",
-        category: "فارسی تفاسیر"
+        language: "Farsça / Türkçe",
+        year: "Hicri 1400",
+        category: "Farsça Tefsirler"
       },
       {
         number: 42,
-        title: "المیزان فی تفسیر القرآن",
+        title: "el-Mîzân fî Tefsîri'l-Kur'ân",
         englishTitle: "Al-Mizan fi Tafsir al-Quran",
-        author: "علامہ سید محمد حسین طباطبائی",
+        author: "Allâme Seyyid Muhammed Hüseyin Tabâtabâî",
         englishAuthor: "Allamah Sayyid Muhammad Husayn Tabatabai",
-        language: "Arabic/Persian / عربی/فارسی",
-        year: "1402 AH / ہجری",
-        category: "فارسی تفاسیر"
+        language: "Arapça / Farsça / Türkçe",
+        year: "Hicri 1402",
+        category: "Farsça Tefsirler"
       },
+      // Section 5: Urduca ve Bölgesel Tefsirler
       {
         number: 43,
-        title: "تفسیر قرآن (ترجمہ شاہ رفیع الدین)",
+        title: "Tefsîr-i Kur'ân (Şah Refîuddîn Tercümesi)",
         englishTitle: "Tafsir Quran (Trans. Shah Rafi al-Din)",
-        author: "شاہ رفیع الدین محدث دہلوی",
+        author: "Şah Refîuddîn Muhaddis Dehlevî",
         englishAuthor: "Shah Rafi al-Din Muhaddith Dehlavi",
-        language: "Urdu / اردو",
-        year: "1190 AH / ہجری",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca",
+        year: "Hicri 1190",
+        category: "Urduca Tefsirler ve Şerhler"
       },
       {
         number: 44,
-        title: "خزائن العرفان (تفسیر اشرفی)",
+        title: "Hazâinü'l-İrfân (Tefsîr-i Eşrefî)",
         englishTitle: "Khaza'in al-Irfan (Tafsir Ashrafi)",
-        author: "مولانا احمد یار خان نعیمی",
+        author: "Mevlânâ Ahmed Yâr Han Naîmî",
         englishAuthor: "Maulana Ahmad Yar Khan Naeemi",
-        language: "Urdu / اردو",
-        year: "1960 CE / عیسوی",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca",
+        year: "1960 Miladi",
+        category: "Urduca Tefsirler ve Şerhler"
       },
       {
         number: 45,
-        title: "بیان القرآن (تفسیر)",
+        title: "Beyânü'l-Kur'ân (Tefsir)",
         englishTitle: "Bayan al-Quran (Tafsir)",
-        author: "ڈاکٹر محمد اسحاق سندیلوی",
+        author: "Dr. Muhammed İshak Sandelvi",
         englishAuthor: "Dr. Muhammad Ishaq Sandelvi",
-        language: "Urdu / اردو",
-        year: "1960 CE / عیسوی",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca",
+        year: "1960 Miladi",
+        category: "Urduca Tefsirler ve Şerhler"
       },
       {
         number: 46,
-        title: "تفسیر عثمانی",
+        title: "Tefsîr-i Osmânî",
         englishTitle: "Tafsir Usmani",
-        author: "مولانا شبیر احمد عثمانی",
+        author: "Mevlânâ Şebbîr Ahmed Osmânî",
         englishAuthor: "Maulana Shabbir Ahmad Usmani",
-        language: "Urdu / اردو",
-        year: "1950 CE / عیسوی",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca / Türkçe",
+        year: "1950 Miladi",
+        category: "Urduca Tefsirler ve Şerhler"
       },
       {
         number: 47,
-        title: "معارف القرآن",
+        title: "Maârifü'l-Kur'ân",
         englishTitle: "Ma'ariful Quran",
-        author: "مولانا محمد ادریس کاندھلوی",
+        author: "Müftü Muhammed Şefî / Mevlânâ Muhammed İdrîs Kandehlevî",
         englishAuthor: "Maulana Muhammad Idris Kandhlawi",
-        language: "Urdu / اردو",
-        year: "1970 CE / عیسوی",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca / İngilizce",
+        year: "1970 Miladi",
+        category: "Urduca Tefsirler ve Şerhler"
       },
       {
         number: 48,
-        title: "تفہیم القرآن",
+        title: "Tefhîmü'l-Kur'ân",
         englishTitle: "Tafhim-ul-Quran",
-        author: "سید ابو الاعلیٰ مودودی",
+        author: "Seyyid Ebü'l-A'lâ el-Mevdûdî",
         englishAuthor: "Sayyid Abul A'la Maududi",
-        language: "Urdu / اردو",
-        year: "1972 CE / عیسوی",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca / Türkçe",
+        year: "1972 Miladi",
+        category: "Urduca Tefsirler ve Şerhler"
       },
       {
         number: 50,
-        title: "معارف الحدیث (تفسیر)",
+        title: "Maârifü'l-Hadîs (Tefsir)",
         englishTitle: "Ma'arif al-Hadith (Tafsir)",
-        author: "مولانا سید سلیمان ندوی",
+        author: "Mevlânâ Seyyid Süleyman Nedvî",
         englishAuthor: "Maulana Seyyed Sulaiman Nadvi",
-        language: "Urdu / اردو",
-        year: "1950 CE / عیسوی",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca",
+        year: "1950 Miladi",
+        category: "Urduca Tefsirler ve Şerhler"
       },
       {
         number: 51,
-        title: "تفسیر کبیر (اردو ترجمہ)",
+        title: "Tefsîr-i Kebîr (Urduca Tercümesi)",
         englishTitle: "Tafsir Kabir (Urdu Translation)",
-        author: "(مترجم: مختلف اہل علم)",
+        author: "Çeşitli İlim Heyetleri",
         englishAuthor: "Translated by Various Scholars",
-        language: "Urdu / اردو",
-        year: "1900 CE / عیسوی",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca",
+        year: "1900 Miladi",
+        category: "Urduca Tefsirler ve Şerhler"
       },
       {
         number: 52,
-        title: "انوار البیان فی حل لغات القرآن",
+        title: "Envârü'l-Beyân fî Halli Lugâti'l-Kur'ân",
         englishTitle: "Anwar al-Bayan fi Hall Lughat al-Quran",
-        author: "مولانا عاشق الہی برنی",
+        author: "Mevlânâ Âşık İlâhî Bernî",
         englishAuthor: "Maulana Ashiq Ilahi Burney",
-        language: "Urdu / اردو",
-        year: "1980 CE / عیسوی",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca",
+        year: "1980 Miladi",
+        category: "Urduca Tefsirler ve Şerhler"
       },
       {
         number: 61,
-        title: "ضیاء القرآن",
+        title: "Ziyâü'l-Kur'ân",
         englishTitle: "Diya al-Quran",
-        author: "پیر محمد کرم شاہ ازہری",
+        author: "Pîr Muhammed Kerem Şah el-Ezherî",
         englishAuthor: "Pir Muhammad Karam Shah al-Azhari",
-        language: "Urdu / اردو",
-        year: "1979 CE / عیسوی",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca",
+        year: "1979 Miladi",
+        category: "Urduca Tefsirler ve Şerhler"
       },
       {
         number: 62,
-        title: "تفسیر نعیمی (اشرف التفاسیر)",
+        title: "Tefsîr-i Naîmî (Eşrefü't-Tefâsîr)",
         englishTitle: "Tafsir Naeemi (Ashraf al-Tafasir)",
-        author: "حکیم الامت مفتی احمد یار خان نعیمی",
+        author: "Hakîmü'l-Ümme Müftü Ahmed Yâr Han Naîmî",
         englishAuthor: "Hakim al-Ummah Mufti Ahmad Yar Khan Naeemi",
-        language: "Urdu / اردو",
-        year: "1960 CE / عیسوی",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca",
+        year: "1960 Miladi",
+        category: "Urduca Tefsirler ve Şerhler"
       },
       {
         number: 63,
-        title: "تفسیر ماجدی",
+        title: "Tefsîr-i Mâcidî",
         englishTitle: "Tafsir Majidi",
-        author: "مولانا عبد الماجد دریا بادی",
+        author: "Mevlânâ Abdülmâcid Deryâbâdî",
         englishAuthor: "Maulana Abdul Majid Daryabadi",
-        language: "Urdu / اردو",
-        year: "1940 CE / عیسوی",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca",
+        year: "1940 Miladi",
+        category: "Urduca Tefsirler ve Şerhler"
       },
       {
         number: 64,
-        title: "انوار القرآن",
+        title: "Envârü'l-Kur'ân",
         englishTitle: "Anwar al-Quran",
-        author: "مولانا عاشق الہی بلند شہری",
+        author: "Mevlânâ Âşık İlâhî Bülendşehrî",
         englishAuthor: "Maulana Ashiq Ilahi Bulandshahri",
-        language: "Urdu / اردو",
-        year: "2000 CE / عیسوی",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca",
+        year: "2000 Miladi",
+        category: "Urduca Tefsirler ve Şerhler"
       },
       {
         number: 65,
-        title: "تفسیر فیوض القرآن",
+        title: "Tefsîr-i Füyûzü'l-Kur'ân",
         englishTitle: "Tafsir Fuyood al-Quran",
-        author: "پروفیسر ڈاکٹر سید حامد حسن بلگرامی",
+        author: "Prof. Dr. Seyyid Hâmid Hasan Bilgrâmî",
         englishAuthor: "Professor Dr. Sayyid Hamid Hasan Bilgrami",
-        language: "Urdu / اردو",
-        year: "Modern / جدید",
-        category: "اردو تفاسیر و شروح"
+        language: "Urduca",
+        year: "Çağdaş",
+        category: "Urduca Tefsirler ve Şerhler"
       },
+      // Section 6: İngilizce Tefsirler
       {
         number: 53,
-        title: "(یوسف علی) The Meaning of the Holy Qur'an",
+        title: "The Meaning of the Holy Qur'an (Yusuf Ali)",
         englishTitle: "The Meaning of the Holy Qur'an",
-        author: "عبداللہ یوسف علی",
+        author: "Abdullah Yusuf Ali",
         englishAuthor: "Abdullah Yusuf Ali",
-        language: "English / انگریزی",
-        year: "1934 CE / عیسوی",
-        category: "انگریزی تفاسیر و شروح"
+        language: "İngilizce",
+        year: "1934 Miladi",
+        category: "İngilizce Tefsirler ve Şerhler"
       },
       {
         number: 54,
-        title: "(ترجمہ: تفہیم القرآن) Tafhim al-Qur'an",
+        title: "Tafhim al-Qur'an (Tefhimu'l-Kur'an İngilizce Tercümesi)",
         englishTitle: "Tafhim al-Qur'an (Translation)",
-        author: "سید ابو الاعلیٰ مودودی (مترجم: ظفر اسحاق انصاری)",
+        author: "Seyyid Ebü'l-A'lâ el-Mevdûdî (Çev. Zafer İshak Ensarî)",
         englishAuthor: "Sayyid Abul A'la Maududi (Trans. Zafar Ishaq Ansari)",
-        language: "English / انگریزی",
-        year: "2000 CE / عیسوی",
-        category: "انگریزی تفاسیر و شروح"
+        language: "İngilizce",
+        year: "2000 Miladi",
+        category: "İngilizce Tefsirler ve Şerhler"
       },
       {
         number: 55,
-        title: "The Message of the Qur'an",
+        title: "The Message of the Qur'an (Kur'an Mesajı)",
         englishTitle: "The Message of the Qur'an",
-        author: "محمد اسد (Muhammad Asad)",
+        author: "Muhammed Esed (Muhammad Asad)",
         englishAuthor: "Muhammad Asad",
-        language: "English / انگریزی",
-        year: "1980 CE / عیسوی",
-        category: "انگریزی تفاسیر و شروح"
+        language: "İngilizce / Türkçe",
+        year: "1980 Miladi",
+        category: "İngilizce Tefsirler ve Şerhler"
       },
       {
         number: 56,
-        title: "(جدید علمی تفسیر) The Study Quran",
+        title: "The Study Quran (Akademik İncelemeli Kur'an)",
         englishTitle: "The Study Quran (Modern Academic)",
-        author: "سید حسین نصر (مدیر)",
+        author: "Seyyid Hüseyin Nasr (Editör)",
         englishAuthor: "Seyyed Hossein Nasr (Editor)",
-        language: "English / انگریزی",
-        year: "2015 CE / عیسوی",
-        category: "انگریزی تفاسیر و شروح"
+        language: "İngilizce",
+        year: "2015 Miladi",
+        category: "İngilizce Tefsirler ve Şerhler"
       }
     ],
     translations: [
+      // Section 1: Arapça Tercüme ve Mealler
       {
         number: 1,
-        title: "ترجمہ تفسیر طبری",
+        title: "Tercüme-i Tefsîr-i Taberî",
         englishTitle: "Translation of Tafsir al-Tabari",
-        author: "ابو جعفر محمد بن جریر الطبری",
+        author: "Ebû Ca'fer Muhammed bin Cerîr et-Taberî",
         englishAuthor: "Abu Ja'far Muhammad ibn Jarir al-Tabari",
-        language: "Arabic / عربی",
-        year: "310 AH / ہجری",
-        category: "عربی تراجم (لفظی اور تفسیری)"
+        language: "Arapça",
+        year: "Hicri 310",
+        category: "Arapça Mealler ve Çeviriler"
       },
       {
         number: 2,
-        title: "ترجمہ قرآن (مضمن تفسیر)",
+        title: "Kur'an Tercümesi (Müzammen Tefsir)",
         englishTitle: "Translation of Quran (Muzamman Tafsir)",
-        author: "ابو القاسم محمود بن عمر الزمخشری",
+        author: "Ebü'l-Kâsım Mahmûd bin Ömer ez-Zemahşerî",
         englishAuthor: "Abu al-Qasim Mahmud bin Umar al-Zamakhshari",
-        language: "Arabic / عربی",
-        year: "538 AH / ہجری",
-        category: "عربی تراجم (لفظی اور تفسیری)"
+        language: "Arapça",
+        year: "Hicri 538",
+        category: "Arapça Mealler ve Çeviriler"
       },
+      // Section 2: Farsça Tercümeler
       {
         number: 3,
-        title: "ترجمہ تفسیر طبری (قدیم ترین فارسی ترجمہ)",
+        title: "Tercüme-i Tefsîr-i Taberî (En Eski Farsça Tercüme)",
         englishTitle: "Translation of Tafsir al-Tabari (Oldest Persian Translation)",
-        author: "سامانی دور کے ایک وفد نے کیا",
+        author: "Sâmânîler Dönemi İlim Heyeti",
         englishAuthor: "Done by a delegation of the Samanid Era",
-        language: "Persian / فارسی",
-        year: "350 AH / ہجری",
-        category: "فارسی تراجم"
+        language: "Farsça",
+        year: "Hicri 350",
+        category: "Farsça Tercümeler"
       },
       {
         number: 4,
-        title: "ترجمہ و تفسیر قرآن",
+        title: "Tercüme ve Tefsîr-i Kur'ân",
         englishTitle: "Translation & Tafsir of Quran",
-        author: "شیخ ابو الحسن علی بن احمد الواحدی النیسابوری",
+        author: "Şeyh Ebü'l-Hasan Alî bin Ahmed el-Vâhidî en-Nîsâbûrî",
         englishAuthor: "Shaykh Abu al-Hasan Ali bin Ahmad al-Wahidi al-Naysaburi",
-        language: "Persian / فارسی",
-        year: "468 AH / ہجری",
-        category: "فارسی تراجم"
+        language: "Farsça",
+        year: "Hicri 468",
+        category: "Farsça Tercümeler"
       },
       {
         number: 5,
-        title: "ترجمہ و تفسیر کشف الاسرار",
+        title: "Tercüme ve Tefsîr-i Keşfü'l-Esrâr",
         englishTitle: "Translation & Tafsir of Kashf al-Asrar",
-        author: "خواجہ عبداللہ انصاری (میبدی)",
+        author: "Hâce Abdullah el-Ensârî (Meybüdî)",
         englishAuthor: "Khwaja Abdullah Ansari (Maybodi)",
-        language: "Persian / فارسی",
-        year: "520 AH / ہجری",
-        category: "فارسی تراجم"
+        language: "Farsça",
+        year: "Hicri 520",
+        category: "Farsça Tercümeler"
       },
       {
         number: 6,
-        title: "ترجمہ قرآن مجید",
+        title: "Tercüme-i Kur'ân-ı Mecîd",
         englishTitle: "Translation of Quran Majeed",
-        author: "شاہ ولی اللہ محدث دہلوی",
+        author: "Şah Veliyyullâh ed-Dehlevî",
         englishAuthor: "Shah Waliullah Muhaddith Dehlavi",
-        language: "Persian / فارسی",
-        year: "1150 AH / ہجری",
-        category: "فارسی تراجم"
+        language: "Farsça",
+        year: "Hicri 1150",
+        category: "Farsça Tercümeler"
       },
       {
         number: 7,
-        title: "ترجمہ و تفسیر حسینی",
+        title: "Tercüme ve Tefsîr-i Hüseynî",
         englishTitle: "Translation & Tafsir-i Husayni",
-        author: "ملا حسین واعظ کاشفی",
+        author: "Molla Hüseyin Vâiz-i Kâşifî",
         englishAuthor: "Mulla Husayn Wa'iz Kashifi",
-        language: "Persian / فارسی",
-        year: "910 AH / ہجری",
-        category: "فارسی تراجم"
+        language: "Farsça",
+        year: "Hicri 910",
+        category: "Farsça Tercümeler"
       },
       {
         number: 8,
-        title: "ترجمہ قرآن مجید",
+        title: "Tercüme-i Kur'ân-ı Mecîd",
         englishTitle: "Translation of Quran Majeed",
-        author: "مہدی الہی قمشہ ای",
+        author: "Mehdî İlâhî Kumşeyî",
         englishAuthor: "Mehdi Elahi Qomshei",
-        language: "Persian / فارسی",
-        year: "1350 SH / شمسی",
-        category: "فارسی تراجم"
+        language: "Farsça",
+        year: "1350 Şemsi",
+        category: "Farsça Tercümeler"
       },
+      // Section 3: Urduca Tercümeler
       {
         number: 9,
-        title: "ترجمہ قرآن مجید (موضح قرآن)",
+        title: "Tercüme-i Kur'ân-ı Mecîd (Mûzıhu'l-Kur'ân)",
         englishTitle: "Translation of Quran Majeed (Maudih al-Quran)",
-        author: "شاہ رفیع الدین محدث دہلوی",
+        author: "Şah Refîuddîn Muhaddis Dehlevî",
         englishAuthor: "Shah Rafi al-Din Muhaddith Dehlavi",
-        language: "Urdu / اردو",
-        year: "1190 AH / ہجری",
-        category: "اردو تراجم"
+        language: "Urduca",
+        year: "Hicri 1190",
+        category: "Urduca Tercümeler"
       },
       {
         number: 10,
-        title: "ترجمہ قرآن مجید (کنز الایمان)",
+        title: "Tercüme-i Kur'ân-ı Mecîd (Kenzü'l-Îmân)",
         englishTitle: "Translation of Quran Majeed (Kanz-ul-Iman)",
-        author: "امام احمد رضا خان بریلوی",
+        author: "İmam Ahmed Rıza Han Birelvî",
         englishAuthor: "Imam Ahmad Raza Khan Barelvi",
-        language: "Urdu / اردو",
-        year: "1911 CE / عیسوی",
-        category: "اردو تراجم"
+        language: "Urduca",
+        year: "1911 Miladi",
+        category: "Urduca Tercümeler"
       },
       {
         number: 11,
-        title: "ترجمہ قرآن مجید (مع تفاسیر)",
+        title: "Tercüme-i Kur'ân-ı Mecîd (Tefsirli)",
         englishTitle: "Translation of Quran Majeed (With Tafasir)",
-        author: "مولانا ابو الکلام آزاد",
+        author: "Mevlânâ Ebü'l-Kelâm Âzâd",
         englishAuthor: "Maulana Abul Kalam Azad",
-        language: "Urdu / اردو",
-        year: "1930 CE / عیسوی",
-        category: "اردو تراجم"
+        language: "Urduca",
+        year: "1930 Miladi",
+        category: "Urduca Tercümeler"
       },
       {
         number: 12,
-        title: "ترجمہ قرآن مجید (احسن التراجم)",
+        title: "Tercüme-i Kur'ân-ı Mecîd (Ahsenü't-Terâcim)",
         englishTitle: "Translation of Quran Majeed (Ahsan al-Tarajim)",
-        author: "مولانا احمد الدین امرتسری",
+        author: "Mevlânâ Ahmedüddîn Emritsarî",
         englishAuthor: "Maulana Ahmad Din Amritsari",
-        language: "Urdu / اردو",
-        year: "1920 CE / عیسوی",
-        category: "اردو تراجم"
+        language: "Urduca",
+        year: "1920 Miladi",
+        category: "Urduca Tercümeler"
       },
       {
         number: 13,
-        title: "ترجمہ و تفسیر (بیان القرآن)",
+        title: "Tercüme ve Tefsir (Beyânü'l-Kur'ân)",
         englishTitle: "Translation & Tafsir (Bayan al-Quran)",
-        author: "ڈاکٹر محمد اسحاق سندیلوی",
+        author: "Dr. Muhammed İshak Sandelvi",
         englishAuthor: "Dr. Muhammad Ishaq Sandelvi",
-        language: "Urdu / اردو",
-        year: "1960 CE / عیسوی",
-        category: "اردو تراجم"
+        language: "Urduca",
+        year: "1960 Miladi",
+        category: "Urduca Tercümeler"
       },
       {
         number: 14,
-        title: "ترجمہ قرآن مجید (فیض الباری)",
+        title: "Tercüme-i Kur'ân-ı Mecîd (Feyzü'l-Bârî)",
         englishTitle: "Translation of Quran Majeed (Fayd al-Bari)",
-        author: "مفتی محمد تقی عثمانی",
+        author: "Müftü Muhammed Takî Osmânî",
         englishAuthor: "Mufti Muhammad Taqi Usmani",
-        language: "Urdu / اردو",
-        year: "2000 CE / عیسوی",
-        category: "اردو تراجم"
+        language: "Urduca",
+        year: "2000 Miladi",
+        category: "Urduca Tercümeler"
       },
       {
         number: 15,
-        title: "ترجمہ قرآن مجید (آسان ترجمہ قرآن)",
+        title: "Tercüme-i Kur'ân-ı Mecîd (Kolay Kur'an Tercümesi)",
         englishTitle: "Translation of Quran Majeed (Asan Tarjuma-e-Quran)",
-        author: "مفتی محمد تقی عثمانی",
+        author: "Müftü Muhammed Takî Osmânî",
         englishAuthor: "Mufti Muhammad Taqi Usmani",
-        language: "Urdu / اردو",
-        year: "2008 CE / عیسوی",
-        category: "اردو تراجم"
+        language: "Urduca / Türkçe",
+        year: "2008 Miladi",
+        category: "Urduca Tercümeler"
       },
       {
         number: 16,
-        title: "ترجمہ قرآن مجید (تفسیر قرآن)",
+        title: "Tercüme-i Kur'ân-ı Mecîd (Tefsîrü'l-Kur'ân)",
         englishTitle: "Translation of Quran Majeed (Tafsir-ul-Quran)",
-        author: "مولانا احمد یار خان نعیمی",
+        author: "Mevlânâ Ahmed Yâr Han Naîmî",
         englishAuthor: "Maulana Ahmad Yar Khan Naeemi",
-        language: "Urdu / اردو",
-        year: "1960 CE / عیسوی",
-        category: "اردو تراجم"
+        language: "Urduca",
+        year: "1960 Miladi",
+        category: "Urduca Tercümeler"
       },
       {
         number: 17,
-        title: "ترجمہ قرآن مجید",
+        title: "Tercüme-i Kur'ân-ı Mecîd",
         englishTitle: "Translation of Quran Majeed",
-        author: "مولانا حفظ الرحمن سیوہاروی",
+        author: "Mevlânâ Hıfzürrahmân Sivhârevî",
         englishAuthor: "Maulana Hifzur Rahman Seohari",
-        language: "Urdu / اردو",
-        year: "1940 CE / عیسوی",
-        category: "اردو تراجم"
+        language: "Urduca",
+        year: "1940 Miladi",
+        category: "Urduca Tercümeler"
       },
       {
         number: 18,
-        title: "ترجمہ قرآن مجید (تفسیر صدیقی)",
+        title: "Tercüme-i Kur'ân-ı Mecîd (Sıddîkî Tefsiri)",
         englishTitle: "Translation of Quran Majeed (Tafsir Siddiqui)",
-        author: "مولوی عبدالقادر صدیقی",
+        author: "Mevlevî Abdülkādir Sıddîkî",
         englishAuthor: "Maulvi Abdul Qadir Siddiqui",
-        language: "Urdu / اردو",
-        year: "1930 CE / عیسوی",
-        category: "اردو تراجم"
+        language: "Urduca",
+        year: "1930 Miladi",
+        category: "Urduca Tercümeler"
       },
       {
         number: 36,
-        title: "ترجمہ قرآن مجید (شاہ عبدالقادر دہلوی)",
+        title: "Tercüme-i Kur'ân-ı Mecîd (Şah Abdülkādir Dehlevî)",
         englishTitle: "Translation of Quran Majeed (Shah Abdul Qadir Dehlavi)",
-        author: "شاہ عبدالقادر محدث دہلوی (موضح القرآن)",
+        author: "Şah Abdülkādir Muhaddis Dehlevî (Mûzıhu'l-Kur'ân)",
         englishAuthor: "Shah Abdul Qadir Muhaddith Dehlavi (Maudih al-Quran)",
-        language: "Urdu / اردو",
-        year: "1205 AH / ہجری",
-        category: "اردو تراجم"
+        language: "Urduca",
+        year: "Hicri 1205",
+        category: "Urduca Tercümeler"
       },
       {
         number: 37,
-        title: "ترجمہ فاروقی",
+        title: "Tercüme-i Farûkî",
         englishTitle: "Translation Farooqi",
-        author: "مولانا امانت اللہ فاروقی",
+        author: "Mevlânâ Emânetullâh Farûkî",
         englishAuthor: "Maulana Amanatullah Farooqi",
-        language: "Urdu / اردو",
-        year: "Modern / جدید",
-        category: "اردو تراجم"
+        language: "Urduca",
+        year: "Çağdaş",
+        category: "Urduca Tercümeler"
       },
       {
         number: 38,
-        title: "ترجمہ جمال القرآن",
+        title: "Tercüme-i Cemâlü'l-Kur'ân",
         englishTitle: "Translation Jamal-ul-Quran",
-        author: "پیر محمد کرم شاہ ازہری",
+        author: "Pîr Muhammed Kerem Şah el-Ezherî",
         englishAuthor: "Pir Muhammad Karam Shah al-Azhari",
-        language: "Urdu / اردو",
-        year: "1979 CE / عیسوی",
-        category: "اردو تراجم"
+        language: "Urduca",
+        year: "1979 Miladi",
+        category: "Urduca Tercümeler"
       },
+      // Section 4: İngilizce Tercümeler
       {
         number: 19,
-        title: "(پہلا انگریزی ترجمہ) The Koran",
+        title: "The Koran (İlk İngilizce Tercümelerden)",
         englishTitle: "The Koran (First English Translation)",
-        author: "جارج سیل (George Sale)",
+        author: "George Sale",
         englishAuthor: "George Sale",
-        language: "English / انگریزی",
-        year: "1734 CE / عیسوی",
-        category: "انگریزی تراجم"
+        language: "İngilizce",
+        year: "1734 Miladi",
+        category: "İngilizce Tercümeler"
       },
       {
         number: 20,
-        title: "(مشهور مستشرقانہ ترجمہ) The Quran",
+        title: "The Quran (Oryantalist Tercüme)",
         englishTitle: "The Quran (Famous Orientalist Translation)",
-        author: "جے ایم راڈویل (J.M. Rodwell)",
+        author: "J.M. Rodwell",
         englishAuthor: "J.M. Rodwell",
-        language: "English / انگریزی",
-        year: "1861 CE / عیسوی",
-        category: "انگریزی تراجم"
+        language: "İngilizce",
+        year: "1861 Miladi",
+        category: "İngilizce Tercümeler"
       },
       {
         number: 21,
         title: "The Holy Quran",
         englishTitle: "The Holy Quran",
-        author: "مولانا محمد علی لاہوری (احمدیہ)",
+        author: "Mevlânâ Muhammed Ali Lâhorî",
         englishAuthor: "Maulana Muhammad Ali Lahori",
-        language: "English / انگریزی",
-        year: "1917 CE / عیسوی",
-        category: "انگریزی تراجم"
+        language: "İngilizce",
+        year: "1917 Miladi",
+        category: "İngilizce Tercümeler"
       },
       {
         number: 22,
         title: "The Meaning of the Glorious Quran",
         englishTitle: "The Meaning of the Glorious Quran",
-        author: "محمد مارماڈیوک پکتھال (Marmaduke Pickthall)",
+        author: "Marmaduke Pickthall",
         englishAuthor: "Marmaduke Pickthall",
-        language: "English / انگریزی",
-        year: "1930 CE / عیسوی",
-        category: "انگریزی تراجم"
+        language: "İngilizce",
+        year: "1930 Miladi",
+        category: "İngilizce Tercümeler"
       },
       {
         number: 23,
         title: "The Holy Quran: Text, Translation and Commentary",
         englishTitle: "The Holy Quran: Text, Translation & Commentary",
-        author: "عبداللہ یوسف علی (Abdullah Yusuf Ali)",
+        author: "Abdullah Yusuf Ali",
         englishAuthor: "Abdullah Yusuf Ali",
-        language: "English / انگریزی",
-        year: "1934 CE / عیسوی",
-        category: "انگریزی تراجم"
+        language: "İngilizce",
+        year: "1934 Miladi",
+        category: "İngilizce Tercümeler"
       },
       {
         number: 25,
         title: "The Noble Quran",
         englishTitle: "The Noble Quran",
-        author: "محمد تقی الدین الہلالی / محمد محسن خان",
+        author: "Muhammed Takıyyüddîn el-Hilâlî / Muhammed Muhsin Han",
         englishAuthor: "Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan",
-        language: "English / انگریزی",
-        year: "1980 CE / عیسوی",
-        category: "انگریزی تراجم"
+        language: "İngilizce",
+        year: "1980 Miladi",
+        category: "İngilizce Tercümeler"
       },
       {
         number: 26,
-        title: "The Message of The Quran",
+        title: "The Message of The Quran (Kur'an Mesajı)",
         englishTitle: "The Message of The Quran",
-        author: "محمد اسد (سابقہ لیوپولڈ ویس)",
+        author: "Muhammed Esed",
         englishAuthor: "Muhammad Asad",
-        language: "English / انگریزی",
-        year: "1980 CE / عیسوی",
-        category: "انگریزی تراجم"
+        language: "İngilizce / Türkçe",
+        year: "1980 Miladi",
+        category: "İngilizce Tercümeler"
       },
       {
         number: 27,
         title: "The Quran: A New Translation",
         englishTitle: "The Quran: A New Translation",
-        author: "عبدالحلیم (M.A.S. Abdel Haleem)",
+        author: "M.A.S. Abdel Haleem (Muhammed Abdülhalîm)",
         englishAuthor: "M.A.S. Abdel Haleem",
-        language: "English / انگریزی",
-        year: "2004 CE / عیسوی",
-        category: "انگریزی تراجم"
+        language: "İngilizce",
+        year: "2004 Miladi",
+        category: "İngilizce Tercümeler"
       },
+      // Section 5: Diğer Başlıca Diller
       {
         number: 28,
-        title: "ترجمہ قرآن مجید (ترکی)",
+        title: "Kur'an-ı Kerim Türkçe Tercüme ve Mealleri",
         englishTitle: "Translation of Quran Majeed (Turkish)",
-        author: "شیخ الاسلام ابو السعود آفندی",
+        author: "Şeyhülislâm Ebüssuûd Efendi / Elmalılı Hamdi Yazır / Diyanet",
         englishAuthor: "Shaykh al-Islam Abu al-Sa'ud Efendi",
-        language: "Turkish / ترکی",
-        year: "982 AH / ہجری",
-        category: "دیگر اہم زبانوں میں تراجم"
+        language: "Türkçe / Osmanlıca",
+        year: "Hicri 982 / 1935 Miladi",
+        category: "Diğer Başlıca Dillerdeki Tercümeler"
       },
       {
         number: 29,
-        title: "ترجمہ قرآن مجید (لاطینی، پہلا غیر اسلامی ترجمہ)",
+        title: "Kur'an-ı Kerim Latince Tercümesi (İlk Batı Tercümesi)",
         englishTitle: "Translation of Quran Majeed (Latin - First Non-Islamic Translation)",
-        author: "رابرٹ آف چیسٹر (Robert of Ketton)",
+        author: "Robert of Ketton (Robert of Chester)",
         englishAuthor: "Robert of Ketton",
-        language: "Latin / لاطینی",
-        year: "1143 CE / عیسوی",
-        category: "دیگر اہم زبانوں میں تراجم"
+        language: "Latince",
+        year: "1143 Miladi",
+        category: "Diğer Başlıca Dillerdeki Tercümeler"
       },
       {
         number: 30,
-        title: "ترجمہ قرآن مجید (فرانسیسی)",
+        title: "Kur'an-ı Kerim Fransızca Tercümesi",
         englishTitle: "Translation of Quran Majeed (French)",
-        author: "آندرے ڈی رائر (André du Ryer)",
+        author: "André du Ryer",
         englishAuthor: "André du Ryer",
-        language: "French / فرانسیسی",
-        year: "1647 CE / عیسوی",
-        category: "دیگر اہم زبانوں میں تراجم"
+        language: "Fransızca",
+        year: "1647 Miladi",
+        category: "Diğer Başlıca Dillerdeki Tercümeler"
       },
       {
         number: 31,
-        title: "ترجمہ قرآن مجید (جرمن)",
+        title: "Kur'an-ı Kerim Almanca Tercümesi",
         englishTitle: "Translation of Quran Majeed (German)",
-        author: "فریڈرک ریکرٹ (Friedrich Rückert)",
+        author: "Friedrich Rückert",
         englishAuthor: "Friedrich Rückert",
-        language: "German / جرمن",
-        year: "1888 CE / عیسوی",
-        category: "دیگر اہم زبانوں میں تراجم"
+        language: "Almanca",
+        year: "1888 Miladi",
+        category: "Diğer Başlıca Dillerdeki Tercümeler"
       },
       {
         number: 32,
-        title: "ترجمہ قرآن مجید (سندھی)",
+        title: "Kur'an-ı Kerim Sindce Tercümesi",
         englishTitle: "Translation of Quran Majeed (Sindhi)",
-        author: "مولانا تاج محمد امروتی",
+        author: "Mevlânâ Tâc Muhammed Amrotî",
         englishAuthor: "Maulana Taj Muhammad Amroti",
-        language: "Sindhi / سندھی",
-        year: "1900 CE / عیسوی",
-        category: "دیگر اہم زبانوں میں تراجم"
+        language: "Sindce",
+        year: "1900 Miladi",
+        category: "Diğer Başlıca Dillerdeki Tercümeler"
       },
       {
         number: 33,
-        title: "ترجمہ قرآن مجید (پنجابی)",
+        title: "Kur'an-ı Kerim Pencapça Tercümesi",
         englishTitle: "Translation of Quran Majeed (Punjabi)",
-        author: "حافظ محمد حسن (اور دیگر)",
+        author: "Hâfız Muhammed Hasan (ve diğerleri)",
         englishAuthor: "Hafiz Muhammad Hassan (and others)",
-        language: "Punjabi / پنجابی",
-        year: "1900 CE / عیسوی",
-        category: "دیگر اہم زبانوں میں تراجم"
+        language: "Pencapça",
+        year: "1900 Miladi",
+        category: "Diğer Başlıca Dillerdeki Tercümeler"
       },
       {
         number: 34,
-        title: "ترجمہ قرآن مجید (چینی)",
+        title: "Kur'an-ı Kerim Çince Tercümesi",
         englishTitle: "Translation of Quran Majeed (Chinese)",
-        author: "محمد ماجن (Muhammad Ma Jian)",
+        author: "Muhammed Ma Jian (Ma Jian)",
         englishAuthor: "Muhammad Ma Jian",
-        language: "Chinese / چینی",
-        year: "1980 CE / عیسوی",
-        category: "دیگر اہم زبانوں میں تراجم"
+        language: "Çince",
+        year: "1980 Miladi",
+        category: "Diğer Başlıca Dillerdeki Tercümeler"
       }
     ]
   },
   hadithBooks: {
-    title: "احادیث کے مستند مجموعے (الکتب الستۃ)",
-    subtitle: "چھ انتہائی معتبر کتب جو رسول اللہ صلی اللہ علیہ وسلم کے اقوال، افعال اور تقریرات (خاموش منظوریوں) پر مشتمل ہیں۔",
+    title: "Temel Hadis Külliyatı (Kütüb-i Sitte)",
+    subtitle: "Peygamber Efendimiz Hazret-i Muhammed'in (s.a.v.) söz, fiil ve takrirlerini içeren altı büyük sahih hadis eseri.",
     books: [
       {
         id: "bukhari",
-        title: "Sahih al-Bukhari (صحیح البخاری)",
-        author: "Imam Muhammad ibn Ismail al-Bukhari",
-        century: "9th Century CE (256 AH)",
-        description: "قرآن مجید کے بعد سب سے مستند کتاب مانی جاتی ہے۔ امام بخاری نے تاریخ میں قائم کردہ سخت ترین تصدیقی معیار کا استعمال کرتے ہوئے 16 سال سے زائد عرصے میں 7000 سے زیادہ صحیح احادیث کو جمع اور تصدیق کیا۔",
+        title: "Sahîh-i Buhârî (صحیح البخاری)",
+        author: "İmam Muhammed bin İsmâil el-Buhârî",
+        century: "9. Yüzyıl Miladi (Hicri 256)",
+        description: "Kur'an-ı Kerim'den sonra İslam dünyasındaki en sahih kitap kabul edilir. İmam Buhârî, tarihte tespit edilmiş en titiz rical ve cerh-tadil kriterleriyle 16 yılı aşkın sürede 7.000'den fazla sahih rivayeti derlemiştir.",
         keyFeatures: [
-          "راوی کی ساکھ کے اعلیٰ ترین معیار (ملاقات کی سخت شرط)",
-          "پیچیدہ فقہی استنباط کی عکاسی کرنے والے تفصیلی ابواب (فقہ البخاری)",
-          "عقائد، اخلاق، تاریخ اور طب کے ابواب شامل ہیں",
-          "متفقہ طور پر حدیث کے لٹریچر کا عروج مانا جاتا ہے"
+          "Ravi güvenilirliğinde en üst düzey şartlar (kesin mülakat şartı)",
+          "İnce fıkhi çıkarımları temsil eden detaylı bab başlıkları (Buhârî Fıkhı)",
+          "İtikat, ahlak, tarih, tıp ve muamelat bölümlerini ihtiva eder",
+          "Hadis edebiyatının zirvesi olarak ittifakla kabul görmüştür"
         ]
       },
       {
         id: "muslim",
-        title: "Sahih Muslim (صحیح مسلم)",
-        author: "Imam Muslim ibn al-Hajjaj",
-        century: "9th Century CE (261 AH)",
-        description: "صحیح بخاری کی تکمیل کرتے ہوئے، صحیح مسلم اپنی بہترین موضوعاتی ترتیب اور راوی کے الفاظ کی سخت حفاظت (سند کی سالمیت) کے لیے مشہور ہے۔",
+        title: "Sahîh-i Müslim (صحیح مسلم)",
+        author: "İmam Müslim bin Haccâc",
+        century: "9. Yüzyıl Miladi (Hicri 261)",
+        description: "Sahîh-i Buhârî ile birlikte 'Sahîhayn'ı oluşturan Sahîh-i Müslim, mükemmel konu tasnifi ve rivayet lafızlarının hassas korunumu ile tanınır.",
         keyFeatures: [
-          "متعدد زنجیروں کو ایک ساتھ گروپ کرنے کے ساتھ بہترین موضوعاتی ترتیب",
-          "راویوں کے درمیان الفاظ کے معمولی اختلافات پر توجہ",
-          "علم الحدیث پر جامع علمی مقدمہ",
-          "قانونی تشریح اور عقائد کے لیے ناگزیر ماخذ"
+          "Farklı isnad zincirlerini aynı başlık altında toplayan üstün konu tasnifi",
+          "Ravilerin lafız farklarına ve nüanslara olağanüstü titizlik",
+          "Hadis usulüne dair kapsamlı ve ilmi bir mukaddime",
+          "Fıkhi yorum ve akide için vazgeçilmez temel başvuru kaynağı"
         ]
       },
       {
         id: "tirmidhi",
-        title: "Jami` at-Tirmidhi (جامع الترمذی)",
-        author: "Imam Abu Isa Muhammad at-Tirmidhi",
-        century: "9th Century CE (279 AH)",
-        description: "ایک شاندار مجموعہ جو حدیث کے درجات (صحیح، حسن، ضعیف) کی درجہ بندی کرنے اور مختلف فقہی مدارس (فقہ کے ساتھی) کے نقطہ نظر کی وضاحت کرنے کے لیے مشہور ہے۔",
+        title: "Sünen-i Tirmizî / el-Câmi' (جامع الترمذی)",
+        author: "İmam Ebû Îsâ Muhammed et-Tirmizî",
+        century: "9. Yüzyıl Miladi (Hicri 279)",
+        description: "Hadislerin sıhhat derecelerini (Sahih, Hasen, Zayıf) titizlikle belirten ve mezhep imamları ile sahabe-tabiin fukahasının görüşlerini aktaran eşsiz bir eserdir.",
         keyFeatures: [
-          "ہر ایک حدیث کے درجے کی واضح درجہ بندی کرتا ہے",
-          "ذکر کرتا ہے کہ کن فقہاء (صحابة اور تابعین) نے اس روایت پر عمل کیا",
-          "اسلامی قانون کے طلباء کے لیے انتہائی تعلیمی اہمیت کا حامل",
-          "خصوصیات کی مشہور کتاب (شمائلِ ترمذی) شامل ہے"
+          "Her hadisin sıhhat derecesini açıkça değerlendirip sınıflandırır",
+          "Sahabe ve müctehid fakihlerin ameli tatbikatlarını ve fetvalarını zikreder",
+          "İslam hukuku ve mukayeseli fıkıh öğrencileri için son derece öğreticidir",
+          "Peygamber Efendimiz'in şemailini anlatan meşhur Şemâil-i Şerîf bölümünü içerir"
         ]
       },
       {
         id: "abi-dawud",
-        title: "Sunan Abi Dawud (سنن ابی داؤد)",
-        author: "Imam Abu Dawud Sulayman ibn al-Ash'ath",
-        century: "9th Century CE (275 AH)",
-        description: "یہ مجموعہ خاص طور پر شرعی احکام (احکام) پر توجہ مرکوز کرنے والی احادیث کو مرتب کرتا ہے۔ یہ قانونی شواہد کے متلاشی وکلاء، ججوں اور فقہاء کے لیے بنیادی ذریعہ ہے۔",
+        title: "Sünen-i Ebû Dâvûd (سنن ابی داؤد)",
+        author: "İmam Ebû Dâvûd Süleyman bin el-Eş'as",
+        century: "9. Yüzyıl Miladi (Hicri 275)",
+        description: "Özellikle fıkhi hükümlere (Ahkâm Hadisleri) odaklanan en muteber temel hadis mecmuasıdır. Hukukçular ve müctehidler için birincil başvuru kaynağıdır.",
         keyFeatures: [
-          "شرعی احکام پر سخت توجہ (احادیث الاحکام)",
-          "راوی کی کمزوریوں پر امام ابو داؤد کے تبصرے شامل ہیں",
-          "قانونی توجہ برقرار رکھنے کے لیے اخلاقی اور الہیاتی موضوعات کو کم سے کم شامل کیا گیا ہے",
-          "امام غزالی کی طرف سے ایک مجتہد کے لیے کافی قرار دے کر انتہائی تعریف کی گئی"
+          "Hüküm ve fıkıh hadislerine odaklanan sistemli tertip (Hadîsü'l-Ahkâm)",
+          "İmam Ebû Dâvûd'un raviler ve rivayet illetleri hakkındaki ilmi notları",
+          "Fıkhi berraklığı korumak için doğrudan hükümle ilgili rivayetleri öncelemesi",
+          "İmam Gazâlî tarafından bir müctehidin fıkıh için kifayet edecek temel kaynağı olarak övülmesi"
         ]
       },
       {
         id: "nasa-i",
-        title: "Sunan an-Nasa'i (سنن النسائی)",
-        author: "Imam Ahmad ibn Shu'ayb al-Nasa'i",
-        century: "9th Century CE (303 AH)",
-        description: "یہ مجموعہ راویوں کی زنجیروں کی درجہ بندی اور احادیث میں باریک نقائص کی دقیق جانچ کے لیے انتہائی مشہور ہے۔ یہ مضبوط ترین سنن کتب میں شمار ہوتا ہے۔",
+        title: "Sünen-i Nesâî (el-Müctebâ) (سنن النسائی)",
+        author: "İmam Ahmed bin Şuayb en-Nesâî",
+        century: "9. Yüzyıl Miladi (Hicri 303)",
+        description: "İsnad tenkidi, hadislerdeki gizli illetlerin (İlel) tespiti ve ravilerin titiz değerlendirilmesi bakımından Sünenler arasında en güçlü kabul edilen eserlerdendir.",
         keyFeatures: [
-          "راویوں کے لیے انتہائی سخت معیار، جو صحیحین کے برابر ہے",
-          "باریک فقہی تفصیلات اور قانونی مضمرات پر گہری توجہ (فقہ النسائی)",
-          "سندوں میں چھپے ہوئے نقائص (علل) کا وسیع تجزیہ شامل ہے",
-          "ضعیف اور صحیح روایات کی جامع درجہ بندی"
+          "Sahîhayn düzeyine yakın son derece sıkı ravi seçim kriterleri",
+          "İnce fıkhi ayrıntılar ve hüküm nüanslarına derinlemesine odaklanma (Nesâî Fıkhı)",
+          "İsnadlardaki gizli kusurların (İlel) kapsamlı analizi",
+          "Sahih ve zayıf rivayetlerin dakik ayrımı ve tasnifi"
         ]
       },
       {
         id: "ibn-majah",
-        title: "Sunan ibn Majah (سنن ابن ماجہ)",
-        author: "Imam Ibn Majah Abu Abdillah Muhammad",
-        century: "9th Century CE (273 AH)",
-        description: "کتب ستہ کی چھٹی کتاب، جو اپنی بہترین ترتیب، احادیث کی کم سے کم تکرار، اور نایاب روایات کو شامل کرنے کے لیے مشہور ہے جو فقہ کو وسعت دیتی ہیں۔",
+        title: "Sünen-i İbn Mâce (سنن ابن ماجہ)",
+        author: "İmam İbn Mâce Ebû Abdillâh Muhammed",
+        century: "9. Yüzyıl Miladi (Hicri 273)",
+        description: "Kütüb-i Sitte'nin altıncı eseri olup, mükemmel bab tasnifi, asgari hadis tekrarı ve fıkıh zenginliği katan nadir zevâid rivayetleriyle tanınır.",
         keyFeatures: [
-          "ایک انتہائی منطقی اور منظم بہاؤ کے ساتھ ابواب کی بہترین ترتیب",
-          "حجم کو مختصر رکھنے کے لیے ابواب میں احادیث کی کم سے کم تکرار",
-          "انفرادیت حامل روایات (زوائد) پر مشتمل ہے جو دیگر پانچ کتب میں نہیں ملتی ہیں",
-          "سنت کی حجیت پر ایک بہترین تعارفی سیکشن شامل ہے"
+          "Mantıksal ve akıcı bir fıkhi sırayla oluşturulmuş harika bab tertibi",
+          "Cildi muhtasar tutmak amacıyla bölümler arasında asgari hadis tekrarı",
+          "Diğer beş hadis kitabında bulunmayan zevâid hadisleri ihtiva etmesi",
+          "Sünnetin dindeki otoritesi ve ilmin fazileti üzerine kapsamlı bir mukaddime"
         ]
       }
     ]
