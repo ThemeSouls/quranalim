@@ -1,0 +1,5582 @@
+[
+    {
+        "id": 1,
+        "surahId": 1,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "1:1",
+        "verseRange": "1-7",
+        "firstWords": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ",
+        "versesCount": 7
+    },
+    {
+        "id": 2,
+        "surahId": 2,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "2:1",
+        "verseRange": "1-7",
+        "firstWords": "الٓمٓ",
+        "versesCount": 7
+    },
+    {
+        "id": 3,
+        "surahId": 2,
+        "surahRukuNumber": 2,
+        "verseNumber": 8,
+        "verseKey": "2:8",
+        "verseRange": "8-20",
+        "firstWords": "وَمِنَ ٱلنَّاسِ مَن",
+        "versesCount": 13
+    },
+    {
+        "id": 4,
+        "surahId": 2,
+        "surahRukuNumber": 3,
+        "verseNumber": 21,
+        "verseKey": "2:21",
+        "verseRange": "21-29",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱعْبُدُوا۟",
+        "versesCount": 9
+    },
+    {
+        "id": 5,
+        "surahId": 2,
+        "surahRukuNumber": 4,
+        "verseNumber": 30,
+        "verseKey": "2:30",
+        "verseRange": "30-39",
+        "firstWords": "وَإِذْ قَالَ رَبُّكَ",
+        "versesCount": 10
+    },
+    {
+        "id": 6,
+        "surahId": 2,
+        "surahRukuNumber": 5,
+        "verseNumber": 40,
+        "verseKey": "2:40",
+        "verseRange": "40-46",
+        "firstWords": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟",
+        "versesCount": 7
+    },
+    {
+        "id": 7,
+        "surahId": 2,
+        "surahRukuNumber": 6,
+        "verseNumber": 47,
+        "verseKey": "2:47",
+        "verseRange": "47-59",
+        "firstWords": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟",
+        "versesCount": 13
+    },
+    {
+        "id": 8,
+        "surahId": 2,
+        "surahRukuNumber": 7,
+        "verseNumber": 60,
+        "verseKey": "2:60",
+        "verseRange": "60-61",
+        "firstWords": "۞ وَإِذِ ٱسْتَسْقَىٰ",
+        "versesCount": 2
+    },
+    {
+        "id": 9,
+        "surahId": 2,
+        "surahRukuNumber": 8,
+        "verseNumber": 62,
+        "verseKey": "2:62",
+        "verseRange": "62-71",
+        "firstWords": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 10
+    },
+    {
+        "id": 10,
+        "surahId": 2,
+        "surahRukuNumber": 9,
+        "verseNumber": 72,
+        "verseKey": "2:72",
+        "verseRange": "72-82",
+        "firstWords": "وَإِذْ قَتَلْتُمْ نَفْسًا",
+        "versesCount": 11
+    },
+    {
+        "id": 11,
+        "surahId": 2,
+        "surahRukuNumber": 10,
+        "verseNumber": 83,
+        "verseKey": "2:83",
+        "verseRange": "83-86",
+        "firstWords": "وَإِذْ أَخَذْنَا مِيثَـٰقَ",
+        "versesCount": 4
+    },
+    {
+        "id": 12,
+        "surahId": 2,
+        "surahRukuNumber": 11,
+        "verseNumber": 87,
+        "verseKey": "2:87",
+        "verseRange": "87-96",
+        "firstWords": "وَلَقَدْ ءَاتَيْنَا مُوسَى",
+        "versesCount": 10
+    },
+    {
+        "id": 13,
+        "surahId": 2,
+        "surahRukuNumber": 12,
+        "verseNumber": 97,
+        "verseKey": "2:97",
+        "verseRange": "97-103",
+        "firstWords": "قُلْ مَن كَانَ",
+        "versesCount": 7
+    },
+    {
+        "id": 14,
+        "surahId": 2,
+        "surahRukuNumber": 13,
+        "verseNumber": 104,
+        "verseKey": "2:104",
+        "verseRange": "104-112",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 9
+    },
+    {
+        "id": 15,
+        "surahId": 2,
+        "surahRukuNumber": 14,
+        "verseNumber": 113,
+        "verseKey": "2:113",
+        "verseRange": "113-121",
+        "firstWords": "وَقَالَتِ ٱلْيَهُودُ لَيْسَتِ",
+        "versesCount": 9
+    },
+    {
+        "id": 16,
+        "surahId": 2,
+        "surahRukuNumber": 15,
+        "verseNumber": 122,
+        "verseKey": "2:122",
+        "verseRange": "122-129",
+        "firstWords": "يَـٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟",
+        "versesCount": 8
+    },
+    {
+        "id": 17,
+        "surahId": 2,
+        "surahRukuNumber": 16,
+        "verseNumber": 130,
+        "verseKey": "2:130",
+        "verseRange": "130-141",
+        "firstWords": "وَمَن يَرْغَبُ عَن",
+        "versesCount": 12
+    },
+    {
+        "id": 18,
+        "surahId": 2,
+        "surahRukuNumber": 17,
+        "verseNumber": 142,
+        "verseKey": "2:142",
+        "verseRange": "142-147",
+        "firstWords": "۞ سَيَقُولُ ٱلسُّفَهَآءُ",
+        "versesCount": 6
+    },
+    {
+        "id": 19,
+        "surahId": 2,
+        "surahRukuNumber": 18,
+        "verseNumber": 148,
+        "verseKey": "2:148",
+        "verseRange": "148-152",
+        "firstWords": "وَلِكُلٍّ وِجْهَةٌ هُوَ",
+        "versesCount": 5
+    },
+    {
+        "id": 20,
+        "surahId": 2,
+        "surahRukuNumber": 19,
+        "verseNumber": 153,
+        "verseKey": "2:153",
+        "verseRange": "153-163",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 11
+    },
+    {
+        "id": 21,
+        "surahId": 2,
+        "surahRukuNumber": 20,
+        "verseNumber": 164,
+        "verseKey": "2:164",
+        "verseRange": "164-167",
+        "firstWords": "إِنَّ فِى خَلْقِ",
+        "versesCount": 4
+    },
+    {
+        "id": 22,
+        "surahId": 2,
+        "surahRukuNumber": 21,
+        "verseNumber": 168,
+        "verseKey": "2:168",
+        "verseRange": "168-176",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلنَّاسُ كُلُوا۟",
+        "versesCount": 9
+    },
+    {
+        "id": 23,
+        "surahId": 2,
+        "surahRukuNumber": 22,
+        "verseNumber": 177,
+        "verseKey": "2:177",
+        "verseRange": "177-182",
+        "firstWords": "۞ لَّيْسَ ٱلْبِرَّ",
+        "versesCount": 6
+    },
+    {
+        "id": 24,
+        "surahId": 2,
+        "surahRukuNumber": 23,
+        "verseNumber": 183,
+        "verseKey": "2:183",
+        "verseRange": "183-188",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 6
+    },
+    {
+        "id": 25,
+        "surahId": 2,
+        "surahRukuNumber": 24,
+        "verseNumber": 189,
+        "verseKey": "2:189",
+        "verseRange": "189-196",
+        "firstWords": "۞ يَسْـَٔلُونَكَ عَنِ",
+        "versesCount": 8
+    },
+    {
+        "id": 26,
+        "surahId": 2,
+        "surahRukuNumber": 25,
+        "verseNumber": 197,
+        "verseKey": "2:197",
+        "verseRange": "197-210",
+        "firstWords": "ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَـٰتٌ",
+        "versesCount": 14
+    },
+    {
+        "id": 27,
+        "surahId": 2,
+        "surahRukuNumber": 26,
+        "verseNumber": 211,
+        "verseKey": "2:211",
+        "verseRange": "211-216",
+        "firstWords": "سَلْ بَنِىٓ إِسْرَٰٓءِيلَ",
+        "versesCount": 6
+    },
+    {
+        "id": 28,
+        "surahId": 2,
+        "surahRukuNumber": 27,
+        "verseNumber": 217,
+        "verseKey": "2:217",
+        "verseRange": "217-221",
+        "firstWords": "يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ",
+        "versesCount": 5
+    },
+    {
+        "id": 29,
+        "surahId": 2,
+        "surahRukuNumber": 28,
+        "verseNumber": 222,
+        "verseKey": "2:222",
+        "verseRange": "222-228",
+        "firstWords": "وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ",
+        "versesCount": 7
+    },
+    {
+        "id": 30,
+        "surahId": 2,
+        "surahRukuNumber": 29,
+        "verseNumber": 229,
+        "verseKey": "2:229",
+        "verseRange": "229-231",
+        "firstWords": "ٱلطَّلَـٰقُ مَرَّتَانِ ۖ",
+        "versesCount": 3
+    },
+    {
+        "id": 31,
+        "surahId": 2,
+        "surahRukuNumber": 30,
+        "verseNumber": 232,
+        "verseKey": "2:232",
+        "verseRange": "232-235",
+        "firstWords": "وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ",
+        "versesCount": 4
+    },
+    {
+        "id": 32,
+        "surahId": 2,
+        "surahRukuNumber": 31,
+        "verseNumber": 236,
+        "verseKey": "2:236",
+        "verseRange": "236-242",
+        "firstWords": "لَّا جُنَاحَ عَلَيْكُمْ",
+        "versesCount": 7
+    },
+    {
+        "id": 33,
+        "surahId": 2,
+        "surahRukuNumber": 32,
+        "verseNumber": 243,
+        "verseKey": "2:243",
+        "verseRange": "243-248",
+        "firstWords": "۞ أَلَمْ تَرَ",
+        "versesCount": 6
+    },
+    {
+        "id": 34,
+        "surahId": 2,
+        "surahRukuNumber": 33,
+        "verseNumber": 249,
+        "verseKey": "2:249",
+        "verseRange": "249-253",
+        "firstWords": "فَلَمَّا فَصَلَ طَالُوتُ",
+        "versesCount": 5
+    },
+    {
+        "id": 35,
+        "surahId": 2,
+        "surahRukuNumber": 34,
+        "verseNumber": 254,
+        "verseKey": "2:254",
+        "verseRange": "254-257",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟",
+        "versesCount": 4
+    },
+    {
+        "id": 36,
+        "surahId": 2,
+        "surahRukuNumber": 35,
+        "verseNumber": 258,
+        "verseKey": "2:258",
+        "verseRange": "258-260",
+        "firstWords": "أَلَمْ تَرَ إِلَى",
+        "versesCount": 3
+    },
+    {
+        "id": 37,
+        "surahId": 2,
+        "surahRukuNumber": 36,
+        "verseNumber": 261,
+        "verseKey": "2:261",
+        "verseRange": "261-266",
+        "firstWords": "مَّثَلُ ٱلَّذِينَ يُنفِقُونَ",
+        "versesCount": 6
+    },
+    {
+        "id": 38,
+        "surahId": 2,
+        "surahRukuNumber": 37,
+        "verseNumber": 267,
+        "verseKey": "2:267",
+        "verseRange": "267-273",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟",
+        "versesCount": 7
+    },
+    {
+        "id": 39,
+        "surahId": 2,
+        "surahRukuNumber": 38,
+        "verseNumber": 274,
+        "verseKey": "2:274",
+        "verseRange": "274-281",
+        "firstWords": "ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم",
+        "versesCount": 8
+    },
+    {
+        "id": 40,
+        "surahId": 2,
+        "surahRukuNumber": 39,
+        "verseNumber": 282,
+        "verseKey": "2:282",
+        "verseRange": "282-283",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟",
+        "versesCount": 2
+    },
+    {
+        "id": 41,
+        "surahId": 2,
+        "surahRukuNumber": 40,
+        "verseNumber": 284,
+        "verseKey": "2:284",
+        "verseRange": "284-286",
+        "firstWords": "لِّلَّهِ مَا فِى",
+        "versesCount": 3
+    },
+    {
+        "id": 42,
+        "surahId": 3,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "3:1",
+        "verseRange": "1-9",
+        "firstWords": "الٓمٓ",
+        "versesCount": 9
+    },
+    {
+        "id": 43,
+        "surahId": 3,
+        "surahRukuNumber": 2,
+        "verseNumber": 10,
+        "verseKey": "3:10",
+        "verseRange": "10-20",
+        "firstWords": "إِنَّ ٱلَّذِينَ كَفَرُوا۟",
+        "versesCount": 11
+    },
+    {
+        "id": 44,
+        "surahId": 3,
+        "surahRukuNumber": 3,
+        "verseNumber": 21,
+        "verseKey": "3:21",
+        "verseRange": "21-30",
+        "firstWords": "إِنَّ ٱلَّذِينَ يَكْفُرُونَ",
+        "versesCount": 10
+    },
+    {
+        "id": 45,
+        "surahId": 3,
+        "surahRukuNumber": 4,
+        "verseNumber": 31,
+        "verseKey": "3:31",
+        "verseRange": "31-41",
+        "firstWords": "قُلْ إِن كُنتُمْ",
+        "versesCount": 11
+    },
+    {
+        "id": 46,
+        "surahId": 3,
+        "surahRukuNumber": 5,
+        "verseNumber": 42,
+        "verseKey": "3:42",
+        "verseRange": "42-54",
+        "firstWords": "وَإِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ",
+        "versesCount": 13
+    },
+    {
+        "id": 47,
+        "surahId": 3,
+        "surahRukuNumber": 6,
+        "verseNumber": 55,
+        "verseKey": "3:55",
+        "verseRange": "55-63",
+        "firstWords": "إِذْ قَالَ ٱللَّهُ",
+        "versesCount": 9
+    },
+    {
+        "id": 48,
+        "surahId": 3,
+        "surahRukuNumber": 7,
+        "verseNumber": 64,
+        "verseKey": "3:64",
+        "verseRange": "64-71",
+        "firstWords": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ",
+        "versesCount": 8
+    },
+    {
+        "id": 49,
+        "surahId": 3,
+        "surahRukuNumber": 8,
+        "verseNumber": 72,
+        "verseKey": "3:72",
+        "verseRange": "72-80",
+        "firstWords": "وَقَالَت طَّآئِفَةٌ مِّنْ",
+        "versesCount": 9
+    },
+    {
+        "id": 50,
+        "surahId": 3,
+        "surahRukuNumber": 9,
+        "verseNumber": 81,
+        "verseKey": "3:81",
+        "verseRange": "81-91",
+        "firstWords": "وَإِذْ أَخَذَ ٱللَّهُ",
+        "versesCount": 11
+    },
+    {
+        "id": 51,
+        "surahId": 3,
+        "surahRukuNumber": 10,
+        "verseNumber": 92,
+        "verseKey": "3:92",
+        "verseRange": "92-101",
+        "firstWords": "لَن تَنَالُوا۟ ٱلْبِرَّ",
+        "versesCount": 10
+    },
+    {
+        "id": 52,
+        "surahId": 3,
+        "surahRukuNumber": 11,
+        "verseNumber": 102,
+        "verseKey": "3:102",
+        "verseRange": "102-109",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 8
+    },
+    {
+        "id": 53,
+        "surahId": 3,
+        "surahRukuNumber": 12,
+        "verseNumber": 110,
+        "verseKey": "3:110",
+        "verseRange": "110-120",
+        "firstWords": "كُنتُمْ خَيْرَ أُمَّةٍ",
+        "versesCount": 11
+    },
+    {
+        "id": 54,
+        "surahId": 3,
+        "surahRukuNumber": 13,
+        "verseNumber": 121,
+        "verseKey": "3:121",
+        "verseRange": "121-129",
+        "firstWords": "وَإِذْ غَدَوْتَ مِنْ",
+        "versesCount": 9
+    },
+    {
+        "id": 55,
+        "surahId": 3,
+        "surahRukuNumber": 14,
+        "verseNumber": 130,
+        "verseKey": "3:130",
+        "verseRange": "130-143",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 14
+    },
+    {
+        "id": 56,
+        "surahId": 3,
+        "surahRukuNumber": 15,
+        "verseNumber": 144,
+        "verseKey": "3:144",
+        "verseRange": "144-148",
+        "firstWords": "وَمَا مُحَمَّدٌ إِلَّا",
+        "versesCount": 5
+    },
+    {
+        "id": 57,
+        "surahId": 3,
+        "surahRukuNumber": 16,
+        "verseNumber": 149,
+        "verseKey": "3:149",
+        "verseRange": "149-155",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟",
+        "versesCount": 7
+    },
+    {
+        "id": 58,
+        "surahId": 3,
+        "surahRukuNumber": 17,
+        "verseNumber": 156,
+        "verseKey": "3:156",
+        "verseRange": "156-171",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 16
+    },
+    {
+        "id": 59,
+        "surahId": 3,
+        "surahRukuNumber": 18,
+        "verseNumber": 172,
+        "verseKey": "3:172",
+        "verseRange": "172-180",
+        "firstWords": "ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ",
+        "versesCount": 9
+    },
+    {
+        "id": 60,
+        "surahId": 3,
+        "surahRukuNumber": 19,
+        "verseNumber": 181,
+        "verseKey": "3:181",
+        "verseRange": "181-189",
+        "firstWords": "لَّقَدْ سَمِعَ ٱللَّهُ",
+        "versesCount": 9
+    },
+    {
+        "id": 61,
+        "surahId": 3,
+        "surahRukuNumber": 20,
+        "verseNumber": 190,
+        "verseKey": "3:190",
+        "verseRange": "190-200",
+        "firstWords": "إِنَّ فِى خَلْقِ",
+        "versesCount": 11
+    },
+    {
+        "id": 62,
+        "surahId": 4,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "4:1",
+        "verseRange": "1-10",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟",
+        "versesCount": 10
+    },
+    {
+        "id": 63,
+        "surahId": 4,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "4:11",
+        "verseRange": "11-14",
+        "firstWords": "يُوصِيكُمُ ٱللَّهُ فِىٓ",
+        "versesCount": 4
+    },
+    {
+        "id": 64,
+        "surahId": 4,
+        "surahRukuNumber": 3,
+        "verseNumber": 15,
+        "verseKey": "4:15",
+        "verseRange": "15-22",
+        "firstWords": "وَٱلَّـٰتِى يَأْتِينَ ٱلْفَـٰحِشَةَ",
+        "versesCount": 8
+    },
+    {
+        "id": 65,
+        "surahId": 4,
+        "surahRukuNumber": 4,
+        "verseNumber": 23,
+        "verseKey": "4:23",
+        "verseRange": "23-25",
+        "firstWords": "حُرِّمَتْ عَلَيْكُمْ أُمَّهَـٰتُكُمْ",
+        "versesCount": 3
+    },
+    {
+        "id": 66,
+        "surahId": 4,
+        "surahRukuNumber": 5,
+        "verseNumber": 26,
+        "verseKey": "4:26",
+        "verseRange": "26-33",
+        "firstWords": "يُرِيدُ ٱللَّهُ لِيُبَيِّنَ",
+        "versesCount": 8
+    },
+    {
+        "id": 67,
+        "surahId": 4,
+        "surahRukuNumber": 6,
+        "verseNumber": 34,
+        "verseKey": "4:34",
+        "verseRange": "34-42",
+        "firstWords": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى",
+        "versesCount": 9
+    },
+    {
+        "id": 68,
+        "surahId": 4,
+        "surahRukuNumber": 7,
+        "verseNumber": 43,
+        "verseKey": "4:43",
+        "verseRange": "43-50",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 8
+    },
+    {
+        "id": 69,
+        "surahId": 4,
+        "surahRukuNumber": 8,
+        "verseNumber": 51,
+        "verseKey": "4:51",
+        "verseRange": "51-59",
+        "firstWords": "أَلَمْ تَرَ إِلَى",
+        "versesCount": 9
+    },
+    {
+        "id": 70,
+        "surahId": 4,
+        "surahRukuNumber": 9,
+        "verseNumber": 60,
+        "verseKey": "4:60",
+        "verseRange": "60-70",
+        "firstWords": "أَلَمْ تَرَ إِلَى",
+        "versesCount": 11
+    },
+    {
+        "id": 71,
+        "surahId": 4,
+        "surahRukuNumber": 10,
+        "verseNumber": 71,
+        "verseKey": "4:71",
+        "verseRange": "71-76",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 6
+    },
+    {
+        "id": 72,
+        "surahId": 4,
+        "surahRukuNumber": 11,
+        "verseNumber": 77,
+        "verseKey": "4:77",
+        "verseRange": "77-87",
+        "firstWords": "أَلَمْ تَرَ إِلَى",
+        "versesCount": 11
+    },
+    {
+        "id": 73,
+        "surahId": 4,
+        "surahRukuNumber": 12,
+        "verseNumber": 88,
+        "verseKey": "4:88",
+        "verseRange": "88-91",
+        "firstWords": "۞ فَمَا لَكُمْ",
+        "versesCount": 4
+    },
+    {
+        "id": 74,
+        "surahId": 4,
+        "surahRukuNumber": 13,
+        "verseNumber": 92,
+        "verseKey": "4:92",
+        "verseRange": "92-96",
+        "firstWords": "وَمَا كَانَ لِمُؤْمِنٍ",
+        "versesCount": 5
+    },
+    {
+        "id": 75,
+        "surahId": 4,
+        "surahRukuNumber": 14,
+        "verseNumber": 97,
+        "verseKey": "4:97",
+        "verseRange": "97-100",
+        "firstWords": "إِنَّ ٱلَّذِينَ تَوَفَّىٰهُمُ",
+        "versesCount": 4
+    },
+    {
+        "id": 76,
+        "surahId": 4,
+        "surahRukuNumber": 15,
+        "verseNumber": 101,
+        "verseKey": "4:101",
+        "verseRange": "101-104",
+        "firstWords": "وَإِذَا ضَرَبْتُمْ فِى",
+        "versesCount": 4
+    },
+    {
+        "id": 77,
+        "surahId": 4,
+        "surahRukuNumber": 16,
+        "verseNumber": 105,
+        "verseKey": "4:105",
+        "verseRange": "105-112",
+        "firstWords": "إِنَّآ أَنزَلْنَآ إِلَيْكَ",
+        "versesCount": 8
+    },
+    {
+        "id": 78,
+        "surahId": 4,
+        "surahRukuNumber": 17,
+        "verseNumber": 113,
+        "verseKey": "4:113",
+        "verseRange": "113-115",
+        "firstWords": "وَلَوْلَا فَضْلُ ٱللَّهِ",
+        "versesCount": 3
+    },
+    {
+        "id": 79,
+        "surahId": 4,
+        "surahRukuNumber": 18,
+        "verseNumber": 116,
+        "verseKey": "4:116",
+        "verseRange": "116-126",
+        "firstWords": "إِنَّ ٱللَّهَ لَا",
+        "versesCount": 11
+    },
+    {
+        "id": 80,
+        "surahId": 4,
+        "surahRukuNumber": 19,
+        "verseNumber": 127,
+        "verseKey": "4:127",
+        "verseRange": "127-134",
+        "firstWords": "وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ",
+        "versesCount": 8
+    },
+    {
+        "id": 81,
+        "surahId": 4,
+        "surahRukuNumber": 20,
+        "verseNumber": 135,
+        "verseKey": "4:135",
+        "verseRange": "135-141",
+        "firstWords": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ",
+        "versesCount": 7
+    },
+    {
+        "id": 82,
+        "surahId": 4,
+        "surahRukuNumber": 21,
+        "verseNumber": 142,
+        "verseKey": "4:142",
+        "verseRange": "142-152",
+        "firstWords": "إِنَّ ٱلْمُنَـٰفِقِينَ يُخَـٰدِعُونَ",
+        "versesCount": 11
+    },
+    {
+        "id": 83,
+        "surahId": 4,
+        "surahRukuNumber": 22,
+        "verseNumber": 153,
+        "verseKey": "4:153",
+        "verseRange": "153-162",
+        "firstWords": "يَسْـَٔلُكَ أَهْلُ ٱلْكِتَـٰبِ",
+        "versesCount": 10
+    },
+    {
+        "id": 84,
+        "surahId": 4,
+        "surahRukuNumber": 23,
+        "verseNumber": 163,
+        "verseKey": "4:163",
+        "verseRange": "163-171",
+        "firstWords": "۞ إِنَّآ أَوْحَيْنَآ",
+        "versesCount": 9
+    },
+    {
+        "id": 85,
+        "surahId": 4,
+        "surahRukuNumber": 24,
+        "verseNumber": 172,
+        "verseKey": "4:172",
+        "verseRange": "172-176",
+        "firstWords": "لَّن يَسْتَنكِفَ ٱلْمَسِيحُ",
+        "versesCount": 5
+    },
+    {
+        "id": 86,
+        "surahId": 5,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "5:1",
+        "verseRange": "1-5",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟",
+        "versesCount": 5
+    },
+    {
+        "id": 87,
+        "surahId": 5,
+        "surahRukuNumber": 2,
+        "verseNumber": 6,
+        "verseKey": "5:6",
+        "verseRange": "6-11",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟",
+        "versesCount": 6
+    },
+    {
+        "id": 88,
+        "surahId": 5,
+        "surahRukuNumber": 3,
+        "verseNumber": 12,
+        "verseKey": "5:12",
+        "verseRange": "12-19",
+        "firstWords": "۞ وَلَقَدْ أَخَذَ",
+        "versesCount": 8
+    },
+    {
+        "id": 89,
+        "surahId": 5,
+        "surahRukuNumber": 4,
+        "verseNumber": 20,
+        "verseKey": "5:20",
+        "verseRange": "20-26",
+        "firstWords": "وَإِذْ قَالَ مُوسَىٰ",
+        "versesCount": 7
+    },
+    {
+        "id": 90,
+        "surahId": 5,
+        "surahRukuNumber": 5,
+        "verseNumber": 27,
+        "verseKey": "5:27",
+        "verseRange": "27-34",
+        "firstWords": "۞ وَٱتْلُ عَلَيْهِمْ",
+        "versesCount": 8
+    },
+    {
+        "id": 91,
+        "surahId": 5,
+        "surahRukuNumber": 6,
+        "verseNumber": 35,
+        "verseKey": "5:35",
+        "verseRange": "35-43",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 9
+    },
+    {
+        "id": 92,
+        "surahId": 5,
+        "surahRukuNumber": 7,
+        "verseNumber": 44,
+        "verseKey": "5:44",
+        "verseRange": "44-50",
+        "firstWords": "إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ",
+        "versesCount": 7
+    },
+    {
+        "id": 93,
+        "surahId": 5,
+        "surahRukuNumber": 8,
+        "verseNumber": 51,
+        "verseKey": "5:51",
+        "verseRange": "51-56",
+        "firstWords": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ",
+        "versesCount": 6
+    },
+    {
+        "id": 94,
+        "surahId": 5,
+        "surahRukuNumber": 9,
+        "verseNumber": 57,
+        "verseKey": "5:57",
+        "verseRange": "57-66",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 10
+    },
+    {
+        "id": 95,
+        "surahId": 5,
+        "surahRukuNumber": 10,
+        "verseNumber": 67,
+        "verseKey": "5:67",
+        "verseRange": "67-77",
+        "firstWords": "۞ يَـٰٓأَيُّهَا ٱلرَّسُولُ",
+        "versesCount": 11
+    },
+    {
+        "id": 96,
+        "surahId": 5,
+        "surahRukuNumber": 11,
+        "verseNumber": 78,
+        "verseKey": "5:78",
+        "verseRange": "78-86",
+        "firstWords": "لُعِنَ ٱلَّذِينَ كَفَرُوا۟",
+        "versesCount": 9
+    },
+    {
+        "id": 97,
+        "surahId": 5,
+        "surahRukuNumber": 12,
+        "verseNumber": 87,
+        "verseKey": "5:87",
+        "verseRange": "87-93",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 7
+    },
+    {
+        "id": 98,
+        "surahId": 5,
+        "surahRukuNumber": 13,
+        "verseNumber": 94,
+        "verseKey": "5:94",
+        "verseRange": "94-100",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 7
+    },
+    {
+        "id": 99,
+        "surahId": 5,
+        "surahRukuNumber": 14,
+        "verseNumber": 101,
+        "verseKey": "5:101",
+        "verseRange": "101-108",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 8
+    },
+    {
+        "id": 100,
+        "surahId": 5,
+        "surahRukuNumber": 15,
+        "verseNumber": 109,
+        "verseKey": "5:109",
+        "verseRange": "109-115",
+        "firstWords": "۞ يَوْمَ يَجْمَعُ",
+        "versesCount": 7
+    },
+    {
+        "id": 101,
+        "surahId": 5,
+        "surahRukuNumber": 16,
+        "verseNumber": 116,
+        "verseKey": "5:116",
+        "verseRange": "116-120",
+        "firstWords": "وَإِذْ قَالَ ٱللَّهُ",
+        "versesCount": 5
+    },
+    {
+        "id": 102,
+        "surahId": 6,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "6:1",
+        "verseRange": "1-10",
+        "firstWords": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى",
+        "versesCount": 10
+    },
+    {
+        "id": 103,
+        "surahId": 6,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "6:11",
+        "verseRange": "11-20",
+        "firstWords": "قُلْ سِيرُوا۟ فِى",
+        "versesCount": 10
+    },
+    {
+        "id": 104,
+        "surahId": 6,
+        "surahRukuNumber": 3,
+        "verseNumber": 21,
+        "verseKey": "6:21",
+        "verseRange": "21-30",
+        "firstWords": "وَمَنْ أَظْلَمُ مِمَّنِ",
+        "versesCount": 10
+    },
+    {
+        "id": 105,
+        "surahId": 6,
+        "surahRukuNumber": 4,
+        "verseNumber": 31,
+        "verseKey": "6:31",
+        "verseRange": "31-41",
+        "firstWords": "قَدْ خَسِرَ ٱلَّذِينَ",
+        "versesCount": 11
+    },
+    {
+        "id": 106,
+        "surahId": 6,
+        "surahRukuNumber": 5,
+        "verseNumber": 42,
+        "verseKey": "6:42",
+        "verseRange": "42-50",
+        "firstWords": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰٓ",
+        "versesCount": 9
+    },
+    {
+        "id": 107,
+        "surahId": 6,
+        "surahRukuNumber": 6,
+        "verseNumber": 51,
+        "verseKey": "6:51",
+        "verseRange": "51-55",
+        "firstWords": "وَأَنذِرْ بِهِ ٱلَّذِينَ",
+        "versesCount": 5
+    },
+    {
+        "id": 108,
+        "surahId": 6,
+        "surahRukuNumber": 7,
+        "verseNumber": 56,
+        "verseKey": "6:56",
+        "verseRange": "56-60",
+        "firstWords": "قُلْ إِنِّى نُهِيتُ",
+        "versesCount": 5
+    },
+    {
+        "id": 109,
+        "surahId": 6,
+        "surahRukuNumber": 8,
+        "verseNumber": 61,
+        "verseKey": "6:61",
+        "verseRange": "61-70",
+        "firstWords": "وَهُوَ ٱلْقَاهِرُ فَوْقَ",
+        "versesCount": 10
+    },
+    {
+        "id": 110,
+        "surahId": 6,
+        "surahRukuNumber": 9,
+        "verseNumber": 71,
+        "verseKey": "6:71",
+        "verseRange": "71-82",
+        "firstWords": "قُلْ أَنَدْعُوا۟ مِن",
+        "versesCount": 12
+    },
+    {
+        "id": 111,
+        "surahId": 6,
+        "surahRukuNumber": 10,
+        "verseNumber": 83,
+        "verseKey": "6:83",
+        "verseRange": "83-90",
+        "firstWords": "وَتِلْكَ حُجَّتُنَآ ءَاتَيْنَـٰهَآ",
+        "versesCount": 8
+    },
+    {
+        "id": 112,
+        "surahId": 6,
+        "surahRukuNumber": 11,
+        "verseNumber": 91,
+        "verseKey": "6:91",
+        "verseRange": "91-94",
+        "firstWords": "وَمَا قَدَرُوا۟ ٱللَّهَ",
+        "versesCount": 4
+    },
+    {
+        "id": 113,
+        "surahId": 6,
+        "surahRukuNumber": 12,
+        "verseNumber": 95,
+        "verseKey": "6:95",
+        "verseRange": "95-100",
+        "firstWords": "۞ إِنَّ ٱللَّهَ",
+        "versesCount": 6
+    },
+    {
+        "id": 114,
+        "surahId": 6,
+        "surahRukuNumber": 13,
+        "verseNumber": 101,
+        "verseKey": "6:101",
+        "verseRange": "101-110",
+        "firstWords": "بَدِيعُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ",
+        "versesCount": 10
+    },
+    {
+        "id": 115,
+        "surahId": 6,
+        "surahRukuNumber": 14,
+        "verseNumber": 111,
+        "verseKey": "6:111",
+        "verseRange": "111-121",
+        "firstWords": "۞ وَلَوْ أَنَّنَا",
+        "versesCount": 11
+    },
+    {
+        "id": 116,
+        "surahId": 6,
+        "surahRukuNumber": 15,
+        "verseNumber": 122,
+        "verseKey": "6:122",
+        "verseRange": "122-129",
+        "firstWords": "أَوَمَن كَانَ مَيْتًا",
+        "versesCount": 8
+    },
+    {
+        "id": 117,
+        "surahId": 6,
+        "surahRukuNumber": 16,
+        "verseNumber": 130,
+        "verseKey": "6:130",
+        "verseRange": "130-140",
+        "firstWords": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ",
+        "versesCount": 11
+    },
+    {
+        "id": 118,
+        "surahId": 6,
+        "surahRukuNumber": 17,
+        "verseNumber": 141,
+        "verseKey": "6:141",
+        "verseRange": "141-144",
+        "firstWords": "۞ وَهُوَ ٱلَّذِىٓ",
+        "versesCount": 4
+    },
+    {
+        "id": 119,
+        "surahId": 6,
+        "surahRukuNumber": 18,
+        "verseNumber": 145,
+        "verseKey": "6:145",
+        "verseRange": "145-150",
+        "firstWords": "قُل لَّآ أَجِدُ",
+        "versesCount": 6
+    },
+    {
+        "id": 120,
+        "surahId": 6,
+        "surahRukuNumber": 19,
+        "verseNumber": 151,
+        "verseKey": "6:151",
+        "verseRange": "151-154",
+        "firstWords": "۞ قُلْ تَعَالَوْا۟",
+        "versesCount": 4
+    },
+    {
+        "id": 121,
+        "surahId": 6,
+        "surahRukuNumber": 20,
+        "verseNumber": 155,
+        "verseKey": "6:155",
+        "verseRange": "155-165",
+        "firstWords": "وَهَـٰذَا كِتَـٰبٌ أَنزَلْنَـٰهُ",
+        "versesCount": 11
+    },
+    {
+        "id": 122,
+        "surahId": 7,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "7:1",
+        "verseRange": "1-10",
+        "firstWords": "الٓمٓصٓ",
+        "versesCount": 10
+    },
+    {
+        "id": 123,
+        "surahId": 7,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "7:11",
+        "verseRange": "11-25",
+        "firstWords": "وَلَقَدْ خَلَقْنَـٰكُمْ ثُمَّ",
+        "versesCount": 15
+    },
+    {
+        "id": 124,
+        "surahId": 7,
+        "surahRukuNumber": 3,
+        "verseNumber": 26,
+        "verseKey": "7:26",
+        "verseRange": "26-31",
+        "firstWords": "يَـٰبَنِىٓ ءَادَمَ قَدْ",
+        "versesCount": 6
+    },
+    {
+        "id": 125,
+        "surahId": 7,
+        "surahRukuNumber": 4,
+        "verseNumber": 32,
+        "verseKey": "7:32",
+        "verseRange": "32-39",
+        "firstWords": "قُلْ مَنْ حَرَّمَ",
+        "versesCount": 8
+    },
+    {
+        "id": 126,
+        "surahId": 7,
+        "surahRukuNumber": 5,
+        "verseNumber": 40,
+        "verseKey": "7:40",
+        "verseRange": "40-47",
+        "firstWords": "إِنَّ ٱلَّذِينَ كَذَّبُوا۟",
+        "versesCount": 8
+    },
+    {
+        "id": 127,
+        "surahId": 7,
+        "surahRukuNumber": 6,
+        "verseNumber": 48,
+        "verseKey": "7:48",
+        "verseRange": "48-53",
+        "firstWords": "وَنَادَىٰٓ أَصْحَـٰبُ ٱلْأَعْرَافِ",
+        "versesCount": 6
+    },
+    {
+        "id": 128,
+        "surahId": 7,
+        "surahRukuNumber": 7,
+        "verseNumber": 54,
+        "verseKey": "7:54",
+        "verseRange": "54-58",
+        "firstWords": "إِنَّ رَبَّكُمُ ٱللَّهُ",
+        "versesCount": 5
+    },
+    {
+        "id": 129,
+        "surahId": 7,
+        "surahRukuNumber": 8,
+        "verseNumber": 59,
+        "verseKey": "7:59",
+        "verseRange": "59-64",
+        "firstWords": "لَقَدْ أَرْسَلْنَا نُوحًا",
+        "versesCount": 6
+    },
+    {
+        "id": 130,
+        "surahId": 7,
+        "surahRukuNumber": 9,
+        "verseNumber": 65,
+        "verseKey": "7:65",
+        "verseRange": "65-72",
+        "firstWords": "۞ وَإِلَىٰ عَادٍ",
+        "versesCount": 8
+    },
+    {
+        "id": 131,
+        "surahId": 7,
+        "surahRukuNumber": 10,
+        "verseNumber": 73,
+        "verseKey": "7:73",
+        "verseRange": "73-84",
+        "firstWords": "وَإِلَىٰ ثَمُودَ أَخَاهُمْ",
+        "versesCount": 12
+    },
+    {
+        "id": 132,
+        "surahId": 7,
+        "surahRukuNumber": 11,
+        "verseNumber": 85,
+        "verseKey": "7:85",
+        "verseRange": "85-93",
+        "firstWords": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ",
+        "versesCount": 9
+    },
+    {
+        "id": 133,
+        "surahId": 7,
+        "surahRukuNumber": 12,
+        "verseNumber": 94,
+        "verseKey": "7:94",
+        "verseRange": "94-99",
+        "firstWords": "وَمَآ أَرْسَلْنَا فِى",
+        "versesCount": 6
+    },
+    {
+        "id": 134,
+        "surahId": 7,
+        "surahRukuNumber": 13,
+        "verseNumber": 100,
+        "verseKey": "7:100",
+        "verseRange": "100-108",
+        "firstWords": "أَوَلَمْ يَهْدِ لِلَّذِينَ",
+        "versesCount": 9
+    },
+    {
+        "id": 135,
+        "surahId": 7,
+        "surahRukuNumber": 14,
+        "verseNumber": 109,
+        "verseKey": "7:109",
+        "verseRange": "109-126",
+        "firstWords": "قَالَ ٱلْمَلَأُ مِن",
+        "versesCount": 18
+    },
+    {
+        "id": 136,
+        "surahId": 7,
+        "surahRukuNumber": 15,
+        "verseNumber": 127,
+        "verseKey": "7:127",
+        "verseRange": "127-129",
+        "firstWords": "وَقَالَ ٱلْمَلَأُ مِن",
+        "versesCount": 3
+    },
+    {
+        "id": 137,
+        "surahId": 7,
+        "surahRukuNumber": 16,
+        "verseNumber": 130,
+        "verseKey": "7:130",
+        "verseRange": "130-141",
+        "firstWords": "وَلَقَدْ أَخَذْنَآ ءَالَ",
+        "versesCount": 12
+    },
+    {
+        "id": 138,
+        "surahId": 7,
+        "surahRukuNumber": 17,
+        "verseNumber": 142,
+        "verseKey": "7:142",
+        "verseRange": "142-147",
+        "firstWords": "۞ وَوَٰعَدْنَا مُوسَىٰ",
+        "versesCount": 6
+    },
+    {
+        "id": 139,
+        "surahId": 7,
+        "surahRukuNumber": 18,
+        "verseNumber": 148,
+        "verseKey": "7:148",
+        "verseRange": "148-151",
+        "firstWords": "وَٱتَّخَذَ قَوْمُ مُوسَىٰ",
+        "versesCount": 4
+    },
+    {
+        "id": 140,
+        "surahId": 7,
+        "surahRukuNumber": 19,
+        "verseNumber": 152,
+        "verseKey": "7:152",
+        "verseRange": "152-157",
+        "firstWords": "إِنَّ ٱلَّذِينَ ٱتَّخَذُوا۟",
+        "versesCount": 6
+    },
+    {
+        "id": 141,
+        "surahId": 7,
+        "surahRukuNumber": 20,
+        "verseNumber": 158,
+        "verseKey": "7:158",
+        "verseRange": "158-162",
+        "firstWords": "قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ",
+        "versesCount": 5
+    },
+    {
+        "id": 142,
+        "surahId": 7,
+        "surahRukuNumber": 21,
+        "verseNumber": 163,
+        "verseKey": "7:163",
+        "verseRange": "163-171",
+        "firstWords": "وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ",
+        "versesCount": 9
+    },
+    {
+        "id": 143,
+        "surahId": 7,
+        "surahRukuNumber": 22,
+        "verseNumber": 172,
+        "verseKey": "7:172",
+        "verseRange": "172-181",
+        "firstWords": "وَإِذْ أَخَذَ رَبُّكَ",
+        "versesCount": 10
+    },
+    {
+        "id": 144,
+        "surahId": 7,
+        "surahRukuNumber": 23,
+        "verseNumber": 182,
+        "verseKey": "7:182",
+        "verseRange": "182-188",
+        "firstWords": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا",
+        "versesCount": 7
+    },
+    {
+        "id": 145,
+        "surahId": 7,
+        "surahRukuNumber": 24,
+        "verseNumber": 189,
+        "verseKey": "7:189",
+        "verseRange": "189-206",
+        "firstWords": "۞ هُوَ ٱلَّذِى",
+        "versesCount": 18
+    },
+    {
+        "id": 146,
+        "surahId": 8,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "8:1",
+        "verseRange": "1-10",
+        "firstWords": "يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ",
+        "versesCount": 10
+    },
+    {
+        "id": 147,
+        "surahId": 8,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "8:11",
+        "verseRange": "11-19",
+        "firstWords": "إِذْ يُغَشِّيكُمُ ٱلنُّعَاسَ",
+        "versesCount": 9
+    },
+    {
+        "id": 148,
+        "surahId": 8,
+        "surahRukuNumber": 3,
+        "verseNumber": 20,
+        "verseKey": "8:20",
+        "verseRange": "20-28",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟",
+        "versesCount": 9
+    },
+    {
+        "id": 149,
+        "surahId": 8,
+        "surahRukuNumber": 4,
+        "verseNumber": 29,
+        "verseKey": "8:29",
+        "verseRange": "29-37",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟",
+        "versesCount": 9
+    },
+    {
+        "id": 150,
+        "surahId": 8,
+        "surahRukuNumber": 5,
+        "verseNumber": 38,
+        "verseKey": "8:38",
+        "verseRange": "38-44",
+        "firstWords": "قُل لِّلَّذِينَ كَفَرُوٓا۟",
+        "versesCount": 7
+    },
+    {
+        "id": 151,
+        "surahId": 8,
+        "surahRukuNumber": 6,
+        "verseNumber": 45,
+        "verseKey": "8:45",
+        "verseRange": "45-48",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟",
+        "versesCount": 4
+    },
+    {
+        "id": 152,
+        "surahId": 8,
+        "surahRukuNumber": 7,
+        "verseNumber": 49,
+        "verseKey": "8:49",
+        "verseRange": "49-58",
+        "firstWords": "إِذْ يَقُولُ ٱلْمُنَـٰفِقُونَ",
+        "versesCount": 10
+    },
+    {
+        "id": 153,
+        "surahId": 8,
+        "surahRukuNumber": 8,
+        "verseNumber": 59,
+        "verseKey": "8:59",
+        "verseRange": "59-64",
+        "firstWords": "وَلَا يَحْسَبَنَّ ٱلَّذِينَ",
+        "versesCount": 6
+    },
+    {
+        "id": 154,
+        "surahId": 8,
+        "surahRukuNumber": 9,
+        "verseNumber": 65,
+        "verseKey": "8:65",
+        "verseRange": "65-69",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ حَرِّضِ",
+        "versesCount": 5
+    },
+    {
+        "id": 155,
+        "surahId": 8,
+        "surahRukuNumber": 10,
+        "verseNumber": 70,
+        "verseKey": "8:70",
+        "verseRange": "70-75",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل",
+        "versesCount": 6
+    },
+    {
+        "id": 156,
+        "surahId": 9,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "9:1",
+        "verseRange": "1-6",
+        "firstWords": "بَرَآءَةٌ مِّنَ ٱللَّهِ",
+        "versesCount": 6
+    },
+    {
+        "id": 157,
+        "surahId": 9,
+        "surahRukuNumber": 2,
+        "verseNumber": 7,
+        "verseKey": "9:7",
+        "verseRange": "7-16",
+        "firstWords": "كَيْفَ يَكُونُ لِلْمُشْرِكِينَ",
+        "versesCount": 10
+    },
+    {
+        "id": 158,
+        "surahId": 9,
+        "surahRukuNumber": 3,
+        "verseNumber": 17,
+        "verseKey": "9:17",
+        "verseRange": "17-24",
+        "firstWords": "مَا كَانَ لِلْمُشْرِكِينَ",
+        "versesCount": 8
+    },
+    {
+        "id": 159,
+        "surahId": 9,
+        "surahRukuNumber": 4,
+        "verseNumber": 25,
+        "verseKey": "9:25",
+        "verseRange": "25-29",
+        "firstWords": "لَقَدْ نَصَرَكُمُ ٱللَّهُ",
+        "versesCount": 5
+    },
+    {
+        "id": 160,
+        "surahId": 9,
+        "surahRukuNumber": 5,
+        "verseNumber": 30,
+        "verseKey": "9:30",
+        "verseRange": "30-37",
+        "firstWords": "وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ",
+        "versesCount": 8
+    },
+    {
+        "id": 161,
+        "surahId": 9,
+        "surahRukuNumber": 6,
+        "verseNumber": 38,
+        "verseKey": "9:38",
+        "verseRange": "38-42",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 5
+    },
+    {
+        "id": 162,
+        "surahId": 9,
+        "surahRukuNumber": 7,
+        "verseNumber": 43,
+        "verseKey": "9:43",
+        "verseRange": "43-59",
+        "firstWords": "عَفَا ٱللَّهُ عَنكَ",
+        "versesCount": 17
+    },
+    {
+        "id": 163,
+        "surahId": 9,
+        "surahRukuNumber": 8,
+        "verseNumber": 60,
+        "verseKey": "9:60",
+        "verseRange": "60-66",
+        "firstWords": "۞ إِنَّمَا ٱلصَّدَقَـٰتُ",
+        "versesCount": 7
+    },
+    {
+        "id": 164,
+        "surahId": 9,
+        "surahRukuNumber": 9,
+        "verseNumber": 67,
+        "verseKey": "9:67",
+        "verseRange": "67-72",
+        "firstWords": "ٱلْمُنَـٰفِقُونَ وَٱلْمُنَـٰفِقَـٰتُ بَعْضُهُم",
+        "versesCount": 6
+    },
+    {
+        "id": 165,
+        "surahId": 9,
+        "surahRukuNumber": 10,
+        "verseNumber": 73,
+        "verseKey": "9:73",
+        "verseRange": "73-80",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ جَـٰهِدِ",
+        "versesCount": 8
+    },
+    {
+        "id": 166,
+        "surahId": 9,
+        "surahRukuNumber": 11,
+        "verseNumber": 81,
+        "verseKey": "9:81",
+        "verseRange": "81-89",
+        "firstWords": "فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ",
+        "versesCount": 9
+    },
+    {
+        "id": 167,
+        "surahId": 9,
+        "surahRukuNumber": 12,
+        "verseNumber": 90,
+        "verseKey": "9:90",
+        "verseRange": "90-99",
+        "firstWords": "وَجَآءَ ٱلْمُعَذِّرُونَ مِنَ",
+        "versesCount": 10
+    },
+    {
+        "id": 168,
+        "surahId": 9,
+        "surahRukuNumber": 13,
+        "verseNumber": 100,
+        "verseKey": "9:100",
+        "verseRange": "100-110",
+        "firstWords": "وَٱلسَّـٰبِقُونَ ٱلْأَوَّلُونَ مِنَ",
+        "versesCount": 11
+    },
+    {
+        "id": 169,
+        "surahId": 9,
+        "surahRukuNumber": 14,
+        "verseNumber": 111,
+        "verseKey": "9:111",
+        "verseRange": "111-118",
+        "firstWords": "۞ إِنَّ ٱللَّهَ",
+        "versesCount": 8
+    },
+    {
+        "id": 170,
+        "surahId": 9,
+        "surahRukuNumber": 15,
+        "verseNumber": 119,
+        "verseKey": "9:119",
+        "verseRange": "119-122",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 4
+    },
+    {
+        "id": 171,
+        "surahId": 9,
+        "surahRukuNumber": 16,
+        "verseNumber": 123,
+        "verseKey": "9:123",
+        "verseRange": "123-129",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 7
+    },
+    {
+        "id": 172,
+        "surahId": 10,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "10:1",
+        "verseRange": "1-10",
+        "firstWords": "الٓر ۚ تِلْكَ",
+        "versesCount": 10
+    },
+    {
+        "id": 173,
+        "surahId": 10,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "10:11",
+        "verseRange": "11-20",
+        "firstWords": "۞ وَلَوْ يُعَجِّلُ",
+        "versesCount": 10
+    },
+    {
+        "id": 174,
+        "surahId": 10,
+        "surahRukuNumber": 3,
+        "verseNumber": 21,
+        "verseKey": "10:21",
+        "verseRange": "21-30",
+        "firstWords": "وَإِذَآ أَذَقْنَا ٱلنَّاسَ",
+        "versesCount": 10
+    },
+    {
+        "id": 175,
+        "surahId": 10,
+        "surahRukuNumber": 4,
+        "verseNumber": 31,
+        "verseKey": "10:31",
+        "verseRange": "31-40",
+        "firstWords": "قُلْ مَن يَرْزُقُكُم",
+        "versesCount": 10
+    },
+    {
+        "id": 176,
+        "surahId": 10,
+        "surahRukuNumber": 5,
+        "verseNumber": 41,
+        "verseKey": "10:41",
+        "verseRange": "41-53",
+        "firstWords": "وَإِن كَذَّبُوكَ فَقُل",
+        "versesCount": 13
+    },
+    {
+        "id": 177,
+        "surahId": 10,
+        "surahRukuNumber": 6,
+        "verseNumber": 54,
+        "verseKey": "10:54",
+        "verseRange": "54-60",
+        "firstWords": "وَلَوْ أَنَّ لِكُلِّ",
+        "versesCount": 7
+    },
+    {
+        "id": 178,
+        "surahId": 10,
+        "surahRukuNumber": 7,
+        "verseNumber": 61,
+        "verseKey": "10:61",
+        "verseRange": "61-70",
+        "firstWords": "وَمَا تَكُونُ فِى",
+        "versesCount": 10
+    },
+    {
+        "id": 179,
+        "surahId": 10,
+        "surahRukuNumber": 8,
+        "verseNumber": 71,
+        "verseKey": "10:71",
+        "verseRange": "71-82",
+        "firstWords": "۞ وَٱتْلُ عَلَيْهِمْ",
+        "versesCount": 12
+    },
+    {
+        "id": 180,
+        "surahId": 10,
+        "surahRukuNumber": 9,
+        "verseNumber": 83,
+        "verseKey": "10:83",
+        "verseRange": "83-92",
+        "firstWords": "فَمَآ ءَامَنَ لِمُوسَىٰٓ",
+        "versesCount": 10
+    },
+    {
+        "id": 181,
+        "surahId": 10,
+        "surahRukuNumber": 10,
+        "verseNumber": 93,
+        "verseKey": "10:93",
+        "verseRange": "93-103",
+        "firstWords": "وَلَقَدْ بَوَّأْنَا بَنِىٓ",
+        "versesCount": 11
+    },
+    {
+        "id": 182,
+        "surahId": 10,
+        "surahRukuNumber": 11,
+        "verseNumber": 104,
+        "verseKey": "10:104",
+        "verseRange": "104-109",
+        "firstWords": "قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ",
+        "versesCount": 6
+    },
+    {
+        "id": 183,
+        "surahId": 11,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "11:1",
+        "verseRange": "1-8",
+        "firstWords": "الٓر ۚ كِتَـٰبٌ",
+        "versesCount": 8
+    },
+    {
+        "id": 184,
+        "surahId": 11,
+        "surahRukuNumber": 2,
+        "verseNumber": 9,
+        "verseKey": "11:9",
+        "verseRange": "9-24",
+        "firstWords": "وَلَئِنْ أَذَقْنَا ٱلْإِنسَـٰنَ",
+        "versesCount": 16
+    },
+    {
+        "id": 185,
+        "surahId": 11,
+        "surahRukuNumber": 3,
+        "verseNumber": 25,
+        "verseKey": "11:25",
+        "verseRange": "25-35",
+        "firstWords": "وَلَقَدْ أَرْسَلْنَا نُوحًا",
+        "versesCount": 11
+    },
+    {
+        "id": 186,
+        "surahId": 11,
+        "surahRukuNumber": 4,
+        "verseNumber": 36,
+        "verseKey": "11:36",
+        "verseRange": "36-49",
+        "firstWords": "وَأُوحِىَ إِلَىٰ نُوحٍ",
+        "versesCount": 14
+    },
+    {
+        "id": 187,
+        "surahId": 11,
+        "surahRukuNumber": 5,
+        "verseNumber": 50,
+        "verseKey": "11:50",
+        "verseRange": "50-60",
+        "firstWords": "وَإِلَىٰ عَادٍ أَخَاهُمْ",
+        "versesCount": 11
+    },
+    {
+        "id": 188,
+        "surahId": 11,
+        "surahRukuNumber": 6,
+        "verseNumber": 61,
+        "verseKey": "11:61",
+        "verseRange": "61-68",
+        "firstWords": "۞ وَإِلَىٰ ثَمُودَ",
+        "versesCount": 8
+    },
+    {
+        "id": 189,
+        "surahId": 11,
+        "surahRukuNumber": 7,
+        "verseNumber": 69,
+        "verseKey": "11:69",
+        "verseRange": "69-83",
+        "firstWords": "وَلَقَدْ جَآءَتْ رُسُلُنَآ",
+        "versesCount": 15
+    },
+    {
+        "id": 190,
+        "surahId": 11,
+        "surahRukuNumber": 8,
+        "verseNumber": 84,
+        "verseKey": "11:84",
+        "verseRange": "84-95",
+        "firstWords": "۞ وَإِلَىٰ مَدْيَنَ",
+        "versesCount": 12
+    },
+    {
+        "id": 191,
+        "surahId": 11,
+        "surahRukuNumber": 9,
+        "verseNumber": 96,
+        "verseKey": "11:96",
+        "verseRange": "96-109",
+        "firstWords": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ",
+        "versesCount": 14
+    },
+    {
+        "id": 192,
+        "surahId": 11,
+        "surahRukuNumber": 10,
+        "verseNumber": 110,
+        "verseKey": "11:110",
+        "verseRange": "110-123",
+        "firstWords": "وَلَقَدْ ءَاتَيْنَا مُوسَى",
+        "versesCount": 14
+    },
+    {
+        "id": 193,
+        "surahId": 12,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "12:1",
+        "verseRange": "1-6",
+        "firstWords": "الٓر ۚ تِلْكَ",
+        "versesCount": 6
+    },
+    {
+        "id": 194,
+        "surahId": 12,
+        "surahRukuNumber": 2,
+        "verseNumber": 7,
+        "verseKey": "12:7",
+        "verseRange": "7-20",
+        "firstWords": "۞ لَّقَدْ كَانَ",
+        "versesCount": 14
+    },
+    {
+        "id": 195,
+        "surahId": 12,
+        "surahRukuNumber": 3,
+        "verseNumber": 21,
+        "verseKey": "12:21",
+        "verseRange": "21-29",
+        "firstWords": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ",
+        "versesCount": 9
+    },
+    {
+        "id": 196,
+        "surahId": 12,
+        "surahRukuNumber": 4,
+        "verseNumber": 30,
+        "verseKey": "12:30",
+        "verseRange": "30-35",
+        "firstWords": "۞ وَقَالَ نِسْوَةٌ",
+        "versesCount": 6
+    },
+    {
+        "id": 197,
+        "surahId": 12,
+        "surahRukuNumber": 5,
+        "verseNumber": 36,
+        "verseKey": "12:36",
+        "verseRange": "36-42",
+        "firstWords": "وَدَخَلَ مَعَهُ ٱلسِّجْنَ",
+        "versesCount": 7
+    },
+    {
+        "id": 198,
+        "surahId": 12,
+        "surahRukuNumber": 6,
+        "verseNumber": 43,
+        "verseKey": "12:43",
+        "verseRange": "43-49",
+        "firstWords": "وَقَالَ ٱلْمَلِكُ إِنِّىٓ",
+        "versesCount": 7
+    },
+    {
+        "id": 199,
+        "surahId": 12,
+        "surahRukuNumber": 7,
+        "verseNumber": 50,
+        "verseKey": "12:50",
+        "verseRange": "50-57",
+        "firstWords": "وَقَالَ ٱلْمَلِكُ ٱئْتُونِى",
+        "versesCount": 8
+    },
+    {
+        "id": 200,
+        "surahId": 12,
+        "surahRukuNumber": 8,
+        "verseNumber": 58,
+        "verseKey": "12:58",
+        "verseRange": "58-68",
+        "firstWords": "وَجَآءَ إِخْوَةُ يُوسُفَ",
+        "versesCount": 11
+    },
+    {
+        "id": 201,
+        "surahId": 12,
+        "surahRukuNumber": 9,
+        "verseNumber": 69,
+        "verseKey": "12:69",
+        "verseRange": "69-79",
+        "firstWords": "وَلَمَّا دَخَلُوا۟ عَلَىٰ",
+        "versesCount": 11
+    },
+    {
+        "id": 202,
+        "surahId": 12,
+        "surahRukuNumber": 10,
+        "verseNumber": 80,
+        "verseKey": "12:80",
+        "verseRange": "80-93",
+        "firstWords": "فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ",
+        "versesCount": 14
+    },
+    {
+        "id": 203,
+        "surahId": 12,
+        "surahRukuNumber": 11,
+        "verseNumber": 94,
+        "verseKey": "12:94",
+        "verseRange": "94-104",
+        "firstWords": "وَلَمَّا فَصَلَتِ ٱلْعِيرُ",
+        "versesCount": 11
+    },
+    {
+        "id": 204,
+        "surahId": 12,
+        "surahRukuNumber": 12,
+        "verseNumber": 105,
+        "verseKey": "12:105",
+        "verseRange": "105-111",
+        "firstWords": "وَكَأَيِّن مِّنْ ءَايَةٍ",
+        "versesCount": 7
+    },
+    {
+        "id": 205,
+        "surahId": 13,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "13:1",
+        "verseRange": "1-7",
+        "firstWords": "الٓمٓر ۚ تِلْكَ",
+        "versesCount": 7
+    },
+    {
+        "id": 206,
+        "surahId": 13,
+        "surahRukuNumber": 2,
+        "verseNumber": 8,
+        "verseKey": "13:8",
+        "verseRange": "8-18",
+        "firstWords": "ٱللَّهُ يَعْلَمُ مَا",
+        "versesCount": 11
+    },
+    {
+        "id": 207,
+        "surahId": 13,
+        "surahRukuNumber": 3,
+        "verseNumber": 19,
+        "verseKey": "13:19",
+        "verseRange": "19-26",
+        "firstWords": "۞ أَفَمَن يَعْلَمُ",
+        "versesCount": 8
+    },
+    {
+        "id": 208,
+        "surahId": 13,
+        "surahRukuNumber": 4,
+        "verseNumber": 27,
+        "verseKey": "13:27",
+        "verseRange": "27-31",
+        "firstWords": "وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟",
+        "versesCount": 5
+    },
+    {
+        "id": 209,
+        "surahId": 13,
+        "surahRukuNumber": 5,
+        "verseNumber": 32,
+        "verseKey": "13:32",
+        "verseRange": "32-37",
+        "firstWords": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍ",
+        "versesCount": 6
+    },
+    {
+        "id": 210,
+        "surahId": 13,
+        "surahRukuNumber": 6,
+        "verseNumber": 38,
+        "verseKey": "13:38",
+        "verseRange": "38-43",
+        "firstWords": "وَلَقَدْ أَرْسَلْنَا رُسُلًا",
+        "versesCount": 6
+    },
+    {
+        "id": 211,
+        "surahId": 14,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "14:1",
+        "verseRange": "1-6",
+        "firstWords": "الٓر ۚ كِتَـٰبٌ",
+        "versesCount": 6
+    },
+    {
+        "id": 212,
+        "surahId": 14,
+        "surahRukuNumber": 2,
+        "verseNumber": 7,
+        "verseKey": "14:7",
+        "verseRange": "7-12",
+        "firstWords": "وَإِذْ تَأَذَّنَ رَبُّكُمْ",
+        "versesCount": 6
+    },
+    {
+        "id": 213,
+        "surahId": 14,
+        "surahRukuNumber": 3,
+        "verseNumber": 13,
+        "verseKey": "14:13",
+        "verseRange": "13-21",
+        "firstWords": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟",
+        "versesCount": 9
+    },
+    {
+        "id": 214,
+        "surahId": 14,
+        "surahRukuNumber": 4,
+        "verseNumber": 22,
+        "verseKey": "14:22",
+        "verseRange": "22-27",
+        "firstWords": "وَقَالَ ٱلشَّيْطَـٰنُ لَمَّا",
+        "versesCount": 6
+    },
+    {
+        "id": 215,
+        "surahId": 14,
+        "surahRukuNumber": 5,
+        "verseNumber": 28,
+        "verseKey": "14:28",
+        "verseRange": "28-34",
+        "firstWords": "۞ أَلَمْ تَرَ",
+        "versesCount": 7
+    },
+    {
+        "id": 216,
+        "surahId": 14,
+        "surahRukuNumber": 6,
+        "verseNumber": 35,
+        "verseKey": "14:35",
+        "verseRange": "35-41",
+        "firstWords": "وَإِذْ قَالَ إِبْرَٰهِيمُ",
+        "versesCount": 7
+    },
+    {
+        "id": 217,
+        "surahId": 14,
+        "surahRukuNumber": 7,
+        "verseNumber": 42,
+        "verseKey": "14:42",
+        "verseRange": "42-52",
+        "firstWords": "وَلَا تَحْسَبَنَّ ٱللَّهَ",
+        "versesCount": 11
+    },
+    {
+        "id": 218,
+        "surahId": 15,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "15:1",
+        "verseRange": "1-15",
+        "firstWords": "الٓر ۚ تِلْكَ",
+        "versesCount": 15
+    },
+    {
+        "id": 219,
+        "surahId": 15,
+        "surahRukuNumber": 2,
+        "verseNumber": 16,
+        "verseKey": "15:16",
+        "verseRange": "16-25",
+        "firstWords": "وَلَقَدْ جَعَلْنَا فِى",
+        "versesCount": 10
+    },
+    {
+        "id": 220,
+        "surahId": 15,
+        "surahRukuNumber": 3,
+        "verseNumber": 26,
+        "verseKey": "15:26",
+        "verseRange": "26-44",
+        "firstWords": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ",
+        "versesCount": 19
+    },
+    {
+        "id": 221,
+        "surahId": 15,
+        "surahRukuNumber": 4,
+        "verseNumber": 45,
+        "verseKey": "15:45",
+        "verseRange": "45-60",
+        "firstWords": "إِنَّ ٱلْمُتَّقِينَ فِى",
+        "versesCount": 16
+    },
+    {
+        "id": 222,
+        "surahId": 15,
+        "surahRukuNumber": 5,
+        "verseNumber": 61,
+        "verseKey": "15:61",
+        "verseRange": "61-79",
+        "firstWords": "فَلَمَّا جَآءَ ءَالَ",
+        "versesCount": 19
+    },
+    {
+        "id": 223,
+        "surahId": 15,
+        "surahRukuNumber": 6,
+        "verseNumber": 80,
+        "verseKey": "15:80",
+        "verseRange": "80-99",
+        "firstWords": "وَلَقَدْ كَذَّبَ أَصْحَـٰبُ",
+        "versesCount": 20
+    },
+    {
+        "id": 224,
+        "surahId": 16,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "16:1",
+        "verseRange": "1-9",
+        "firstWords": "أَتَىٰٓ أَمْرُ ٱللَّهِ",
+        "versesCount": 9
+    },
+    {
+        "id": 225,
+        "surahId": 16,
+        "surahRukuNumber": 2,
+        "verseNumber": 10,
+        "verseKey": "16:10",
+        "verseRange": "10-21",
+        "firstWords": "هُوَ ٱلَّذِىٓ أَنزَلَ",
+        "versesCount": 12
+    },
+    {
+        "id": 226,
+        "surahId": 16,
+        "surahRukuNumber": 3,
+        "verseNumber": 22,
+        "verseKey": "16:22",
+        "verseRange": "22-25",
+        "firstWords": "إِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ",
+        "versesCount": 4
+    },
+    {
+        "id": 227,
+        "surahId": 16,
+        "surahRukuNumber": 4,
+        "verseNumber": 26,
+        "verseKey": "16:26",
+        "verseRange": "26-34",
+        "firstWords": "قَدْ مَكَرَ ٱلَّذِينَ",
+        "versesCount": 9
+    },
+    {
+        "id": 228,
+        "surahId": 16,
+        "surahRukuNumber": 5,
+        "verseNumber": 35,
+        "verseKey": "16:35",
+        "verseRange": "35-40",
+        "firstWords": "وَقَالَ ٱلَّذِينَ أَشْرَكُوا۟",
+        "versesCount": 6
+    },
+    {
+        "id": 229,
+        "surahId": 16,
+        "surahRukuNumber": 6,
+        "verseNumber": 41,
+        "verseKey": "16:41",
+        "verseRange": "41-50",
+        "firstWords": "وَٱلَّذِينَ هَاجَرُوا۟ فِى",
+        "versesCount": 10
+    },
+    {
+        "id": 230,
+        "surahId": 16,
+        "surahRukuNumber": 7,
+        "verseNumber": 51,
+        "verseKey": "16:51",
+        "verseRange": "51-60",
+        "firstWords": "۞ وَقَالَ ٱللَّهُ",
+        "versesCount": 10
+    },
+    {
+        "id": 231,
+        "surahId": 16,
+        "surahRukuNumber": 8,
+        "verseNumber": 61,
+        "verseKey": "16:61",
+        "verseRange": "61-65",
+        "firstWords": "وَلَوْ يُؤَاخِذُ ٱللَّهُ",
+        "versesCount": 5
+    },
+    {
+        "id": 232,
+        "surahId": 16,
+        "surahRukuNumber": 9,
+        "verseNumber": 66,
+        "verseKey": "16:66",
+        "verseRange": "66-70",
+        "firstWords": "وَإِنَّ لَكُمْ فِى",
+        "versesCount": 5
+    },
+    {
+        "id": 233,
+        "surahId": 16,
+        "surahRukuNumber": 10,
+        "verseNumber": 71,
+        "verseKey": "16:71",
+        "verseRange": "71-76",
+        "firstWords": "وَٱللَّهُ فَضَّلَ بَعْضَكُمْ",
+        "versesCount": 6
+    },
+    {
+        "id": 234,
+        "surahId": 16,
+        "surahRukuNumber": 11,
+        "verseNumber": 77,
+        "verseKey": "16:77",
+        "verseRange": "77-83",
+        "firstWords": "وَلِلَّهِ غَيْبُ ٱلسَّمَـٰوَٰتِ",
+        "versesCount": 7
+    },
+    {
+        "id": 235,
+        "surahId": 16,
+        "surahRukuNumber": 12,
+        "verseNumber": 84,
+        "verseKey": "16:84",
+        "verseRange": "84-89",
+        "firstWords": "وَيَوْمَ نَبْعَثُ مِن",
+        "versesCount": 6
+    },
+    {
+        "id": 236,
+        "surahId": 16,
+        "surahRukuNumber": 13,
+        "verseNumber": 90,
+        "verseKey": "16:90",
+        "verseRange": "90-100",
+        "firstWords": "۞ إِنَّ ٱللَّهَ",
+        "versesCount": 11
+    },
+    {
+        "id": 237,
+        "surahId": 16,
+        "surahRukuNumber": 14,
+        "verseNumber": 101,
+        "verseKey": "16:101",
+        "verseRange": "101-110",
+        "firstWords": "وَإِذَا بَدَّلْنَآ ءَايَةً",
+        "versesCount": 10
+    },
+    {
+        "id": 238,
+        "surahId": 16,
+        "surahRukuNumber": 15,
+        "verseNumber": 111,
+        "verseKey": "16:111",
+        "verseRange": "111-119",
+        "firstWords": "۞ يَوْمَ تَأْتِى",
+        "versesCount": 9
+    },
+    {
+        "id": 239,
+        "surahId": 16,
+        "surahRukuNumber": 16,
+        "verseNumber": 120,
+        "verseKey": "16:120",
+        "verseRange": "120-128",
+        "firstWords": "إِنَّ إِبْرَٰهِيمَ كَانَ",
+        "versesCount": 9
+    },
+    {
+        "id": 240,
+        "surahId": 17,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "17:1",
+        "verseRange": "1-10",
+        "firstWords": "سُبْحَـٰنَ ٱلَّذِىٓ أَسْرَىٰ",
+        "versesCount": 10
+    },
+    {
+        "id": 241,
+        "surahId": 17,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "17:11",
+        "verseRange": "11-22",
+        "firstWords": "وَيَدْعُ ٱلْإِنسَـٰنُ بِٱلشَّرِّ",
+        "versesCount": 12
+    },
+    {
+        "id": 242,
+        "surahId": 17,
+        "surahRukuNumber": 3,
+        "verseNumber": 23,
+        "verseKey": "17:23",
+        "verseRange": "23-30",
+        "firstWords": "۞ وَقَضَىٰ رَبُّكَ",
+        "versesCount": 8
+    },
+    {
+        "id": 243,
+        "surahId": 17,
+        "surahRukuNumber": 4,
+        "verseNumber": 31,
+        "verseKey": "17:31",
+        "verseRange": "31-40",
+        "firstWords": "وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُمْ",
+        "versesCount": 10
+    },
+    {
+        "id": 244,
+        "surahId": 17,
+        "surahRukuNumber": 5,
+        "verseNumber": 41,
+        "verseKey": "17:41",
+        "verseRange": "41-52",
+        "firstWords": "وَلَقَدْ صَرَّفْنَا فِى",
+        "versesCount": 12
+    },
+    {
+        "id": 245,
+        "surahId": 17,
+        "surahRukuNumber": 6,
+        "verseNumber": 53,
+        "verseKey": "17:53",
+        "verseRange": "53-60",
+        "firstWords": "وَقُل لِّعِبَادِى يَقُولُوا۟",
+        "versesCount": 8
+    },
+    {
+        "id": 246,
+        "surahId": 17,
+        "surahRukuNumber": 7,
+        "verseNumber": 61,
+        "verseKey": "17:61",
+        "verseRange": "61-70",
+        "firstWords": "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ",
+        "versesCount": 10
+    },
+    {
+        "id": 247,
+        "surahId": 17,
+        "surahRukuNumber": 8,
+        "verseNumber": 71,
+        "verseKey": "17:71",
+        "verseRange": "71-77",
+        "firstWords": "يَوْمَ نَدْعُوا۟ كُلَّ",
+        "versesCount": 7
+    },
+    {
+        "id": 248,
+        "surahId": 17,
+        "surahRukuNumber": 9,
+        "verseNumber": 78,
+        "verseKey": "17:78",
+        "verseRange": "78-84",
+        "firstWords": "أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ",
+        "versesCount": 7
+    },
+    {
+        "id": 249,
+        "surahId": 17,
+        "surahRukuNumber": 10,
+        "verseNumber": 85,
+        "verseKey": "17:85",
+        "verseRange": "85-93",
+        "firstWords": "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ",
+        "versesCount": 9
+    },
+    {
+        "id": 250,
+        "surahId": 17,
+        "surahRukuNumber": 11,
+        "verseNumber": 94,
+        "verseKey": "17:94",
+        "verseRange": "94-100",
+        "firstWords": "وَمَا مَنَعَ ٱلنَّاسَ",
+        "versesCount": 7
+    },
+    {
+        "id": 251,
+        "surahId": 17,
+        "surahRukuNumber": 12,
+        "verseNumber": 101,
+        "verseKey": "17:101",
+        "verseRange": "101-111",
+        "firstWords": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ",
+        "versesCount": 11
+    },
+    {
+        "id": 252,
+        "surahId": 18,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "18:1",
+        "verseRange": "1-12",
+        "firstWords": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ",
+        "versesCount": 12
+    },
+    {
+        "id": 253,
+        "surahId": 18,
+        "surahRukuNumber": 2,
+        "verseNumber": 13,
+        "verseKey": "18:13",
+        "verseRange": "13-17",
+        "firstWords": "نَّحْنُ نَقُصُّ عَلَيْكَ",
+        "versesCount": 5
+    },
+    {
+        "id": 254,
+        "surahId": 18,
+        "surahRukuNumber": 3,
+        "verseNumber": 18,
+        "verseKey": "18:18",
+        "verseRange": "18-22",
+        "firstWords": "وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ",
+        "versesCount": 5
+    },
+    {
+        "id": 255,
+        "surahId": 18,
+        "surahRukuNumber": 4,
+        "verseNumber": 23,
+        "verseKey": "18:23",
+        "verseRange": "23-31",
+        "firstWords": "وَلَا تَقُولَنَّ لِشَا۟ىْءٍ",
+        "versesCount": 9
+    },
+    {
+        "id": 256,
+        "surahId": 18,
+        "surahRukuNumber": 5,
+        "verseNumber": 32,
+        "verseKey": "18:32",
+        "verseRange": "32-44",
+        "firstWords": "۞ وَٱضْرِبْ لَهُم",
+        "versesCount": 13
+    },
+    {
+        "id": 257,
+        "surahId": 18,
+        "surahRukuNumber": 6,
+        "verseNumber": 45,
+        "verseKey": "18:45",
+        "verseRange": "45-49",
+        "firstWords": "وَٱضْرِبْ لَهُم مَّثَلَ",
+        "versesCount": 5
+    },
+    {
+        "id": 258,
+        "surahId": 18,
+        "surahRukuNumber": 7,
+        "verseNumber": 50,
+        "verseKey": "18:50",
+        "verseRange": "50-53",
+        "firstWords": "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ",
+        "versesCount": 4
+    },
+    {
+        "id": 259,
+        "surahId": 18,
+        "surahRukuNumber": 8,
+        "verseNumber": 54,
+        "verseKey": "18:54",
+        "verseRange": "54-59",
+        "firstWords": "وَلَقَدْ صَرَّفْنَا فِى",
+        "versesCount": 6
+    },
+    {
+        "id": 260,
+        "surahId": 18,
+        "surahRukuNumber": 9,
+        "verseNumber": 60,
+        "verseKey": "18:60",
+        "verseRange": "60-70",
+        "firstWords": "وَإِذْ قَالَ مُوسَىٰ",
+        "versesCount": 11
+    },
+    {
+        "id": 261,
+        "surahId": 18,
+        "surahRukuNumber": 10,
+        "verseNumber": 71,
+        "verseKey": "18:71",
+        "verseRange": "71-82",
+        "firstWords": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا",
+        "versesCount": 12
+    },
+    {
+        "id": 262,
+        "surahId": 18,
+        "surahRukuNumber": 11,
+        "verseNumber": 83,
+        "verseKey": "18:83",
+        "verseRange": "83-101",
+        "firstWords": "وَيَسْـَٔلُونَكَ عَن ذِى",
+        "versesCount": 19
+    },
+    {
+        "id": 263,
+        "surahId": 18,
+        "surahRukuNumber": 12,
+        "verseNumber": 102,
+        "verseKey": "18:102",
+        "verseRange": "102-110",
+        "firstWords": "أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓا۟",
+        "versesCount": 9
+    },
+    {
+        "id": 264,
+        "surahId": 19,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "19:1",
+        "verseRange": "1-15",
+        "firstWords": "كٓهيعٓصٓ",
+        "versesCount": 15
+    },
+    {
+        "id": 265,
+        "surahId": 19,
+        "surahRukuNumber": 2,
+        "verseNumber": 16,
+        "verseKey": "19:16",
+        "verseRange": "16-40",
+        "firstWords": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ",
+        "versesCount": 25
+    },
+    {
+        "id": 266,
+        "surahId": 19,
+        "surahRukuNumber": 3,
+        "verseNumber": 41,
+        "verseKey": "19:41",
+        "verseRange": "41-50",
+        "firstWords": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ",
+        "versesCount": 10
+    },
+    {
+        "id": 267,
+        "surahId": 19,
+        "surahRukuNumber": 4,
+        "verseNumber": 51,
+        "verseKey": "19:51",
+        "verseRange": "51-65",
+        "firstWords": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ",
+        "versesCount": 15
+    },
+    {
+        "id": 268,
+        "surahId": 19,
+        "surahRukuNumber": 5,
+        "verseNumber": 66,
+        "verseKey": "19:66",
+        "verseRange": "66-82",
+        "firstWords": "وَيَقُولُ ٱلْإِنسَـٰنُ أَءِذَا",
+        "versesCount": 17
+    },
+    {
+        "id": 269,
+        "surahId": 19,
+        "surahRukuNumber": 6,
+        "verseNumber": 83,
+        "verseKey": "19:83",
+        "verseRange": "83-98",
+        "firstWords": "أَلَمْ تَرَ أَنَّآ",
+        "versesCount": 16
+    },
+    {
+        "id": 270,
+        "surahId": 20,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "20:1",
+        "verseRange": "1-24",
+        "firstWords": "طه",
+        "versesCount": 24
+    },
+    {
+        "id": 271,
+        "surahId": 20,
+        "surahRukuNumber": 2,
+        "verseNumber": 25,
+        "verseKey": "20:25",
+        "verseRange": "25-54",
+        "firstWords": "قَالَ رَبِّ ٱشْرَحْ",
+        "versesCount": 30
+    },
+    {
+        "id": 272,
+        "surahId": 20,
+        "surahRukuNumber": 3,
+        "verseNumber": 55,
+        "verseKey": "20:55",
+        "verseRange": "55-76",
+        "firstWords": "۞ مِنْهَا خَلَقْنَـٰكُمْ",
+        "versesCount": 22
+    },
+    {
+        "id": 273,
+        "surahId": 20,
+        "surahRukuNumber": 4,
+        "verseNumber": 77,
+        "verseKey": "20:77",
+        "verseRange": "77-89",
+        "firstWords": "وَلَقَدْ أَوْحَيْنَآ إِلَىٰ",
+        "versesCount": 13
+    },
+    {
+        "id": 274,
+        "surahId": 20,
+        "surahRukuNumber": 5,
+        "verseNumber": 90,
+        "verseKey": "20:90",
+        "verseRange": "90-104",
+        "firstWords": "وَلَقَدْ قَالَ لَهُمْ",
+        "versesCount": 15
+    },
+    {
+        "id": 275,
+        "surahId": 20,
+        "surahRukuNumber": 6,
+        "verseNumber": 105,
+        "verseKey": "20:105",
+        "verseRange": "105-115",
+        "firstWords": "وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ",
+        "versesCount": 11
+    },
+    {
+        "id": 276,
+        "surahId": 20,
+        "surahRukuNumber": 7,
+        "verseNumber": 116,
+        "verseKey": "20:116",
+        "verseRange": "116-128",
+        "firstWords": "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ",
+        "versesCount": 13
+    },
+    {
+        "id": 277,
+        "surahId": 20,
+        "surahRukuNumber": 8,
+        "verseNumber": 129,
+        "verseKey": "20:129",
+        "verseRange": "129-135",
+        "firstWords": "وَلَوْلَا كَلِمَةٌ سَبَقَتْ",
+        "versesCount": 7
+    },
+    {
+        "id": 278,
+        "surahId": 21,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "21:1",
+        "verseRange": "1-10",
+        "firstWords": "ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ",
+        "versesCount": 10
+    },
+    {
+        "id": 279,
+        "surahId": 21,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "21:11",
+        "verseRange": "11-29",
+        "firstWords": "وَكَمْ قَصَمْنَا مِن",
+        "versesCount": 19
+    },
+    {
+        "id": 280,
+        "surahId": 21,
+        "surahRukuNumber": 3,
+        "verseNumber": 30,
+        "verseKey": "21:30",
+        "verseRange": "30-41",
+        "firstWords": "أَوَلَمْ يَرَ ٱلَّذِينَ",
+        "versesCount": 12
+    },
+    {
+        "id": 281,
+        "surahId": 21,
+        "surahRukuNumber": 4,
+        "verseNumber": 42,
+        "verseKey": "21:42",
+        "verseRange": "42-50",
+        "firstWords": "قُلْ مَن يَكْلَؤُكُم",
+        "versesCount": 9
+    },
+    {
+        "id": 282,
+        "surahId": 21,
+        "surahRukuNumber": 5,
+        "verseNumber": 51,
+        "verseKey": "21:51",
+        "verseRange": "51-75",
+        "firstWords": "۞ وَلَقَدْ ءَاتَيْنَآ",
+        "versesCount": 25
+    },
+    {
+        "id": 283,
+        "surahId": 21,
+        "surahRukuNumber": 6,
+        "verseNumber": 76,
+        "verseKey": "21:76",
+        "verseRange": "76-93",
+        "firstWords": "وَنُوحًا إِذْ نَادَىٰ",
+        "versesCount": 18
+    },
+    {
+        "id": 284,
+        "surahId": 21,
+        "surahRukuNumber": 7,
+        "verseNumber": 94,
+        "verseKey": "21:94",
+        "verseRange": "94-112",
+        "firstWords": "فَمَن يَعْمَلْ مِنَ",
+        "versesCount": 19
+    },
+    {
+        "id": 285,
+        "surahId": 22,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "22:1",
+        "verseRange": "1-10",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟",
+        "versesCount": 10
+    },
+    {
+        "id": 286,
+        "surahId": 22,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "22:11",
+        "verseRange": "11-22",
+        "firstWords": "وَمِنَ ٱلنَّاسِ مَن",
+        "versesCount": 12
+    },
+    {
+        "id": 287,
+        "surahId": 22,
+        "surahRukuNumber": 3,
+        "verseNumber": 23,
+        "verseKey": "22:23",
+        "verseRange": "23-25",
+        "firstWords": "إِنَّ ٱللَّهَ يُدْخِلُ",
+        "versesCount": 3
+    },
+    {
+        "id": 288,
+        "surahId": 22,
+        "surahRukuNumber": 4,
+        "verseNumber": 26,
+        "verseKey": "22:26",
+        "verseRange": "26-33",
+        "firstWords": "وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ",
+        "versesCount": 8
+    },
+    {
+        "id": 289,
+        "surahId": 22,
+        "surahRukuNumber": 5,
+        "verseNumber": 34,
+        "verseKey": "22:34",
+        "verseRange": "34-38",
+        "firstWords": "وَلِكُلِّ أُمَّةٍ جَعَلْنَا",
+        "versesCount": 5
+    },
+    {
+        "id": 290,
+        "surahId": 22,
+        "surahRukuNumber": 6,
+        "verseNumber": 39,
+        "verseKey": "22:39",
+        "verseRange": "39-48",
+        "firstWords": "أُذِنَ لِلَّذِينَ يُقَـٰتَلُونَ",
+        "versesCount": 10
+    },
+    {
+        "id": 291,
+        "surahId": 22,
+        "surahRukuNumber": 7,
+        "verseNumber": 49,
+        "verseKey": "22:49",
+        "verseRange": "49-57",
+        "firstWords": "قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ",
+        "versesCount": 9
+    },
+    {
+        "id": 292,
+        "surahId": 22,
+        "surahRukuNumber": 8,
+        "verseNumber": 58,
+        "verseKey": "22:58",
+        "verseRange": "58-64",
+        "firstWords": "وَٱلَّذِينَ هَاجَرُوا۟ فِى",
+        "versesCount": 7
+    },
+    {
+        "id": 293,
+        "surahId": 22,
+        "surahRukuNumber": 9,
+        "verseNumber": 65,
+        "verseKey": "22:65",
+        "verseRange": "65-72",
+        "firstWords": "أَلَمْ تَرَ أَنَّ",
+        "versesCount": 8
+    },
+    {
+        "id": 294,
+        "surahId": 22,
+        "surahRukuNumber": 10,
+        "verseNumber": 73,
+        "verseKey": "22:73",
+        "verseRange": "73-78",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ",
+        "versesCount": 6
+    },
+    {
+        "id": 295,
+        "surahId": 23,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "23:1",
+        "verseRange": "1-22",
+        "firstWords": "قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ",
+        "versesCount": 22
+    },
+    {
+        "id": 296,
+        "surahId": 23,
+        "surahRukuNumber": 2,
+        "verseNumber": 23,
+        "verseKey": "23:23",
+        "verseRange": "23-32",
+        "firstWords": "وَلَقَدْ أَرْسَلْنَا نُوحًا",
+        "versesCount": 10
+    },
+    {
+        "id": 297,
+        "surahId": 23,
+        "surahRukuNumber": 3,
+        "verseNumber": 33,
+        "verseKey": "23:33",
+        "verseRange": "33-50",
+        "firstWords": "وَقَالَ ٱلْمَلَأُ مِن",
+        "versesCount": 18
+    },
+    {
+        "id": 298,
+        "surahId": 23,
+        "surahRukuNumber": 4,
+        "verseNumber": 51,
+        "verseKey": "23:51",
+        "verseRange": "51-77",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلرُّسُلُ كُلُوا۟",
+        "versesCount": 27
+    },
+    {
+        "id": 299,
+        "surahId": 23,
+        "surahRukuNumber": 5,
+        "verseNumber": 78,
+        "verseKey": "23:78",
+        "verseRange": "78-92",
+        "firstWords": "وَهُوَ ٱلَّذِىٓ أَنشَأَ",
+        "versesCount": 15
+    },
+    {
+        "id": 300,
+        "surahId": 23,
+        "surahRukuNumber": 6,
+        "verseNumber": 93,
+        "verseKey": "23:93",
+        "verseRange": "93-118",
+        "firstWords": "قُل رَّبِّ إِمَّا",
+        "versesCount": 26
+    },
+    {
+        "id": 301,
+        "surahId": 24,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "24:1",
+        "verseRange": "1-10",
+        "firstWords": "سُورَةٌ أَنزَلْنَـٰهَا وَفَرَضْنَـٰهَا",
+        "versesCount": 10
+    },
+    {
+        "id": 302,
+        "surahId": 24,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "24:11",
+        "verseRange": "11-20",
+        "firstWords": "إِنَّ ٱلَّذِينَ جَآءُو",
+        "versesCount": 10
+    },
+    {
+        "id": 303,
+        "surahId": 24,
+        "surahRukuNumber": 3,
+        "verseNumber": 21,
+        "verseKey": "24:21",
+        "verseRange": "21-26",
+        "firstWords": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ",
+        "versesCount": 6
+    },
+    {
+        "id": 304,
+        "surahId": 24,
+        "surahRukuNumber": 4,
+        "verseNumber": 27,
+        "verseKey": "24:27",
+        "verseRange": "27-34",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 8
+    },
+    {
+        "id": 305,
+        "surahId": 24,
+        "surahRukuNumber": 5,
+        "verseNumber": 35,
+        "verseKey": "24:35",
+        "verseRange": "35-40",
+        "firstWords": "۞ ٱللَّهُ نُورُ",
+        "versesCount": 6
+    },
+    {
+        "id": 306,
+        "surahId": 24,
+        "surahRukuNumber": 6,
+        "verseNumber": 41,
+        "verseKey": "24:41",
+        "verseRange": "41-50",
+        "firstWords": "أَلَمْ تَرَ أَنَّ",
+        "versesCount": 10
+    },
+    {
+        "id": 307,
+        "surahId": 24,
+        "surahRukuNumber": 7,
+        "verseNumber": 51,
+        "verseKey": "24:51",
+        "verseRange": "51-57",
+        "firstWords": "إِنَّمَا كَانَ قَوْلَ",
+        "versesCount": 7
+    },
+    {
+        "id": 308,
+        "surahId": 24,
+        "surahRukuNumber": 8,
+        "verseNumber": 58,
+        "verseKey": "24:58",
+        "verseRange": "58-61",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 4
+    },
+    {
+        "id": 309,
+        "surahId": 24,
+        "surahRukuNumber": 9,
+        "verseNumber": 62,
+        "verseKey": "24:62",
+        "verseRange": "62-64",
+        "firstWords": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ",
+        "versesCount": 3
+    },
+    {
+        "id": 310,
+        "surahId": 25,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "25:1",
+        "verseRange": "1-9",
+        "firstWords": "تَبَارَكَ ٱلَّذِى نَزَّلَ",
+        "versesCount": 9
+    },
+    {
+        "id": 311,
+        "surahId": 25,
+        "surahRukuNumber": 2,
+        "verseNumber": 10,
+        "verseKey": "25:10",
+        "verseRange": "10-20",
+        "firstWords": "تَبَارَكَ ٱلَّذِىٓ إِن",
+        "versesCount": 11
+    },
+    {
+        "id": 312,
+        "surahId": 25,
+        "surahRukuNumber": 3,
+        "verseNumber": 21,
+        "verseKey": "25:21",
+        "verseRange": "21-34",
+        "firstWords": "۞ وَقَالَ ٱلَّذِينَ",
+        "versesCount": 14
+    },
+    {
+        "id": 313,
+        "surahId": 25,
+        "surahRukuNumber": 4,
+        "verseNumber": 35,
+        "verseKey": "25:35",
+        "verseRange": "35-44",
+        "firstWords": "وَلَقَدْ ءَاتَيْنَا مُوسَى",
+        "versesCount": 10
+    },
+    {
+        "id": 314,
+        "surahId": 25,
+        "surahRukuNumber": 5,
+        "verseNumber": 45,
+        "verseKey": "25:45",
+        "verseRange": "45-60",
+        "firstWords": "أَلَمْ تَرَ إِلَىٰ",
+        "versesCount": 16
+    },
+    {
+        "id": 315,
+        "surahId": 25,
+        "surahRukuNumber": 6,
+        "verseNumber": 61,
+        "verseKey": "25:61",
+        "verseRange": "61-77",
+        "firstWords": "تَبَارَكَ ٱلَّذِى جَعَلَ",
+        "versesCount": 17
+    },
+    {
+        "id": 316,
+        "surahId": 26,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "26:1",
+        "verseRange": "1-9",
+        "firstWords": "طسٓمٓ",
+        "versesCount": 9
+    },
+    {
+        "id": 317,
+        "surahId": 26,
+        "surahRukuNumber": 2,
+        "verseNumber": 10,
+        "verseKey": "26:10",
+        "verseRange": "10-33",
+        "firstWords": "وَإِذْ نَادَىٰ رَبُّكَ",
+        "versesCount": 24
+    },
+    {
+        "id": 318,
+        "surahId": 26,
+        "surahRukuNumber": 3,
+        "verseNumber": 34,
+        "verseKey": "26:34",
+        "verseRange": "34-51",
+        "firstWords": "قَالَ لِلْمَلَإِ حَوْلَهُۥٓ",
+        "versesCount": 18
+    },
+    {
+        "id": 319,
+        "surahId": 26,
+        "surahRukuNumber": 4,
+        "verseNumber": 52,
+        "verseKey": "26:52",
+        "verseRange": "52-68",
+        "firstWords": "۞ وَأَوْحَيْنَآ إِلَىٰ",
+        "versesCount": 17
+    },
+    {
+        "id": 320,
+        "surahId": 26,
+        "surahRukuNumber": 5,
+        "verseNumber": 69,
+        "verseKey": "26:69",
+        "verseRange": "69-104",
+        "firstWords": "وَٱتْلُ عَلَيْهِمْ نَبَأَ",
+        "versesCount": 36
+    },
+    {
+        "id": 321,
+        "surahId": 26,
+        "surahRukuNumber": 6,
+        "verseNumber": 105,
+        "verseKey": "26:105",
+        "verseRange": "105-122",
+        "firstWords": "كَذَّبَتْ قَوْمُ نُوحٍ",
+        "versesCount": 18
+    },
+    {
+        "id": 322,
+        "surahId": 26,
+        "surahRukuNumber": 7,
+        "verseNumber": 123,
+        "verseKey": "26:123",
+        "verseRange": "123-140",
+        "firstWords": "كَذَّبَتْ عَادٌ ٱلْمُرْسَلِينَ",
+        "versesCount": 18
+    },
+    {
+        "id": 323,
+        "surahId": 26,
+        "surahRukuNumber": 8,
+        "verseNumber": 141,
+        "verseKey": "26:141",
+        "verseRange": "141-159",
+        "firstWords": "كَذَّبَتْ ثَمُودُ ٱلْمُرْسَلِينَ",
+        "versesCount": 19
+    },
+    {
+        "id": 324,
+        "surahId": 26,
+        "surahRukuNumber": 9,
+        "verseNumber": 160,
+        "verseKey": "26:160",
+        "verseRange": "160-175",
+        "firstWords": "كَذَّبَتْ قَوْمُ لُوطٍ",
+        "versesCount": 16
+    },
+    {
+        "id": 325,
+        "surahId": 26,
+        "surahRukuNumber": 10,
+        "verseNumber": 176,
+        "verseKey": "26:176",
+        "verseRange": "176-191",
+        "firstWords": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ",
+        "versesCount": 16
+    },
+    {
+        "id": 326,
+        "surahId": 26,
+        "surahRukuNumber": 11,
+        "verseNumber": 192,
+        "verseKey": "26:192",
+        "verseRange": "192-227",
+        "firstWords": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ",
+        "versesCount": 36
+    },
+    {
+        "id": 327,
+        "surahId": 27,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "27:1",
+        "verseRange": "1-14",
+        "firstWords": "طسٓ ۚ تِلْكَ",
+        "versesCount": 14
+    },
+    {
+        "id": 328,
+        "surahId": 27,
+        "surahRukuNumber": 2,
+        "verseNumber": 15,
+        "verseKey": "27:15",
+        "verseRange": "15-31",
+        "firstWords": "وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ",
+        "versesCount": 17
+    },
+    {
+        "id": 329,
+        "surahId": 27,
+        "surahRukuNumber": 3,
+        "verseNumber": 32,
+        "verseKey": "27:32",
+        "verseRange": "32-44",
+        "firstWords": "قَالَتْ يَـٰٓأَيُّهَا ٱلْمَلَؤُا۟",
+        "versesCount": 13
+    },
+    {
+        "id": 330,
+        "surahId": 27,
+        "surahRukuNumber": 4,
+        "verseNumber": 45,
+        "verseKey": "27:45",
+        "verseRange": "45-58",
+        "firstWords": "وَلَقَدْ أَرْسَلْنَآ إِلَىٰ",
+        "versesCount": 14
+    },
+    {
+        "id": 331,
+        "surahId": 27,
+        "surahRukuNumber": 5,
+        "verseNumber": 59,
+        "verseKey": "27:59",
+        "verseRange": "59-66",
+        "firstWords": "قُلِ ٱلْحَمْدُ لِلَّهِ",
+        "versesCount": 8
+    },
+    {
+        "id": 332,
+        "surahId": 27,
+        "surahRukuNumber": 6,
+        "verseNumber": 67,
+        "verseKey": "27:67",
+        "verseRange": "67-82",
+        "firstWords": "وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟",
+        "versesCount": 16
+    },
+    {
+        "id": 333,
+        "surahId": 27,
+        "surahRukuNumber": 7,
+        "verseNumber": 83,
+        "verseKey": "27:83",
+        "verseRange": "83-93",
+        "firstWords": "وَيَوْمَ نَحْشُرُ مِن",
+        "versesCount": 11
+    },
+    {
+        "id": 334,
+        "surahId": 28,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "28:1",
+        "verseRange": "1-13",
+        "firstWords": "طسٓمٓ",
+        "versesCount": 13
+    },
+    {
+        "id": 335,
+        "surahId": 28,
+        "surahRukuNumber": 2,
+        "verseNumber": 14,
+        "verseKey": "28:14",
+        "verseRange": "14-21",
+        "firstWords": "وَلَمَّا بَلَغَ أَشُدَّهُۥ",
+        "versesCount": 8
+    },
+    {
+        "id": 336,
+        "surahId": 28,
+        "surahRukuNumber": 3,
+        "verseNumber": 22,
+        "verseKey": "28:22",
+        "verseRange": "22-28",
+        "firstWords": "وَلَمَّا تَوَجَّهَ تِلْقَآءَ",
+        "versesCount": 7
+    },
+    {
+        "id": 337,
+        "surahId": 28,
+        "surahRukuNumber": 4,
+        "verseNumber": 29,
+        "verseKey": "28:29",
+        "verseRange": "29-42",
+        "firstWords": "۞ فَلَمَّا قَضَىٰ",
+        "versesCount": 14
+    },
+    {
+        "id": 338,
+        "surahId": 28,
+        "surahRukuNumber": 5,
+        "verseNumber": 43,
+        "verseKey": "28:43",
+        "verseRange": "43-50",
+        "firstWords": "وَلَقَدْ ءَاتَيْنَا مُوسَى",
+        "versesCount": 8
+    },
+    {
+        "id": 339,
+        "surahId": 28,
+        "surahRukuNumber": 6,
+        "verseNumber": 51,
+        "verseKey": "28:51",
+        "verseRange": "51-60",
+        "firstWords": "۞ وَلَقَدْ وَصَّلْنَا",
+        "versesCount": 10
+    },
+    {
+        "id": 340,
+        "surahId": 28,
+        "surahRukuNumber": 7,
+        "verseNumber": 61,
+        "verseKey": "28:61",
+        "verseRange": "61-75",
+        "firstWords": "أَفَمَن وَعَدْنَـٰهُ وَعْدًا",
+        "versesCount": 15
+    },
+    {
+        "id": 341,
+        "surahId": 28,
+        "surahRukuNumber": 8,
+        "verseNumber": 76,
+        "verseKey": "28:76",
+        "verseRange": "76-82",
+        "firstWords": "۞ إِنَّ قَـٰرُونَ",
+        "versesCount": 7
+    },
+    {
+        "id": 342,
+        "surahId": 28,
+        "surahRukuNumber": 9,
+        "verseNumber": 83,
+        "verseKey": "28:83",
+        "verseRange": "83-88",
+        "firstWords": "تِلْكَ ٱلدَّارُ ٱلْـَٔاخِرَةُ",
+        "versesCount": 6
+    },
+    {
+        "id": 343,
+        "surahId": 29,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "29:1",
+        "verseRange": "1-13",
+        "firstWords": "الٓمٓ",
+        "versesCount": 13
+    },
+    {
+        "id": 344,
+        "surahId": 29,
+        "surahRukuNumber": 2,
+        "verseNumber": 14,
+        "verseKey": "29:14",
+        "verseRange": "14-22",
+        "firstWords": "وَلَقَدْ أَرْسَلْنَا نُوحًا",
+        "versesCount": 9
+    },
+    {
+        "id": 345,
+        "surahId": 29,
+        "surahRukuNumber": 3,
+        "verseNumber": 23,
+        "verseKey": "29:23",
+        "verseRange": "23-30",
+        "firstWords": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ",
+        "versesCount": 8
+    },
+    {
+        "id": 346,
+        "surahId": 29,
+        "surahRukuNumber": 4,
+        "verseNumber": 31,
+        "verseKey": "29:31",
+        "verseRange": "31-44",
+        "firstWords": "وَلَمَّا جَآءَتْ رُسُلُنَآ",
+        "versesCount": 14
+    },
+    {
+        "id": 347,
+        "surahId": 29,
+        "surahRukuNumber": 5,
+        "verseNumber": 45,
+        "verseKey": "29:45",
+        "verseRange": "45-51",
+        "firstWords": "ٱتْلُ مَآ أُوحِىَ",
+        "versesCount": 7
+    },
+    {
+        "id": 348,
+        "surahId": 29,
+        "surahRukuNumber": 6,
+        "verseNumber": 52,
+        "verseKey": "29:52",
+        "verseRange": "52-63",
+        "firstWords": "قُلْ كَفَىٰ بِٱللَّهِ",
+        "versesCount": 12
+    },
+    {
+        "id": 349,
+        "surahId": 29,
+        "surahRukuNumber": 7,
+        "verseNumber": 64,
+        "verseKey": "29:64",
+        "verseRange": "64-69",
+        "firstWords": "وَمَا هَـٰذِهِ ٱلْحَيَوٰةُ",
+        "versesCount": 6
+    },
+    {
+        "id": 350,
+        "surahId": 30,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "30:1",
+        "verseRange": "1-10",
+        "firstWords": "الٓمٓ",
+        "versesCount": 10
+    },
+    {
+        "id": 351,
+        "surahId": 30,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "30:11",
+        "verseRange": "11-19",
+        "firstWords": "ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ",
+        "versesCount": 9
+    },
+    {
+        "id": 352,
+        "surahId": 30,
+        "surahRukuNumber": 3,
+        "verseNumber": 20,
+        "verseKey": "30:20",
+        "verseRange": "20-27",
+        "firstWords": "وَمِنْ ءَايَـٰتِهِۦٓ أَنْ",
+        "versesCount": 8
+    },
+    {
+        "id": 353,
+        "surahId": 30,
+        "surahRukuNumber": 4,
+        "verseNumber": 28,
+        "verseKey": "30:28",
+        "verseRange": "28-40",
+        "firstWords": "ضَرَبَ لَكُم مَّثَلًا",
+        "versesCount": 13
+    },
+    {
+        "id": 354,
+        "surahId": 30,
+        "surahRukuNumber": 5,
+        "verseNumber": 41,
+        "verseKey": "30:41",
+        "verseRange": "41-53",
+        "firstWords": "ظَهَرَ ٱلْفَسَادُ فِى",
+        "versesCount": 13
+    },
+    {
+        "id": 355,
+        "surahId": 30,
+        "surahRukuNumber": 6,
+        "verseNumber": 54,
+        "verseKey": "30:54",
+        "verseRange": "54-60",
+        "firstWords": "۞ ٱللَّهُ ٱلَّذِى",
+        "versesCount": 7
+    },
+    {
+        "id": 356,
+        "surahId": 31,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "31:1",
+        "verseRange": "1-11",
+        "firstWords": "الٓمٓ",
+        "versesCount": 11
+    },
+    {
+        "id": 357,
+        "surahId": 31,
+        "surahRukuNumber": 2,
+        "verseNumber": 12,
+        "verseKey": "31:12",
+        "verseRange": "12-19",
+        "firstWords": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ",
+        "versesCount": 8
+    },
+    {
+        "id": 358,
+        "surahId": 31,
+        "surahRukuNumber": 3,
+        "verseNumber": 20,
+        "verseKey": "31:20",
+        "verseRange": "20-30",
+        "firstWords": "أَلَمْ تَرَوْا۟ أَنَّ",
+        "versesCount": 11
+    },
+    {
+        "id": 359,
+        "surahId": 31,
+        "surahRukuNumber": 4,
+        "verseNumber": 31,
+        "verseKey": "31:31",
+        "verseRange": "31-34",
+        "firstWords": "أَلَمْ تَرَ أَنَّ",
+        "versesCount": 4
+    },
+    {
+        "id": 360,
+        "surahId": 32,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "32:1",
+        "verseRange": "1-11",
+        "firstWords": "الٓمٓ",
+        "versesCount": 11
+    },
+    {
+        "id": 361,
+        "surahId": 32,
+        "surahRukuNumber": 2,
+        "verseNumber": 12,
+        "verseKey": "32:12",
+        "verseRange": "12-22",
+        "firstWords": "وَلَوْ تَرَىٰٓ إِذِ",
+        "versesCount": 11
+    },
+    {
+        "id": 362,
+        "surahId": 32,
+        "surahRukuNumber": 3,
+        "verseNumber": 23,
+        "verseKey": "32:23",
+        "verseRange": "23-30",
+        "firstWords": "وَلَقَدْ ءَاتَيْنَا مُوسَى",
+        "versesCount": 8
+    },
+    {
+        "id": 363,
+        "surahId": 33,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "33:1",
+        "verseRange": "1-8",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ",
+        "versesCount": 8
+    },
+    {
+        "id": 364,
+        "surahId": 33,
+        "surahRukuNumber": 2,
+        "verseNumber": 9,
+        "verseKey": "33:9",
+        "verseRange": "9-20",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 12
+    },
+    {
+        "id": 365,
+        "surahId": 33,
+        "surahRukuNumber": 3,
+        "verseNumber": 21,
+        "verseKey": "33:21",
+        "verseRange": "21-27",
+        "firstWords": "لَّقَدْ كَانَ لَكُمْ",
+        "versesCount": 7
+    },
+    {
+        "id": 366,
+        "surahId": 33,
+        "surahRukuNumber": 4,
+        "verseNumber": 28,
+        "verseKey": "33:28",
+        "verseRange": "28-34",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل",
+        "versesCount": 7
+    },
+    {
+        "id": 367,
+        "surahId": 33,
+        "surahRukuNumber": 5,
+        "verseNumber": 35,
+        "verseKey": "33:35",
+        "verseRange": "35-40",
+        "firstWords": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَـٰتِ",
+        "versesCount": 6
+    },
+    {
+        "id": 368,
+        "surahId": 33,
+        "surahRukuNumber": 6,
+        "verseNumber": 41,
+        "verseKey": "33:41",
+        "verseRange": "41-52",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 12
+    },
+    {
+        "id": 369,
+        "surahId": 33,
+        "surahRukuNumber": 7,
+        "verseNumber": 53,
+        "verseKey": "33:53",
+        "verseRange": "53-58",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 6
+    },
+    {
+        "id": 370,
+        "surahId": 33,
+        "surahRukuNumber": 8,
+        "verseNumber": 59,
+        "verseKey": "33:59",
+        "verseRange": "59-68",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل",
+        "versesCount": 10
+    },
+    {
+        "id": 371,
+        "surahId": 33,
+        "surahRukuNumber": 9,
+        "verseNumber": 69,
+        "verseKey": "33:69",
+        "verseRange": "69-73",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 5
+    },
+    {
+        "id": 372,
+        "surahId": 34,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "34:1",
+        "verseRange": "1-9",
+        "firstWords": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى",
+        "versesCount": 9
+    },
+    {
+        "id": 373,
+        "surahId": 34,
+        "surahRukuNumber": 2,
+        "verseNumber": 10,
+        "verseKey": "34:10",
+        "verseRange": "10-21",
+        "firstWords": "۞ وَلَقَدْ ءَاتَيْنَا",
+        "versesCount": 12
+    },
+    {
+        "id": 374,
+        "surahId": 34,
+        "surahRukuNumber": 3,
+        "verseNumber": 22,
+        "verseKey": "34:22",
+        "verseRange": "22-30",
+        "firstWords": "قُلِ ٱدْعُوا۟ ٱلَّذِينَ",
+        "versesCount": 9
+    },
+    {
+        "id": 375,
+        "surahId": 34,
+        "surahRukuNumber": 4,
+        "verseNumber": 31,
+        "verseKey": "34:31",
+        "verseRange": "31-36",
+        "firstWords": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟",
+        "versesCount": 6
+    },
+    {
+        "id": 376,
+        "surahId": 34,
+        "surahRukuNumber": 5,
+        "verseNumber": 37,
+        "verseKey": "34:37",
+        "verseRange": "37-45",
+        "firstWords": "وَمَآ أَمْوَٰلُكُمْ وَلَآ",
+        "versesCount": 9
+    },
+    {
+        "id": 377,
+        "surahId": 34,
+        "surahRukuNumber": 6,
+        "verseNumber": 46,
+        "verseKey": "34:46",
+        "verseRange": "46-54",
+        "firstWords": "۞ قُلْ إِنَّمَآ",
+        "versesCount": 9
+    },
+    {
+        "id": 378,
+        "surahId": 35,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "35:1",
+        "verseRange": "1-7",
+        "firstWords": "ٱلْحَمْدُ لِلَّهِ فَاطِرِ",
+        "versesCount": 7
+    },
+    {
+        "id": 379,
+        "surahId": 35,
+        "surahRukuNumber": 2,
+        "verseNumber": 8,
+        "verseKey": "35:8",
+        "verseRange": "8-14",
+        "firstWords": "أَفَمَن زُيِّنَ لَهُۥ",
+        "versesCount": 7
+    },
+    {
+        "id": 380,
+        "surahId": 35,
+        "surahRukuNumber": 3,
+        "verseNumber": 15,
+        "verseKey": "35:15",
+        "verseRange": "15-26",
+        "firstWords": "۞ يَـٰٓأَيُّهَا ٱلنَّاسُ",
+        "versesCount": 12
+    },
+    {
+        "id": 381,
+        "surahId": 35,
+        "surahRukuNumber": 4,
+        "verseNumber": 27,
+        "verseKey": "35:27",
+        "verseRange": "27-37",
+        "firstWords": "أَلَمْ تَرَ أَنَّ",
+        "versesCount": 11
+    },
+    {
+        "id": 382,
+        "surahId": 35,
+        "surahRukuNumber": 5,
+        "verseNumber": 38,
+        "verseKey": "35:38",
+        "verseRange": "38-45",
+        "firstWords": "إِنَّ ٱللَّهَ عَـٰلِمُ",
+        "versesCount": 8
+    },
+    {
+        "id": 383,
+        "surahId": 36,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "36:1",
+        "verseRange": "1-12",
+        "firstWords": "يسٓ",
+        "versesCount": 12
+    },
+    {
+        "id": 384,
+        "surahId": 36,
+        "surahRukuNumber": 2,
+        "verseNumber": 13,
+        "verseKey": "36:13",
+        "verseRange": "13-32",
+        "firstWords": "وَٱضْرِبْ لَهُم مَّثَلًا",
+        "versesCount": 20
+    },
+    {
+        "id": 385,
+        "surahId": 36,
+        "surahRukuNumber": 3,
+        "verseNumber": 33,
+        "verseKey": "36:33",
+        "verseRange": "33-50",
+        "firstWords": "وَءَايَةٌ لَّهُمُ ٱلْأَرْضُ",
+        "versesCount": 18
+    },
+    {
+        "id": 386,
+        "surahId": 36,
+        "surahRukuNumber": 4,
+        "verseNumber": 51,
+        "verseKey": "36:51",
+        "verseRange": "51-67",
+        "firstWords": "وَنُفِخَ فِى ٱلصُّورِ",
+        "versesCount": 17
+    },
+    {
+        "id": 387,
+        "surahId": 36,
+        "surahRukuNumber": 5,
+        "verseNumber": 68,
+        "verseKey": "36:68",
+        "verseRange": "68-83",
+        "firstWords": "وَمَن نُّعَمِّرْهُ نُنَكِّسْهُ",
+        "versesCount": 16
+    },
+    {
+        "id": 388,
+        "surahId": 37,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "37:1",
+        "verseRange": "1-21",
+        "firstWords": "وَٱلصَّـٰٓفَّـٰتِ صَفًّا",
+        "versesCount": 21
+    },
+    {
+        "id": 389,
+        "surahId": 37,
+        "surahRukuNumber": 2,
+        "verseNumber": 22,
+        "verseKey": "37:22",
+        "verseRange": "22-74",
+        "firstWords": "۞ ٱحْشُرُوا۟ ٱلَّذِينَ",
+        "versesCount": 53
+    },
+    {
+        "id": 390,
+        "surahId": 37,
+        "surahRukuNumber": 3,
+        "verseNumber": 75,
+        "verseKey": "37:75",
+        "verseRange": "75-113",
+        "firstWords": "وَلَقَدْ نَادَىٰنَا نُوحٌ",
+        "versesCount": 39
+    },
+    {
+        "id": 391,
+        "surahId": 37,
+        "surahRukuNumber": 4,
+        "verseNumber": 114,
+        "verseKey": "37:114",
+        "verseRange": "114-138",
+        "firstWords": "وَلَقَدْ مَنَنَّا عَلَىٰ",
+        "versesCount": 25
+    },
+    {
+        "id": 392,
+        "surahId": 37,
+        "surahRukuNumber": 5,
+        "verseNumber": 139,
+        "verseKey": "37:139",
+        "verseRange": "139-182",
+        "firstWords": "وَإِنَّ يُونُسَ لَمِنَ",
+        "versesCount": 44
+    },
+    {
+        "id": 393,
+        "surahId": 38,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "38:1",
+        "verseRange": "1-14",
+        "firstWords": "صٓ ۚ وَٱلْقُرْءَانِ",
+        "versesCount": 14
+    },
+    {
+        "id": 394,
+        "surahId": 38,
+        "surahRukuNumber": 2,
+        "verseNumber": 15,
+        "verseKey": "38:15",
+        "verseRange": "15-26",
+        "firstWords": "وَمَا يَنظُرُ هَـٰٓؤُلَآءِ",
+        "versesCount": 12
+    },
+    {
+        "id": 395,
+        "surahId": 38,
+        "surahRukuNumber": 3,
+        "verseNumber": 27,
+        "verseKey": "38:27",
+        "verseRange": "27-40",
+        "firstWords": "وَمَا خَلَقْنَا ٱلسَّمَآءَ",
+        "versesCount": 14
+    },
+    {
+        "id": 396,
+        "surahId": 38,
+        "surahRukuNumber": 4,
+        "verseNumber": 41,
+        "verseKey": "38:41",
+        "verseRange": "41-64",
+        "firstWords": "وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ",
+        "versesCount": 24
+    },
+    {
+        "id": 397,
+        "surahId": 38,
+        "surahRukuNumber": 5,
+        "verseNumber": 65,
+        "verseKey": "38:65",
+        "verseRange": "65-88",
+        "firstWords": "قُلْ إِنَّمَآ أَنَا۠",
+        "versesCount": 24
+    },
+    {
+        "id": 398,
+        "surahId": 39,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "39:1",
+        "verseRange": "1-9",
+        "firstWords": "تَنزِيلُ ٱلْكِتَـٰبِ مِنَ",
+        "versesCount": 9
+    },
+    {
+        "id": 399,
+        "surahId": 39,
+        "surahRukuNumber": 2,
+        "verseNumber": 10,
+        "verseKey": "39:10",
+        "verseRange": "10-21",
+        "firstWords": "قُلْ يَـٰعِبَادِ ٱلَّذِينَ",
+        "versesCount": 12
+    },
+    {
+        "id": 400,
+        "surahId": 39,
+        "surahRukuNumber": 3,
+        "verseNumber": 22,
+        "verseKey": "39:22",
+        "verseRange": "22-31",
+        "firstWords": "أَفَمَن شَرَحَ ٱللَّهُ",
+        "versesCount": 10
+    },
+    {
+        "id": 401,
+        "surahId": 39,
+        "surahRukuNumber": 4,
+        "verseNumber": 32,
+        "verseKey": "39:32",
+        "verseRange": "32-41",
+        "firstWords": "۞ فَمَنْ أَظْلَمُ",
+        "versesCount": 10
+    },
+    {
+        "id": 402,
+        "surahId": 39,
+        "surahRukuNumber": 5,
+        "verseNumber": 42,
+        "verseKey": "39:42",
+        "verseRange": "42-52",
+        "firstWords": "ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ",
+        "versesCount": 11
+    },
+    {
+        "id": 403,
+        "surahId": 39,
+        "surahRukuNumber": 6,
+        "verseNumber": 53,
+        "verseKey": "39:53",
+        "verseRange": "53-63",
+        "firstWords": "۞ قُلْ يَـٰعِبَادِىَ",
+        "versesCount": 11
+    },
+    {
+        "id": 404,
+        "surahId": 39,
+        "surahRukuNumber": 7,
+        "verseNumber": 64,
+        "verseKey": "39:64",
+        "verseRange": "64-70",
+        "firstWords": "قُلْ أَفَغَيْرَ ٱللَّهِ",
+        "versesCount": 7
+    },
+    {
+        "id": 405,
+        "surahId": 39,
+        "surahRukuNumber": 8,
+        "verseNumber": 71,
+        "verseKey": "39:71",
+        "verseRange": "71-75",
+        "firstWords": "وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟",
+        "versesCount": 5
+    },
+    {
+        "id": 406,
+        "surahId": 40,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "40:1",
+        "verseRange": "1-9",
+        "firstWords": "حمٓ",
+        "versesCount": 9
+    },
+    {
+        "id": 407,
+        "surahId": 40,
+        "surahRukuNumber": 2,
+        "verseNumber": 10,
+        "verseKey": "40:10",
+        "verseRange": "10-20",
+        "firstWords": "إِنَّ ٱلَّذِينَ كَفَرُوا۟",
+        "versesCount": 11
+    },
+    {
+        "id": 408,
+        "surahId": 40,
+        "surahRukuNumber": 3,
+        "verseNumber": 21,
+        "verseKey": "40:21",
+        "verseRange": "21-27",
+        "firstWords": "۞ أَوَلَمْ يَسِيرُوا۟",
+        "versesCount": 7
+    },
+    {
+        "id": 409,
+        "surahId": 40,
+        "surahRukuNumber": 4,
+        "verseNumber": 28,
+        "verseKey": "40:28",
+        "verseRange": "28-37",
+        "firstWords": "وَقَالَ رَجُلٌ مُّؤْمِنٌ",
+        "versesCount": 10
+    },
+    {
+        "id": 410,
+        "surahId": 40,
+        "surahRukuNumber": 5,
+        "verseNumber": 38,
+        "verseKey": "40:38",
+        "verseRange": "38-50",
+        "firstWords": "وَقَالَ ٱلَّذِىٓ ءَامَنَ",
+        "versesCount": 13
+    },
+    {
+        "id": 411,
+        "surahId": 40,
+        "surahRukuNumber": 6,
+        "verseNumber": 51,
+        "verseKey": "40:51",
+        "verseRange": "51-60",
+        "firstWords": "إِنَّا لَنَنصُرُ رُسُلَنَا",
+        "versesCount": 10
+    },
+    {
+        "id": 412,
+        "surahId": 40,
+        "surahRukuNumber": 7,
+        "verseNumber": 61,
+        "verseKey": "40:61",
+        "verseRange": "61-68",
+        "firstWords": "ٱللَّهُ ٱلَّذِى جَعَلَ",
+        "versesCount": 8
+    },
+    {
+        "id": 413,
+        "surahId": 40,
+        "surahRukuNumber": 8,
+        "verseNumber": 69,
+        "verseKey": "40:69",
+        "verseRange": "69-78",
+        "firstWords": "أَلَمْ تَرَ إِلَى",
+        "versesCount": 10
+    },
+    {
+        "id": 414,
+        "surahId": 40,
+        "surahRukuNumber": 9,
+        "verseNumber": 79,
+        "verseKey": "40:79",
+        "verseRange": "79-85",
+        "firstWords": "ٱللَّهُ ٱلَّذِى جَعَلَ",
+        "versesCount": 7
+    },
+    {
+        "id": 415,
+        "surahId": 41,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "41:1",
+        "verseRange": "1-8",
+        "firstWords": "حمٓ",
+        "versesCount": 8
+    },
+    {
+        "id": 416,
+        "surahId": 41,
+        "surahRukuNumber": 2,
+        "verseNumber": 9,
+        "verseKey": "41:9",
+        "verseRange": "9-18",
+        "firstWords": "۞ قُلْ أَئِنَّكُمْ",
+        "versesCount": 10
+    },
+    {
+        "id": 417,
+        "surahId": 41,
+        "surahRukuNumber": 3,
+        "verseNumber": 19,
+        "verseKey": "41:19",
+        "verseRange": "19-25",
+        "firstWords": "وَيَوْمَ يُحْشَرُ أَعْدَآءُ",
+        "versesCount": 7
+    },
+    {
+        "id": 418,
+        "surahId": 41,
+        "surahRukuNumber": 4,
+        "verseNumber": 26,
+        "verseKey": "41:26",
+        "verseRange": "26-32",
+        "firstWords": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟",
+        "versesCount": 7
+    },
+    {
+        "id": 419,
+        "surahId": 41,
+        "surahRukuNumber": 5,
+        "verseNumber": 33,
+        "verseKey": "41:33",
+        "verseRange": "33-44",
+        "firstWords": "وَمَنْ أَحْسَنُ قَوْلًا",
+        "versesCount": 12
+    },
+    {
+        "id": 420,
+        "surahId": 41,
+        "surahRukuNumber": 6,
+        "verseNumber": 45,
+        "verseKey": "41:45",
+        "verseRange": "45-54",
+        "firstWords": "وَلَقَدْ ءَاتَيْنَا مُوسَى",
+        "versesCount": 10
+    },
+    {
+        "id": 421,
+        "surahId": 42,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "42:1",
+        "verseRange": "1-9",
+        "firstWords": "حمٓ",
+        "versesCount": 9
+    },
+    {
+        "id": 422,
+        "surahId": 42,
+        "surahRukuNumber": 2,
+        "verseNumber": 10,
+        "verseKey": "42:10",
+        "verseRange": "10-19",
+        "firstWords": "وَمَا ٱخْتَلَفْتُمْ فِيهِ",
+        "versesCount": 10
+    },
+    {
+        "id": 423,
+        "surahId": 42,
+        "surahRukuNumber": 3,
+        "verseNumber": 20,
+        "verseKey": "42:20",
+        "verseRange": "20-29",
+        "firstWords": "مَن كَانَ يُرِيدُ",
+        "versesCount": 10
+    },
+    {
+        "id": 424,
+        "surahId": 42,
+        "surahRukuNumber": 4,
+        "verseNumber": 30,
+        "verseKey": "42:30",
+        "verseRange": "30-43",
+        "firstWords": "وَمَآ أَصَـٰبَكُم مِّن",
+        "versesCount": 14
+    },
+    {
+        "id": 425,
+        "surahId": 42,
+        "surahRukuNumber": 5,
+        "verseNumber": 44,
+        "verseKey": "42:44",
+        "verseRange": "44-53",
+        "firstWords": "وَمَن يُضْلِلِ ٱللَّهُ",
+        "versesCount": 10
+    },
+    {
+        "id": 426,
+        "surahId": 43,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "43:1",
+        "verseRange": "1-15",
+        "firstWords": "حمٓ",
+        "versesCount": 15
+    },
+    {
+        "id": 427,
+        "surahId": 43,
+        "surahRukuNumber": 2,
+        "verseNumber": 16,
+        "verseKey": "43:16",
+        "verseRange": "16-25",
+        "firstWords": "أَمِ ٱتَّخَذَ مِمَّا",
+        "versesCount": 10
+    },
+    {
+        "id": 428,
+        "surahId": 43,
+        "surahRukuNumber": 3,
+        "verseNumber": 26,
+        "verseKey": "43:26",
+        "verseRange": "26-35",
+        "firstWords": "وَإِذْ قَالَ إِبْرَٰهِيمُ",
+        "versesCount": 10
+    },
+    {
+        "id": 429,
+        "surahId": 43,
+        "surahRukuNumber": 4,
+        "verseNumber": 36,
+        "verseKey": "43:36",
+        "verseRange": "36-45",
+        "firstWords": "وَمَن يَعْشُ عَن",
+        "versesCount": 10
+    },
+    {
+        "id": 430,
+        "surahId": 43,
+        "surahRukuNumber": 5,
+        "verseNumber": 46,
+        "verseKey": "43:46",
+        "verseRange": "46-56",
+        "firstWords": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ",
+        "versesCount": 11
+    },
+    {
+        "id": 431,
+        "surahId": 43,
+        "surahRukuNumber": 6,
+        "verseNumber": 57,
+        "verseKey": "43:57",
+        "verseRange": "57-67",
+        "firstWords": "۞ وَلَمَّا ضُرِبَ",
+        "versesCount": 11
+    },
+    {
+        "id": 432,
+        "surahId": 43,
+        "surahRukuNumber": 7,
+        "verseNumber": 68,
+        "verseKey": "43:68",
+        "verseRange": "68-89",
+        "firstWords": "يَـٰعِبَادِ لَا خَوْفٌ",
+        "versesCount": 22
+    },
+    {
+        "id": 433,
+        "surahId": 44,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "44:1",
+        "verseRange": "1-29",
+        "firstWords": "حمٓ",
+        "versesCount": 29
+    },
+    {
+        "id": 434,
+        "surahId": 44,
+        "surahRukuNumber": 2,
+        "verseNumber": 30,
+        "verseKey": "44:30",
+        "verseRange": "30-42",
+        "firstWords": "وَلَقَدْ نَجَّيْنَا بَنِىٓ",
+        "versesCount": 13
+    },
+    {
+        "id": 435,
+        "surahId": 44,
+        "surahRukuNumber": 3,
+        "verseNumber": 43,
+        "verseKey": "44:43",
+        "verseRange": "43-59",
+        "firstWords": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+        "versesCount": 17
+    },
+    {
+        "id": 436,
+        "surahId": 45,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "45:1",
+        "verseRange": "1-11",
+        "firstWords": "حمٓ",
+        "versesCount": 11
+    },
+    {
+        "id": 437,
+        "surahId": 45,
+        "surahRukuNumber": 2,
+        "verseNumber": 12,
+        "verseKey": "45:12",
+        "verseRange": "12-21",
+        "firstWords": "۞ ٱللَّهُ ٱلَّذِى",
+        "versesCount": 10
+    },
+    {
+        "id": 438,
+        "surahId": 45,
+        "surahRukuNumber": 3,
+        "verseNumber": 22,
+        "verseKey": "45:22",
+        "verseRange": "22-26",
+        "firstWords": "وَخَلَقَ ٱللَّهُ ٱلسَّمَـٰوَٰتِ",
+        "versesCount": 5
+    },
+    {
+        "id": 439,
+        "surahId": 45,
+        "surahRukuNumber": 4,
+        "verseNumber": 27,
+        "verseKey": "45:27",
+        "verseRange": "27-37",
+        "firstWords": "وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ",
+        "versesCount": 11
+    },
+    {
+        "id": 440,
+        "surahId": 46,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "46:1",
+        "verseRange": "1-10",
+        "firstWords": "حمٓ",
+        "versesCount": 10
+    },
+    {
+        "id": 441,
+        "surahId": 46,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "46:11",
+        "verseRange": "11-20",
+        "firstWords": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟",
+        "versesCount": 10
+    },
+    {
+        "id": 442,
+        "surahId": 46,
+        "surahRukuNumber": 3,
+        "verseNumber": 21,
+        "verseKey": "46:21",
+        "verseRange": "21-26",
+        "firstWords": "۞ وَٱذْكُرْ أَخَا",
+        "versesCount": 6
+    },
+    {
+        "id": 443,
+        "surahId": 46,
+        "surahRukuNumber": 4,
+        "verseNumber": 27,
+        "verseKey": "46:27",
+        "verseRange": "27-35",
+        "firstWords": "وَلَقَدْ أَهْلَكْنَا مَا",
+        "versesCount": 9
+    },
+    {
+        "id": 444,
+        "surahId": 47,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "47:1",
+        "verseRange": "1-11",
+        "firstWords": "ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟",
+        "versesCount": 11
+    },
+    {
+        "id": 445,
+        "surahId": 47,
+        "surahRukuNumber": 2,
+        "verseNumber": 12,
+        "verseKey": "47:12",
+        "verseRange": "12-19",
+        "firstWords": "إِنَّ ٱللَّهَ يُدْخِلُ",
+        "versesCount": 8
+    },
+    {
+        "id": 446,
+        "surahId": 47,
+        "surahRukuNumber": 3,
+        "verseNumber": 20,
+        "verseKey": "47:20",
+        "verseRange": "20-28",
+        "firstWords": "وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 9
+    },
+    {
+        "id": 447,
+        "surahId": 47,
+        "surahRukuNumber": 4,
+        "verseNumber": 29,
+        "verseKey": "47:29",
+        "verseRange": "29-38",
+        "firstWords": "أَمْ حَسِبَ ٱلَّذِينَ",
+        "versesCount": 10
+    },
+    {
+        "id": 448,
+        "surahId": 48,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "48:1",
+        "verseRange": "1-10",
+        "firstWords": "إِنَّا فَتَحْنَا لَكَ",
+        "versesCount": 10
+    },
+    {
+        "id": 449,
+        "surahId": 48,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "48:11",
+        "verseRange": "11-17",
+        "firstWords": "سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ",
+        "versesCount": 7
+    },
+    {
+        "id": 450,
+        "surahId": 48,
+        "surahRukuNumber": 3,
+        "verseNumber": 18,
+        "verseKey": "48:18",
+        "verseRange": "18-26",
+        "firstWords": "۞ لَّقَدْ رَضِىَ",
+        "versesCount": 9
+    },
+    {
+        "id": 451,
+        "surahId": 48,
+        "surahRukuNumber": 4,
+        "verseNumber": 27,
+        "verseKey": "48:27",
+        "verseRange": "27-29",
+        "firstWords": "لَّقَدْ صَدَقَ ٱللَّهُ",
+        "versesCount": 3
+    },
+    {
+        "id": 452,
+        "surahId": 49,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "49:1",
+        "verseRange": "1-10",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 10
+    },
+    {
+        "id": 453,
+        "surahId": 49,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "49:11",
+        "verseRange": "11-18",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 8
+    },
+    {
+        "id": 454,
+        "surahId": 50,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "50:1",
+        "verseRange": "1-15",
+        "firstWords": "قٓ ۚ وَٱلْقُرْءَانِ",
+        "versesCount": 15
+    },
+    {
+        "id": 455,
+        "surahId": 50,
+        "surahRukuNumber": 2,
+        "verseNumber": 16,
+        "verseKey": "50:16",
+        "verseRange": "16-29",
+        "firstWords": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ",
+        "versesCount": 14
+    },
+    {
+        "id": 456,
+        "surahId": 50,
+        "surahRukuNumber": 3,
+        "verseNumber": 30,
+        "verseKey": "50:30",
+        "verseRange": "30-45",
+        "firstWords": "يَوْمَ نَقُولُ لِجَهَنَّمَ",
+        "versesCount": 16
+    },
+    {
+        "id": 457,
+        "surahId": 51,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "51:1",
+        "verseRange": "1-23",
+        "firstWords": "وَٱلذَّٰرِيَـٰتِ ذَرْوًا",
+        "versesCount": 23
+    },
+    {
+        "id": 458,
+        "surahId": 51,
+        "surahRukuNumber": 2,
+        "verseNumber": 24,
+        "verseKey": "51:24",
+        "verseRange": "24-46",
+        "firstWords": "هَلْ أَتَىٰكَ حَدِيثُ",
+        "versesCount": 23
+    },
+    {
+        "id": 459,
+        "surahId": 51,
+        "surahRukuNumber": 3,
+        "verseNumber": 47,
+        "verseKey": "51:47",
+        "verseRange": "47-60",
+        "firstWords": "وَٱلسَّمَآءَ بَنَيْنَـٰهَا بِأَيْي۟دٍ",
+        "versesCount": 14
+    },
+    {
+        "id": 460,
+        "surahId": 52,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "52:1",
+        "verseRange": "1-28",
+        "firstWords": "وَٱلطُّورِ",
+        "versesCount": 28
+    },
+    {
+        "id": 461,
+        "surahId": 52,
+        "surahRukuNumber": 2,
+        "verseNumber": 29,
+        "verseKey": "52:29",
+        "verseRange": "29-49",
+        "firstWords": "فَذَكِّرْ فَمَآ أَنتَ",
+        "versesCount": 21
+    },
+    {
+        "id": 462,
+        "surahId": 53,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "53:1",
+        "verseRange": "1-25",
+        "firstWords": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
+        "versesCount": 25
+    },
+    {
+        "id": 463,
+        "surahId": 53,
+        "surahRukuNumber": 2,
+        "verseNumber": 26,
+        "verseKey": "53:26",
+        "verseRange": "26-32",
+        "firstWords": "۞ وَكَم مِّن",
+        "versesCount": 7
+    },
+    {
+        "id": 464,
+        "surahId": 53,
+        "surahRukuNumber": 3,
+        "verseNumber": 33,
+        "verseKey": "53:33",
+        "verseRange": "33-62",
+        "firstWords": "أَفَرَءَيْتَ ٱلَّذِى تَوَلَّىٰ",
+        "versesCount": 30
+    },
+    {
+        "id": 465,
+        "surahId": 54,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "54:1",
+        "verseRange": "1-22",
+        "firstWords": "ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ",
+        "versesCount": 22
+    },
+    {
+        "id": 466,
+        "surahId": 54,
+        "surahRukuNumber": 2,
+        "verseNumber": 23,
+        "verseKey": "54:23",
+        "verseRange": "23-40",
+        "firstWords": "كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ",
+        "versesCount": 18
+    },
+    {
+        "id": 467,
+        "surahId": 54,
+        "surahRukuNumber": 3,
+        "verseNumber": 41,
+        "verseKey": "54:41",
+        "verseRange": "41-55",
+        "firstWords": "وَلَقَدْ جَآءَ ءَالَ",
+        "versesCount": 15
+    },
+    {
+        "id": 468,
+        "surahId": 55,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "55:1",
+        "verseRange": "1-25",
+        "firstWords": "ٱلرَّحْمَـٰنُ",
+        "versesCount": 25
+    },
+    {
+        "id": 469,
+        "surahId": 55,
+        "surahRukuNumber": 2,
+        "verseNumber": 26,
+        "verseKey": "55:26",
+        "verseRange": "26-45",
+        "firstWords": "كُلُّ مَنْ عَلَيْهَا",
+        "versesCount": 20
+    },
+    {
+        "id": 470,
+        "surahId": 55,
+        "surahRukuNumber": 3,
+        "verseNumber": 46,
+        "verseKey": "55:46",
+        "verseRange": "46-78",
+        "firstWords": "وَلِمَنْ خَافَ مَقَامَ",
+        "versesCount": 33
+    },
+    {
+        "id": 471,
+        "surahId": 56,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "56:1",
+        "verseRange": "1-38",
+        "firstWords": "إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+        "versesCount": 38
+    },
+    {
+        "id": 472,
+        "surahId": 56,
+        "surahRukuNumber": 2,
+        "verseNumber": 39,
+        "verseKey": "56:39",
+        "verseRange": "39-74",
+        "firstWords": "ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ",
+        "versesCount": 36
+    },
+    {
+        "id": 473,
+        "surahId": 56,
+        "surahRukuNumber": 3,
+        "verseNumber": 75,
+        "verseKey": "56:75",
+        "verseRange": "75-96",
+        "firstWords": "۞ فَلَآ أُقْسِمُ",
+        "versesCount": 22
+    },
+    {
+        "id": 474,
+        "surahId": 57,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "57:1",
+        "verseRange": "1-10",
+        "firstWords": "سَبَّحَ لِلَّهِ مَا",
+        "versesCount": 10
+    },
+    {
+        "id": 475,
+        "surahId": 57,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "57:11",
+        "verseRange": "11-19",
+        "firstWords": "مَّن ذَا ٱلَّذِى",
+        "versesCount": 9
+    },
+    {
+        "id": 476,
+        "surahId": 57,
+        "surahRukuNumber": 3,
+        "verseNumber": 20,
+        "verseKey": "57:20",
+        "verseRange": "20-25",
+        "firstWords": "ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ",
+        "versesCount": 6
+    },
+    {
+        "id": 477,
+        "surahId": 57,
+        "surahRukuNumber": 4,
+        "verseNumber": 26,
+        "verseKey": "57:26",
+        "verseRange": "26-29",
+        "firstWords": "وَلَقَدْ أَرْسَلْنَا نُوحًا",
+        "versesCount": 4
+    },
+    {
+        "id": 478,
+        "surahId": 58,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "58:1",
+        "verseRange": "1-6",
+        "firstWords": "قَدْ سَمِعَ ٱللَّهُ",
+        "versesCount": 6
+    },
+    {
+        "id": 479,
+        "surahId": 58,
+        "surahRukuNumber": 2,
+        "verseNumber": 7,
+        "verseKey": "58:7",
+        "verseRange": "7-13",
+        "firstWords": "أَلَمْ تَرَ أَنَّ",
+        "versesCount": 7
+    },
+    {
+        "id": 480,
+        "surahId": 58,
+        "surahRukuNumber": 3,
+        "verseNumber": 14,
+        "verseKey": "58:14",
+        "verseRange": "14-22",
+        "firstWords": "۞ أَلَمْ تَرَ",
+        "versesCount": 9
+    },
+    {
+        "id": 481,
+        "surahId": 59,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "59:1",
+        "verseRange": "1-10",
+        "firstWords": "سَبَّحَ لِلَّهِ مَا",
+        "versesCount": 10
+    },
+    {
+        "id": 482,
+        "surahId": 59,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "59:11",
+        "verseRange": "11-17",
+        "firstWords": "۞ أَلَمْ تَرَ",
+        "versesCount": 7
+    },
+    {
+        "id": 483,
+        "surahId": 59,
+        "surahRukuNumber": 3,
+        "verseNumber": 18,
+        "verseKey": "59:18",
+        "verseRange": "18-24",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 7
+    },
+    {
+        "id": 484,
+        "surahId": 60,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "60:1",
+        "verseRange": "1-6",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 6
+    },
+    {
+        "id": 485,
+        "surahId": 60,
+        "surahRukuNumber": 2,
+        "verseNumber": 7,
+        "verseKey": "60:7",
+        "verseRange": "7-13",
+        "firstWords": "۞ عَسَى ٱللَّهُ",
+        "versesCount": 7
+    },
+    {
+        "id": 486,
+        "surahId": 61,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "61:1",
+        "verseRange": "1-9",
+        "firstWords": "سَبَّحَ لِلَّهِ مَا",
+        "versesCount": 9
+    },
+    {
+        "id": 487,
+        "surahId": 61,
+        "surahRukuNumber": 2,
+        "verseNumber": 10,
+        "verseKey": "61:10",
+        "verseRange": "10-14",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 5
+    },
+    {
+        "id": 488,
+        "surahId": 62,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "62:1",
+        "verseRange": "1-8",
+        "firstWords": "يُسَبِّحُ لِلَّهِ مَا",
+        "versesCount": 8
+    },
+    {
+        "id": 489,
+        "surahId": 62,
+        "surahRukuNumber": 2,
+        "verseNumber": 9,
+        "verseKey": "62:9",
+        "verseRange": "9-11",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟",
+        "versesCount": 3
+    },
+    {
+        "id": 490,
+        "surahId": 63,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "63:1",
+        "verseRange": "1-8",
+        "firstWords": "إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ",
+        "versesCount": 8
+    },
+    {
+        "id": 491,
+        "surahId": 63,
+        "surahRukuNumber": 2,
+        "verseNumber": 9,
+        "verseKey": "63:9",
+        "verseRange": "9-11",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 3
+    },
+    {
+        "id": 492,
+        "surahId": 64,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "64:1",
+        "verseRange": "1-10",
+        "firstWords": "يُسَبِّحُ لِلَّهِ مَا",
+        "versesCount": 10
+    },
+    {
+        "id": 493,
+        "surahId": 64,
+        "surahRukuNumber": 2,
+        "verseNumber": 11,
+        "verseKey": "64:11",
+        "verseRange": "11-18",
+        "firstWords": "مَآ أَصَابَ مِن",
+        "versesCount": 8
+    },
+    {
+        "id": 494,
+        "surahId": 65,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "65:1",
+        "verseRange": "1-7",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا",
+        "versesCount": 7
+    },
+    {
+        "id": 495,
+        "surahId": 65,
+        "surahRukuNumber": 2,
+        "verseNumber": 8,
+        "verseKey": "65:8",
+        "verseRange": "8-12",
+        "firstWords": "وَكَأَيِّن مِّن قَرْيَةٍ",
+        "versesCount": 5
+    },
+    {
+        "id": 496,
+        "surahId": 66,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "66:1",
+        "verseRange": "1-7",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ",
+        "versesCount": 7
+    },
+    {
+        "id": 497,
+        "surahId": 66,
+        "surahRukuNumber": 2,
+        "verseNumber": 8,
+        "verseKey": "66:8",
+        "verseRange": "8-12",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟",
+        "versesCount": 5
+    },
+    {
+        "id": 498,
+        "surahId": 67,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "67:1",
+        "verseRange": "1-14",
+        "firstWords": "تَبَـٰرَكَ ٱلَّذِى بِيَدِهِ",
+        "versesCount": 14
+    },
+    {
+        "id": 499,
+        "surahId": 67,
+        "surahRukuNumber": 2,
+        "verseNumber": 15,
+        "verseKey": "67:15",
+        "verseRange": "15-30",
+        "firstWords": "هُوَ ٱلَّذِى جَعَلَ",
+        "versesCount": 16
+    },
+    {
+        "id": 500,
+        "surahId": 68,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "68:1",
+        "verseRange": "1-33",
+        "firstWords": "نٓ ۚ وَٱلْقَلَمِ",
+        "versesCount": 33
+    },
+    {
+        "id": 501,
+        "surahId": 68,
+        "surahRukuNumber": 2,
+        "verseNumber": 34,
+        "verseKey": "68:34",
+        "verseRange": "34-52",
+        "firstWords": "إِنَّ لِلْمُتَّقِينَ عِندَ",
+        "versesCount": 19
+    },
+    {
+        "id": 502,
+        "surahId": 69,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "69:1",
+        "verseRange": "1-37",
+        "firstWords": "ٱلْحَآقَّةُ",
+        "versesCount": 37
+    },
+    {
+        "id": 503,
+        "surahId": 69,
+        "surahRukuNumber": 2,
+        "verseNumber": 38,
+        "verseKey": "69:38",
+        "verseRange": "38-52",
+        "firstWords": "فَلَآ أُقْسِمُ بِمَا",
+        "versesCount": 15
+    },
+    {
+        "id": 504,
+        "surahId": 70,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "70:1",
+        "verseRange": "1-35",
+        "firstWords": "سَأَلَ سَآئِلٌۢ بِعَذَابٍ",
+        "versesCount": 35
+    },
+    {
+        "id": 505,
+        "surahId": 70,
+        "surahRukuNumber": 2,
+        "verseNumber": 36,
+        "verseKey": "70:36",
+        "verseRange": "36-44",
+        "firstWords": "فَمَالِ ٱلَّذِينَ كَفَرُوا۟",
+        "versesCount": 9
+    },
+    {
+        "id": 506,
+        "surahId": 71,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "71:1",
+        "verseRange": "1-20",
+        "firstWords": "إِنَّآ أَرْسَلْنَا نُوحًا",
+        "versesCount": 20
+    },
+    {
+        "id": 507,
+        "surahId": 71,
+        "surahRukuNumber": 2,
+        "verseNumber": 21,
+        "verseKey": "71:21",
+        "verseRange": "21-28",
+        "firstWords": "قَالَ نُوحٌ رَّبِّ",
+        "versesCount": 8
+    },
+    {
+        "id": 508,
+        "surahId": 72,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "72:1",
+        "verseRange": "1-19",
+        "firstWords": "قُلْ أُوحِىَ إِلَىَّ",
+        "versesCount": 19
+    },
+    {
+        "id": 509,
+        "surahId": 72,
+        "surahRukuNumber": 2,
+        "verseNumber": 20,
+        "verseKey": "72:20",
+        "verseRange": "20-28",
+        "firstWords": "قُلْ إِنَّمَآ أَدْعُوا۟",
+        "versesCount": 9
+    },
+    {
+        "id": 510,
+        "surahId": 73,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "73:1",
+        "verseRange": "1-19",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ",
+        "versesCount": 19
+    },
+    {
+        "id": 511,
+        "surahId": 73,
+        "surahRukuNumber": 2,
+        "verseNumber": 20,
+        "verseKey": "73:20",
+        "verseRange": "20-20",
+        "firstWords": "۞ إِنَّ رَبَّكَ",
+        "versesCount": 1
+    },
+    {
+        "id": 512,
+        "surahId": 74,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "74:1",
+        "verseRange": "1-31",
+        "firstWords": "يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ",
+        "versesCount": 31
+    },
+    {
+        "id": 513,
+        "surahId": 74,
+        "surahRukuNumber": 2,
+        "verseNumber": 32,
+        "verseKey": "74:32",
+        "verseRange": "32-56",
+        "firstWords": "كَلَّا وَٱلْقَمَرِ",
+        "versesCount": 25
+    },
+    {
+        "id": 514,
+        "surahId": 75,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "75:1",
+        "verseRange": "1-30",
+        "firstWords": "لَآ أُقْسِمُ بِيَوْمِ",
+        "versesCount": 30
+    },
+    {
+        "id": 515,
+        "surahId": 75,
+        "surahRukuNumber": 2,
+        "verseNumber": 31,
+        "verseKey": "75:31",
+        "verseRange": "31-40",
+        "firstWords": "فَلَا صَدَّقَ وَلَا",
+        "versesCount": 10
+    },
+    {
+        "id": 516,
+        "surahId": 76,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "76:1",
+        "verseRange": "1-22",
+        "firstWords": "هَلْ أَتَىٰ عَلَى",
+        "versesCount": 22
+    },
+    {
+        "id": 517,
+        "surahId": 76,
+        "surahRukuNumber": 2,
+        "verseNumber": 23,
+        "verseKey": "76:23",
+        "verseRange": "23-31",
+        "firstWords": "إِنَّا نَحْنُ نَزَّلْنَا",
+        "versesCount": 9
+    },
+    {
+        "id": 518,
+        "surahId": 77,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "77:1",
+        "verseRange": "1-40",
+        "firstWords": "وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+        "versesCount": 40
+    },
+    {
+        "id": 519,
+        "surahId": 77,
+        "surahRukuNumber": 2,
+        "verseNumber": 41,
+        "verseKey": "77:41",
+        "verseRange": "41-50",
+        "firstWords": "إِنَّ ٱلْمُتَّقِينَ فِى",
+        "versesCount": 10
+    },
+    {
+        "id": 520,
+        "surahId": 78,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "78:1",
+        "verseRange": "1-30",
+        "firstWords": "عَمَّ يَتَسَآءَلُونَ",
+        "versesCount": 30
+    },
+    {
+        "id": 521,
+        "surahId": 78,
+        "surahRukuNumber": 2,
+        "verseNumber": 31,
+        "verseKey": "78:31",
+        "verseRange": "31-40",
+        "firstWords": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+        "versesCount": 10
+    },
+    {
+        "id": 522,
+        "surahId": 79,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "79:1",
+        "verseRange": "1-26",
+        "firstWords": "وَٱلنَّـٰزِعَـٰتِ غَرْقًا",
+        "versesCount": 26
+    },
+    {
+        "id": 523,
+        "surahId": 79,
+        "surahRukuNumber": 2,
+        "verseNumber": 27,
+        "verseKey": "79:27",
+        "verseRange": "27-46",
+        "firstWords": "ءَأَنتُمْ أَشَدُّ خَلْقًا",
+        "versesCount": 20
+    },
+    {
+        "id": 524,
+        "surahId": 80,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "80:1",
+        "verseRange": "1-42",
+        "firstWords": "عَبَسَ وَتَوَلَّىٰٓ",
+        "versesCount": 42
+    },
+    {
+        "id": 525,
+        "surahId": 81,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "81:1",
+        "verseRange": "1-29",
+        "firstWords": "إِذَا ٱلشَّمْسُ كُوِّرَتْ",
+        "versesCount": 29
+    },
+    {
+        "id": 526,
+        "surahId": 82,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "82:1",
+        "verseRange": "1-19",
+        "firstWords": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+        "versesCount": 19
+    },
+    {
+        "id": 527,
+        "surahId": 83,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "83:1",
+        "verseRange": "1-36",
+        "firstWords": "وَيْلٌ لِّلْمُطَفِّفِينَ",
+        "versesCount": 36
+    },
+    {
+        "id": 528,
+        "surahId": 84,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "84:1",
+        "verseRange": "1-25",
+        "firstWords": "إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ",
+        "versesCount": 25
+    },
+    {
+        "id": 529,
+        "surahId": 85,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "85:1",
+        "verseRange": "1-22",
+        "firstWords": "وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+        "versesCount": 22
+    },
+    {
+        "id": 530,
+        "surahId": 86,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "86:1",
+        "verseRange": "1-17",
+        "firstWords": "وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+        "versesCount": 17
+    },
+    {
+        "id": 531,
+        "surahId": 87,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "87:1",
+        "verseRange": "1-19",
+        "firstWords": "سَبِّحِ ٱسْمَ رَبِّكَ",
+        "versesCount": 19
+    },
+    {
+        "id": 532,
+        "surahId": 88,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "88:1",
+        "verseRange": "1-26",
+        "firstWords": "هَلْ أَتَىٰكَ حَدِيثُ",
+        "versesCount": 26
+    },
+    {
+        "id": 533,
+        "surahId": 89,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "89:1",
+        "verseRange": "1-30",
+        "firstWords": "وَٱلْفَجْرِ",
+        "versesCount": 30
+    },
+    {
+        "id": 534,
+        "surahId": 90,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "90:1",
+        "verseRange": "1-20",
+        "firstWords": "لَآ أُقْسِمُ بِهَـٰذَا",
+        "versesCount": 20
+    },
+    {
+        "id": 535,
+        "surahId": 91,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "91:1",
+        "verseRange": "1-15",
+        "firstWords": "وَٱلشَّمْسِ وَضُحَىٰهَا",
+        "versesCount": 15
+    },
+    {
+        "id": 536,
+        "surahId": 92,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "92:1",
+        "verseRange": "1-21",
+        "firstWords": "وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+        "versesCount": 21
+    },
+    {
+        "id": 537,
+        "surahId": 93,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "93:1",
+        "verseRange": "1-11",
+        "firstWords": "وَٱلضُّحَىٰ",
+        "versesCount": 11
+    },
+    {
+        "id": 538,
+        "surahId": 94,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "94:1",
+        "verseRange": "1-8",
+        "firstWords": "أَلَمْ نَشْرَحْ لَكَ",
+        "versesCount": 8
+    },
+    {
+        "id": 539,
+        "surahId": 95,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "95:1",
+        "verseRange": "1-8",
+        "firstWords": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+        "versesCount": 8
+    },
+    {
+        "id": 540,
+        "surahId": 96,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "96:1",
+        "verseRange": "1-19",
+        "firstWords": "ٱقْرَأْ بِٱسْمِ رَبِّكَ",
+        "versesCount": 19
+    },
+    {
+        "id": 541,
+        "surahId": 97,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "97:1",
+        "verseRange": "1-5",
+        "firstWords": "إِنَّآ أَنزَلْنَـٰهُ فِى",
+        "versesCount": 5
+    },
+    {
+        "id": 542,
+        "surahId": 98,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "98:1",
+        "verseRange": "1-8",
+        "firstWords": "لَمْ يَكُنِ ٱلَّذِينَ",
+        "versesCount": 8
+    },
+    {
+        "id": 543,
+        "surahId": 99,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "99:1",
+        "verseRange": "1-8",
+        "firstWords": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ",
+        "versesCount": 8
+    },
+    {
+        "id": 544,
+        "surahId": 100,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "100:1",
+        "verseRange": "1-11",
+        "firstWords": "وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+        "versesCount": 11
+    },
+    {
+        "id": 545,
+        "surahId": 101,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "101:1",
+        "verseRange": "1-11",
+        "firstWords": "ٱلْقَارِعَةُ",
+        "versesCount": 11
+    },
+    {
+        "id": 546,
+        "surahId": 102,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "102:1",
+        "verseRange": "1-8",
+        "firstWords": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+        "versesCount": 8
+    },
+    {
+        "id": 547,
+        "surahId": 103,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "103:1",
+        "verseRange": "1-3",
+        "firstWords": "وَٱلْعَصْرِ",
+        "versesCount": 3
+    },
+    {
+        "id": 548,
+        "surahId": 104,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "104:1",
+        "verseRange": "1-9",
+        "firstWords": "وَيْلٌ لِّكُلِّ هُمَزَةٍ",
+        "versesCount": 9
+    },
+    {
+        "id": 549,
+        "surahId": 105,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "105:1",
+        "verseRange": "1-5",
+        "firstWords": "أَلَمْ تَرَ كَيْفَ",
+        "versesCount": 5
+    },
+    {
+        "id": 550,
+        "surahId": 106,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "106:1",
+        "verseRange": "1-4",
+        "firstWords": "لِإِيلَـٰفِ قُرَيْشٍ",
+        "versesCount": 4
+    },
+    {
+        "id": 551,
+        "surahId": 107,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "107:1",
+        "verseRange": "1-7",
+        "firstWords": "أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ",
+        "versesCount": 7
+    },
+    {
+        "id": 552,
+        "surahId": 108,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "108:1",
+        "verseRange": "1-3",
+        "firstWords": "إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+        "versesCount": 3
+    },
+    {
+        "id": 553,
+        "surahId": 109,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "109:1",
+        "verseRange": "1-6",
+        "firstWords": "قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+        "versesCount": 6
+    },
+    {
+        "id": 554,
+        "surahId": 110,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "110:1",
+        "verseRange": "1-3",
+        "firstWords": "إِذَا جَآءَ نَصْرُ",
+        "versesCount": 3
+    },
+    {
+        "id": 555,
+        "surahId": 111,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "111:1",
+        "verseRange": "1-5",
+        "firstWords": "تَبَّتْ يَدَآ أَبِى",
+        "versesCount": 5
+    },
+    {
+        "id": 556,
+        "surahId": 112,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "112:1",
+        "verseRange": "1-4",
+        "firstWords": "قُلْ هُوَ ٱللَّهُ",
+        "versesCount": 4
+    },
+    {
+        "id": 557,
+        "surahId": 113,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "113:1",
+        "verseRange": "1-5",
+        "firstWords": "قُلْ أَعُوذُ بِرَبِّ",
+        "versesCount": 5
+    },
+    {
+        "id": 558,
+        "surahId": 114,
+        "surahRukuNumber": 1,
+        "verseNumber": 1,
+        "verseKey": "114:1",
+        "verseRange": "1-6",
+        "firstWords": "قُلْ أَعُوذُ بِرَبِّ",
+        "versesCount": 6
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "verseKey": "7:206",
+        "surahId": 7,
+        "verseNumber": 206,
+        "startPage": 176,
+        "firstWords": "إِنَّ الَّذِينَ عِنْدَ رَبِّكَ",
+        "type": "recommended"
+    },
+    {
+        "id": 2,
+        "verseKey": "13:15",
+        "surahId": 13,
+        "verseNumber": 15,
+        "startPage": 251,
+        "firstWords": "وَلِلَّهِ يَسْجُدُ مَنْ",
+        "type": "recommended"
+    },
+    {
+        "id": 3,
+        "verseKey": "16:50",
+        "surahId": 16,
+        "verseNumber": 50,
+        "startPage": 272,
+        "firstWords": "يَخَافُونَ رَبَّهُمْ",
+        "type": "recommended"
+    },
+    {
+        "id": 4,
+        "verseKey": "17:109",
+        "surahId": 17,
+        "verseNumber": 109,
+        "startPage": 293,
+        "firstWords": "وَيَخِرُّونَ لِلْأَذْقَانِ",
+        "type": "recommended"
+    },
+    {
+        "id": 5,
+        "verseKey": "19:58",
+        "surahId": 19,
+        "verseNumber": 58,
+        "startPage": 309,
+        "firstWords": "أُولَٰئِكَ الَّذِينَ أَنْعَمَ",
+        "type": "recommended"
+    },
+    {
+        "id": 6,
+        "verseKey": "22:18",
+        "surahId": 22,
+        "verseNumber": 18,
+        "startPage": 334,
+        "firstWords": "أَلَمْ تَرَ أَنَّ اللَّهَ",
+        "type": "recommended"
+    },
+    {
+        "id": 7,
+        "verseKey": "22:77",
+        "surahId": 22,
+        "verseNumber": 77,
+        "startPage": 341,
+        "firstWords": "يَا أَيُّهَا الَّذِينَ آمَنُوا",
+        "type": "recommended"
+    },
+    {
+        "id": 8,
+        "verseKey": "25:60",
+        "surahId": 25,
+        "verseNumber": 60,
+        "startPage": 365,
+        "firstWords": "وَإِذَا قِيلَ لَهُمُ",
+        "type": "recommended"
+    },
+    {
+        "id": 9,
+        "verseKey": "27:26",
+        "surahId": 27,
+        "verseNumber": 26,
+        "startPage": 379,
+        "firstWords": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ",
+        "type": "recommended"
+    },
+    {
+        "id": 10,
+        "verseKey": "32:15",
+        "surahId": 32,
+        "verseNumber": 15,
+        "startPage": 416,
+        "firstWords": "إِنَّمَا يُؤْمِنُ بِآيَاتِنَا",
+        "type": "obligatory"
+    },
+    {
+        "id": 11,
+        "verseKey": "38:24",
+        "surahId": 38,
+        "verseNumber": 24,
+        "startPage": 454,
+        "firstWords": "وَظَنَّ دَاوُودُ أَنَّمَا",
+        "type": "recommended"
+    },
+    {
+        "id": 12,
+        "verseKey": "41:38",
+        "surahId": 41,
+        "verseNumber": 38,
+        "startPage": 480,
+        "firstWords": "فَإِنِ اسْتَكْبَرُوا",
+        "type": "obligatory"
+    },
+    {
+        "id": 13,
+        "verseKey": "53:62",
+        "surahId": 53,
+        "verseNumber": 62,
+        "startPage": 528,
+        "firstWords": "فَاسْجُدُوا لِلَّهِ",
+        "type": "obligatory"
+    },
+    {
+        "id": 14,
+        "verseKey": "84:21",
+        "surahId": 84,
+        "verseNumber": 21,
+        "startPage": 589,
+        "firstWords": "وَإِذَا قُرِئَ عَلَيْهِمُ",
+        "type": "recommended"
+    },
+    {
+        "id": 15,
+        "verseKey": "96:19",
+        "surahId": 96,
+        "verseNumber": 19,
+        "startPage": 597,
+        "firstWords": "كَلَّا لَا تُطِعْهُ",
+        "type": "obligatory"
+    }
+]

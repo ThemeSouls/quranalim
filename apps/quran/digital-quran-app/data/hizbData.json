@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "name": "Alif Lam Meem",
+        "arabicName": "الم",
+        "surahId": 1,
+        "firstVerse": 1,
+        "startPage": 1
+    },
+    {
+        "id": 2,
+        "name": "Atat'ma'oona",
+        "arabicName": "أَتَطْمَعُونَ",
+        "surahId": 2,
+        "firstVerse": 75,
+        "startPage": 11
+    },
+    {
+        "id": 3,
+        "name": "Sayaqool",
+        "arabicName": "سَيَقُولُ",
+        "surahId": 2,
+        "firstVerse": 142,
+        "startPage": 22
+    },
+    {
+        "id": 4,
+        "name": "Wazkuroollah",
+        "arabicName": "وَاذْكُرُوا اللَّهَ",
+        "surahId": 2,
+        "firstVerse": 203,
+        "startPage": 32
+    },
+    {
+        "id": 5,
+        "name": "Tilka 'r-Rusul",
+        "arabicName": "تِلْكَ الرُّسُلُ",
+        "surahId": 2,
+        "firstVerse": 253,
+        "startPage": 42
+    },
+    {
+        "id": 6,
+        "name": "Qul A'unabbi'ukum",
+        "arabicName": "قُلْ أَؤُنَبِّئُكُمْ",
+        "surahId": 3,
+        "firstVerse": 15,
+        "startPage": 51
+    },
+    {
+        "id": 7,
+        "name": "Lan Tanalu",
+        "arabicName": "لَنْ تَنَالُوا",
+        "surahId": 3,
+        "firstVerse": 93,
+        "startPage": 62
+    },
+    {
+        "id": 8,
+        "name": "Yastabshiroona",
+        "arabicName": "يَسْتَبْشِرُونَ",
+        "surahId": 3,
+        "firstVerse": 171,
+        "startPage": 72
+    },
+    {
+        "id": 9,
+        "name": "Wal Muhsanat",
+        "arabicName": "وَالْمُحْصَنَاتُ",
+        "surahId": 4,
+        "firstVerse": 24,
+        "startPage": 82
+    },
+    {
+        "id": 10,
+        "name": "Fama Lakum",
+        "arabicName": "فَمَا لَكُمْ",
+        "surahId": 4,
+        "firstVerse": 88,
+        "startPage": 92
+    },
+    {
+        "id": 11,
+        "name": "La Yuhibbu-llah",
+        "arabicName": "لَا يُحِبُّ اللَّهُ",
+        "surahId": 4,
+        "firstVerse": 148,
+        "startPage": 102
+    },
+    {
+        "id": 12,
+        "name": "Watlu Alaihim",
+        "arabicName": "وَاتْلُ عَلَيْهِمْ",
+        "surahId": 5,
+        "firstVerse": 27,
+        "startPage": 112
+    },
+    {
+        "id": 13,
+        "name": "Wa Iza Sami'u",
+        "arabicName": "وَإِذَا سَمِعُوا",
+        "surahId": 5,
+        "firstVerse": 82,
+        "startPage": 121
+    },
+    {
+        "id": 14,
+        "name": "Innama Yastajeeb",
+        "arabicName": "إِنَّمَا يَسْتَجِيبُ",
+        "surahId": 6,
+        "firstVerse": 36,
+        "startPage": 132
+    },
+    {
+        "id": 15,
+        "name": "Wa Law Annana",
+        "arabicName": "وَلَوْ أَنَّنَا",
+        "surahId": 6,
+        "firstVerse": 111,
+        "startPage": 142
+    },
+    {
+        "id": 16,
+        "name": "Alif Lam Meem Sad",
+        "arabicName": "المص",
+        "surahId": 7,
+        "firstVerse": 1,
+        "startPage": 151
+    },
+    {
+        "id": 17,
+        "name": "Qal Al-Mala'u",
+        "arabicName": "قَالَ الْمَلَأُ",
+        "surahId": 7,
+        "firstVerse": 88,
+        "startPage": 162
+    },
+    {
+        "id": 18,
+        "name": "Wa Iz Nataqna",
+        "arabicName": "وَإِذْ نَتَقْنَا",
+        "surahId": 7,
+        "firstVerse": 171,
+        "startPage": 173
+    },
+    {
+        "id": 19,
+        "name": "Wa'lamu",
+        "arabicName": "وَاعْلَمُوا",
+        "surahId": 8,
+        "firstVerse": 41,
+        "startPage": 182
+    },
+    {
+        "id": 20,
+        "name": "Ya Ayyuhallazina Amanu",
+        "arabicName": "يَا أَيُّهَا الَّذِينَ آمَنُوا",
+        "surahId": 9,
+        "firstVerse": 34,
+        "startPage": 192
+    },
+    {
+        "id": 21,
+        "name": "Ya'taziroon",
+        "arabicName": "يَعْتَذِرُونَ",
+        "surahId": 9,
+        "firstVerse": 93,
+        "startPage": 201
+    },
+    {
+        "id": 22,
+        "name": "Lillazina Ahsanu",
+        "arabicName": "لِلَّذِينَ أَحْسَنُوا",
+        "surahId": 10,
+        "firstVerse": 26,
+        "startPage": 212
+    },
+    {
+        "id": 23,
+        "name": "Wa Ma Min Dabbah",
+        "arabicName": "وَمَا مِنْ دَابَّةٍ",
+        "surahId": 11,
+        "firstVerse": 6,
+        "startPage": 222
+    },
+    {
+        "id": 24,
+        "name": "Wa Ila Madyana",
+        "arabicName": "وَإِلَى مَدْيَنَ",
+        "surahId": 11,
+        "firstVerse": 84,
+        "startPage": 231
+    },
+    {
+        "id": 25,
+        "name": "Wa Ma Ubarri'u",
+        "arabicName": "وَمَا أُبَرِّئُ",
+        "surahId": 12,
+        "firstVerse": 53,
+        "startPage": 242
+    },
+    {
+        "id": 26,
+        "name": "Afaman Ya'lamu",
+        "arabicName": "أَفَمَنْ يَعْلَمُ",
+        "surahId": 13,
+        "firstVerse": 19,
+        "startPage": 252
+    },
+    {
+        "id": 27,
+        "name": "Rubama",
+        "arabicName": "رُبَمَا",
+        "surahId": 15,
+        "firstVerse": 1,
+        "startPage": 262
+    },
+    {
+        "id": 28,
+        "name": "Wa Qalallah",
+        "arabicName": "وَقَالَ اللَّهُ",
+        "surahId": 16,
+        "firstVerse": 51,
+        "startPage": 272
+    },
+    {
+        "id": 29,
+        "name": "Subhanallazi",
+        "arabicName": "سُبْحَانَ الَّذِي",
+        "surahId": 17,
+        "firstVerse": 1,
+        "startPage": 282
+    },
+    {
+        "id": 30,
+        "name": "Awalam Yaraw",
+        "arabicName": "أَوَلَمْ يَرَوْا",
+        "surahId": 17,
+        "firstVerse": 99,
+        "startPage": 292
+    },
+    {
+        "id": 31,
+        "name": "Qala Alam",
+        "arabicName": "قَالَ أَلَمْ",
+        "surahId": 18,
+        "firstVerse": 75,
+        "startPage": 302
+    },
+    {
+        "id": 32,
+        "name": "Taha",
+        "arabicName": "طه",
+        "surahId": 20,
+        "firstVerse": 1,
+        "startPage": 312
+    },
+    {
+        "id": 33,
+        "name": "Iqtaraba",
+        "arabicName": "اقْتَرَبَ",
+        "surahId": 21,
+        "firstVerse": 1,
+        "startPage": 322
+    },
+    {
+        "id": 34,
+        "name": "Ya Ayyuhan-Nas",
+        "arabicName": "يَا أَيُّهَا النَّاسُ",
+        "surahId": 22,
+        "firstVerse": 1,
+        "startPage": 332
+    },
+    {
+        "id": 35,
+        "name": "Qad Aflaha",
+        "arabicName": "قَدْ أَفْلَحَ",
+        "surahId": 23,
+        "firstVerse": 1,
+        "startPage": 342
+    },
+    {
+        "id": 36,
+        "name": "Wa Laqad Anzalna",
+        "arabicName": "وَلَقَدْ أَنْزَلْنَا",
+        "surahId": 24,
+        "firstVerse": 21,
+        "startPage": 352
+    },
+    {
+        "id": 37,
+        "name": "Wa Qalallazina",
+        "arabicName": "وَقَالَ الَّذِينَ",
+        "surahId": 25,
+        "firstVerse": 21,
+        "startPage": 362
+    },
+    {
+        "id": 38,
+        "name": "Qalu Anuminu Laka",
+        "arabicName": "قَالُوا أَنُؤْمِنُ لَكَ",
+        "surahId": 26,
+        "firstVerse": 111,
+        "startPage": 371
+    },
+    {
+        "id": 39,
+        "name": "A'man Khalaq",
+        "arabicName": "أَمَّنْ خَلَقَ",
+        "surahId": 27,
+        "firstVerse": 56,
+        "startPage": 382
+    },
+    {
+        "id": 40,
+        "name": "Wa Laqad Wassalna",
+        "arabicName": "وَلَقَدْ وَصَّلْنَا",
+        "surahId": 28,
+        "firstVerse": 51,
+        "startPage": 392
+    },
+    {
+        "id": 41,
+        "name": "Utlu Ma Oohiya",
+        "arabicName": "اتْلُ مَا أُوحِيَ",
+        "surahId": 29,
+        "firstVerse": 46,
+        "startPage": 402
+    },
+    {
+        "id": 42,
+        "name": "Wa Man Yuslim",
+        "arabicName": "وَمَنْ يُسْلِمْ",
+        "surahId": 31,
+        "firstVerse": 22,
+        "startPage": 413
+    },
+    {
+        "id": 43,
+        "name": "Wa Man Yaqnut",
+        "arabicName": "وَمَنْ يَقْنُتْ",
+        "surahId": 33,
+        "firstVerse": 31,
+        "startPage": 422
+    },
+    {
+        "id": 44,
+        "name": "Qul Man Yarzuqukum",
+        "arabicName": "قُلْ مَنْ يَرْزُقُكُمْ",
+        "surahId": 34,
+        "firstVerse": 24,
+        "startPage": 431
+    },
+    {
+        "id": 45,
+        "name": "Wa Maliya",
+        "arabicName": "وَمَا لِيَ",
+        "surahId": 36,
+        "firstVerse": 28,
+        "startPage": 442
+    },
+    {
+        "id": 46,
+        "name": "Fanabaznahu",
+        "arabicName": "فَنَبَذْنَاهُ",
+        "surahId": 37,
+        "firstVerse": 145,
+        "startPage": 451
+    },
+    {
+        "id": 47,
+        "name": "Faman Azlam",
+        "arabicName": "فَمَنْ أَظْلَمُ",
+        "surahId": 39,
+        "firstVerse": 32,
+        "startPage": 462
+    },
+    {
+        "id": 48,
+        "name": "Wa Ya Qawmi",
+        "arabicName": "وَيَا قَوْمِ",
+        "surahId": 40,
+        "firstVerse": 41,
+        "startPage": 472
+    },
+    {
+        "id": 49,
+        "name": "Ilaihi Yurad",
+        "arabicName": "إِلَيْهِ يُرَدُّ",
+        "surahId": 41,
+        "firstVerse": 47,
+        "startPage": 482
+    },
+    {
+        "id": 50,
+        "name": "Qala Awalaw Jitukum",
+        "arabicName": "قَالَ أَوَلَوْ جِئْتُكُمْ",
+        "surahId": 43,
+        "firstVerse": 24,
+        "startPage": 491
+    },
+    {
+        "id": 51,
+        "name": "Ha Meem",
+        "arabicName": "حم",
+        "surahId": 46,
+        "firstVerse": 1,
+        "startPage": 502
+    },
+    {
+        "id": 52,
+        "name": "Laqad Radiyallah",
+        "arabicName": "لَقَدْ رَضِيَ اللَّهُ",
+        "surahId": 48,
+        "firstVerse": 18,
+        "startPage": 513
+    },
+    {
+        "id": 53,
+        "name": "Qala Fama Khatbukum",
+        "arabicName": "قَالَ فَمَا خَطْبُكُمْ",
+        "surahId": 51,
+        "firstVerse": 31,
+        "startPage": 522
+    },
+    {
+        "id": 54,
+        "name": "Ar-Rahman",
+        "arabicName": "الرَّحْمَنُ",
+        "surahId": 55,
+        "firstVerse": 1,
+        "startPage": 531
+    },
+    {
+        "id": 55,
+        "name": "Qad Sami'allah",
+        "arabicName": "قَدْ سَمِعَ اللَّهُ",
+        "surahId": 58,
+        "firstVerse": 1,
+        "startPage": 542
+    },
+    {
+        "id": 56,
+        "name": "Yusabbihu Lillahi",
+        "arabicName": "يُسَبِّحُ لِلَّهِ",
+        "surahId": 62,
+        "firstVerse": 1,
+        "startPage": 553
+    },
+    {
+        "id": 57,
+        "name": "Tabarakallazi",
+        "arabicName": "تَبَارَكَ الَّذِي",
+        "surahId": 67,
+        "firstVerse": 1,
+        "startPage": 562
+    },
+    {
+        "id": 58,
+        "name": "Qul Oohiya Ilayya",
+        "arabicName": "قُلْ أُوحِيَ إِلَيَّ",
+        "surahId": 72,
+        "firstVerse": 1,
+        "startPage": 572
+    },
+    {
+        "id": 59,
+        "name": "Amma Yatasa'aloon",
+        "arabicName": "عَمَّ يَتَسَاءَلُونَ",
+        "surahId": 78,
+        "firstVerse": 1,
+        "startPage": 582
+    },
+    {
+        "id": 60,
+        "name": "Sabbi hisma Rabbikal A'la",
+        "arabicName": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+        "surahId": 87,
+        "firstVerse": 1,
+        "startPage": 591
+    }
+]
