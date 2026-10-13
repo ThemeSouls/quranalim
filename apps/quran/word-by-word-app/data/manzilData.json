@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Al-Fatihah - An-Nisa",
+        "arabicName": "الفاتحة - النساء",
+        "surahId": 1,
+        "firstVerse": 1,
+        "startPage": 1,
+        "surahRange": "Surah 1 - 4"
+    },
+    {
+        "id": 2,
+        "name": "Al-Ma'idah - At-Tawbah",
+        "arabicName": "المائدة - التوبة",
+        "surahId": 5,
+        "firstVerse": 1,
+        "startPage": 106,
+        "surahRange": "Surah 5 - 9"
+    },
+    {
+        "id": 3,
+        "name": "Yunus - An-Nahl",
+        "arabicName": "يونس - النحل",
+        "surahId": 10,
+        "firstVerse": 1,
+        "startPage": 208,
+        "surahRange": "Surah 10 - 16"
+    },
+    {
+        "id": 4,
+        "name": "Al-Isra - Al-Furqan",
+        "arabicName": "الإسراء - الفرقان",
+        "surahId": 17,
+        "firstVerse": 1,
+        "startPage": 282,
+        "surahRange": "Surah 17 - 25"
+    },
+    {
+        "id": 5,
+        "name": "Ash-Shu'ara - Ya-Sin",
+        "arabicName": "الشعراء - يس",
+        "surahId": 26,
+        "firstVerse": 1,
+        "startPage": 367,
+        "surahRange": "Surah 26 - 36"
+    },
+    {
+        "id": 6,
+        "name": "As-Saffat - Al-Hujurat",
+        "arabicName": "الصافات - الحجرات",
+        "surahId": 37,
+        "firstVerse": 1,
+        "startPage": 446,
+        "surahRange": "Surah 37 - 49"
+    },
+    {
+        "id": 7,
+        "name": "Qaf - An-Nas",
+        "arabicName": "ق - الناس",
+        "surahId": 50,
+        "firstVerse": 1,
+        "startPage": 518,
+        "surahRange": "Surah 50 - 114"
+    }
+]
