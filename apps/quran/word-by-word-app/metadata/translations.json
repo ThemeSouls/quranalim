@@ -9,7 +9,7 @@
     "language": "Albanian",
     "code": "sqi",
     "direction": "LTR",
-    "url": "translation_albanian.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_albanian.json.br"
   },
   {
     "id": "BEN-1",
@@ -21,7 +21,7 @@
     "language": "Bengali",
     "code": "ben",
     "direction": "LTR",
-    "url": "translation_bangla.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_bangla.json.br"
   },
   {
     "id": "ZHO-1",
@@ -33,7 +33,7 @@
     "language": "Chinese (Mandarin)",
     "code": "zho",
     "direction": "LTR",
-    "url": "translation_chinese_pinyin.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_chinese_pinyin.json.br"
   },
   {
     "id": "ZHO-2",
@@ -45,7 +45,7 @@
     "language": "Chinese (Simplified)",
     "code": "zho",
     "direction": "LTR",
-    "url": "translation_chinese_simplified.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_chinese_simplified.json.br"
   },
   {
     "id": "ZHO-3",
@@ -57,7 +57,7 @@
     "language": "Chinese (Traditional)",
     "code": "zho",
     "direction": "LTR",
-    "url": "translation_chinese_traditional.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_chinese_traditional.json.br"
   },
   {
     "id": "ZHO-4",
@@ -69,7 +69,7 @@
     "language": "Chinese (Zhuyin)",
     "code": "zho",
     "direction": "LTR",
-    "url": "translation_chinese_zhuyin.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_chinese_zhuyin.json.br"
   },
   {
     "id": "DIV-1",
@@ -81,7 +81,7 @@
     "language": "Dhivehi",
     "code": "div",
     "direction": "RTL",
-    "url": "translation_divehi.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_divehi.json.br"
   },
 
   {
@@ -94,7 +94,7 @@
     "language": "English",
     "code": "eng",
     "direction": "LTR",
-    "url": "translation_english.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_english.json.br"
   },
   {
     "id": "FRA-1",
@@ -106,7 +106,7 @@
     "language": "French",
     "code": "fra",
     "direction": "LTR",
-    "url": "translation_french.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_french.json.br"
   },
   {
     "id": "DEU-1",
@@ -118,7 +118,7 @@
     "language": "German",
     "code": "deu",
     "direction": "LTR",
-    "url": "translation_german.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_german.json.br"
   },
   {
     "id": "HIN-1",
@@ -130,7 +130,7 @@
     "language": "Hindi",
     "code": "hin",
     "direction": "LTR",
-    "url": "translation_hindi.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_hindi.json.br"
   },
   {
     "id": "IND-1",
@@ -142,7 +142,7 @@
     "language": "Indonesian",
     "code": "ind",
     "direction": "LTR",
-    "url": "translation_indonesian.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_indonesian.json.br"
   },
   {
     "id": "MAL-1",
@@ -154,7 +154,7 @@
     "language": "Malayalam",
     "code": "mal",
     "direction": "LTR",
-    "url": "translation_malayalam_quran_lalithasaram.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_malayalam.json.br"
   },
   {
     "id": "FAS-1",
@@ -166,7 +166,7 @@
     "language": "Persian",
     "code": "fas",
     "direction": "RTL",
-    "url": "translation_persian.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_persian.json.br"
   },
   {
     "id": "SND-1",
@@ -178,7 +178,7 @@
     "language": "Sindhi",
     "code": "snd",
     "direction": "RTL",
-    "url": "translation_sindhi.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_sindhi.json.br"
   },
   {
     "id": "TAM-1",
@@ -190,7 +190,7 @@
     "language": "Tamil",
     "code": "tam",
     "direction": "LTR",
-    "url": "translation_tamil.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_tamil.json.br"
   },
   {
     "id": "TUR-1",
@@ -202,7 +202,7 @@
     "language": "Turkish",
     "code": "tur",
     "direction": "LTR",
-    "url": "translation_turkish.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_turkish.json.br"
   },
   {
     "id": "URD-1",
@@ -214,6 +214,6 @@
     "language": "Urdu",
     "code": "urd",
     "direction": "RTL",
-    "url": "translation_urdu.json"
+    "url": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/word-by-word-app/translations/translation_urdu.json.br"
   }
 ]
