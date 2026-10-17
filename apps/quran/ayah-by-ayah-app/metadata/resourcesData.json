@@ -1,0 +1,162 @@
+{
+  "baseUrl": "https://cdn.jsdelivr.net/gh/ThemeSouls/quranalim@main/apps/quran/digital-quran-app",
+  "fallbackUrl": "https://raw.githubusercontent.com/ThemeSouls/quranalim/main/apps/quran/digital-quran-app",
+  "data": [
+    {
+      "id": "uthmani-digital-madina",
+      "title": "Uthmani Digital Madina",
+      "riwayah": "Hafs",
+      "dataFileName": "hafs_uthmani_digital.json.br",
+      "dataJsonBr": "/hafs_uthmani_digital.json.br",
+      "fonts": [
+        {
+          "id": "uthmani-madina",
+          "name": "Uthmani Madina",
+          "file": "hafs_uthmani_madina.woff2",
+          "url": "/hafs_uthmani_madina.woff2",
+          "fontFamily": "'Uthmani Madina'",
+          "fontClass": "font-uthmani-madina",
+          "taawwuz": "أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ",
+          "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+          "sample": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ"
+        },
+        {
+          "id": "uthmani-digital",
+          "name": "Uthmani Digital",
+          "file": "hafs_uthmani_digital.woff2",
+          "url": "/hafs_uthmani_digital.woff2",
+          "fontFamily": "'Uthmani Digital'",
+          "fontClass": "font-uthmani-digital",
+          "taawwuz": "أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيْطَانِ ٱلرَّجِيمِ",
+          "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَانِ ٱلرَّحِيمِ",
+          "sample": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَالَمِينَ"
+        }
+      ]
+    },
+    {
+      "id": "qalam-nastaleeq-wbw",
+      "title": "Qalam Nastaleeq WBW",
+      "riwayah": "Hafs",
+      "dataFileName": "hafs_nastaleeq.json.br",
+      "dataJsonBr": "/hafs_nastaleeq.json.br",
+      "fonts": [
+        {
+          "id": "nastaleeq-wbw",
+          "name": "Nastaleeq WBW",
+          "file": "hafs_nastaleeq_wbw.woff2",
+          "url": "/hafs_nastaleeq_wbw.woff2",
+          "fontFamily": "'Nastaleeq WBW'",
+          "fontClass": "font-nastaleeq-wbw",
+          "taawwuz": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّیْطٰنِ الرَّجِیْمِ",
+          "bismillah": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ",
+          "sample": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِیْنَ ؕ"
+        },
+        {
+          "id": "nastaleeq-neo",
+          "name": "Nastaleeq Neo",
+          "file": "hafs_nastaleeq_neo.woff2",
+          "url": "/hafs_nastaleeq_neo.woff2",
+          "fontFamily": "'Nastaleeq Neo'",
+          "fontClass": "font-nastaleeq-neo",
+          "taawwuz": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّیْطٰنِ الرَّجِیْمِ",
+          "bismillah": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ",
+          "sample": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِیْنَ ؕ"
+        }
+      ]
+    },
+    {
+      "id": "quran-complex-uthmani",
+      "title": "Quran Complex Uthmani",
+      "riwayah": "Hafs",
+      "dataFileName": "hafs_qpc_uthmani.json.br",
+      "dataJsonBr": "/hafs_qpc_uthmani.json.br",
+      "fonts": [
+        {
+          "id": "qpc-uthmani-neo",
+          "name": "QPC Uthmani Neo",
+          "file": "hafs_qpc_uthmani_neo.woff2",
+          "url": "/hafs_qpc_uthmani_neo.woff2",
+          "fontFamily": "'QPC Uthmani Neo'",
+          "fontClass": "font-qpc-neo",
+          "taawwuz": "أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ",
+          "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+          "sample": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ"
+        },
+        {
+          "id": "qpc-uthmani-neo-bold",
+          "name": "QPC Uthmani Neo Bold",
+          "file": "hafs_qpc_uthmani_neo_bold.woff2",
+          "url": "/hafs_qpc_uthmani_neo_bold.woff2",
+          "fontFamily": "'QPC Uthmani Neo Bold'",
+          "fontClass": "font-qpc-neo-bold",
+          "taawwuz": "أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ",
+          "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+          "sample": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+          "weight": "bold"
+        },
+        {
+          "id": "qpc-uthmani-v1",
+          "name": "QPC Uthmani V1",
+          "file": "hafs_qpc_uthmani_v1.woff2",
+          "url": "/hafs_qpc_uthmani_v1.woff2",
+          "fontFamily": "'QPC Uthmani V1'",
+          "fontClass": "font-qpc-v1",
+          "taawwuz": "أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ",
+          "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+          "sample": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ"
+        },
+        {
+          "id": "qpc-uthmani-v2",
+          "name": "QPC Uthmani V2",
+          "file": "hafs_qpc_uthmani_v2.woff2",
+          "url": "/hafs_qpc_uthmani_v2.woff2",
+          "fontFamily": "'QPC Uthmani V2'",
+          "fontClass": "font-qpc-v2",
+          "taawwuz": "أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ",
+          "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+          "sample": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ"
+        }
+      ]
+    },
+    {
+      "id": "indopak-digital-nastaleeq",
+      "title": "Indopak Digital Nastaleeq",
+      "riwayah": "Hafs",
+      "dataFileName": "hafs_indopak_digital.json.br",
+      "dataJsonBr": "/hafs_indopak_digital.json.br",
+      "fonts": [
+        {
+          "id": "indopak-digital",
+          "name": "Indopak Digital",
+          "file": "hafs_indopak_digital.woff2",
+          "url": "/hafs_indopak_digital.woff2",
+          "fontFamily": "'Indopak Digital'",
+          "fontClass": "font-indopak-digital",
+          "taawwuz": "اَعُوْذُ بِاللّٰهِ مِنَ الشَّیْطٰنِ الرَّجِیْمِ",
+          "bismillah": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ",
+          "sample": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِیْنَ ؕ"
+        }
+      ]
+    },
+    {
+      "id": "isep-misbah-naskh",
+      "title": "ISEP Misbah Naskh",
+      "riwayah": "Hafs",
+      "dataFileName": "hafs_isep_misbah.json.br",
+      "dataJsonBr": "/hafs_isep_misbah.json.br",
+      "fonts": [
+        {
+          "id": "isep-misbah",
+          "name": "ISEP Misbah",
+          "file": "hafs_isep_misbah.woff2",
+          "url": "/hafs_isep_misbah.woff2",
+          "fontFamily": "'ISEP Misbah'",
+          "fontClass": "font-isep-misbah",
+          "taawwuz": "أَعُوذُ بِٱللَّهِ مِنَ ٱلشَّيْطَانِ ٱلرَّجِيمِ",
+          "bismillah": "بِسْمِ ٱللَّهِ ٱلرَّحْمَانِ ٱلرَّحِيمِ",
+          "sample": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَالَمِينَ"
+        }
+      ]
+    }
+  ]
+}
